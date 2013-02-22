@@ -1,0 +1,30 @@
+timestamps:
+  login: 1359991400123
+  logout: 1359992079839
+  lastteleport: 1359991761262
+ipAddress: 71.46.69.91
+lastlocation:
+  world: world
+  x: 813.0044261027607
+  y: 18.0
+  z: 1465.9836142954896
+  yaw: -330.3462
+  pitch: 14.999992
+afk: false
+homes:
+  home:
+    world: world
+    x: 774.6999999880791
+    y: 69.0
+    z: 1543.6615433670856
+    yaw: -13.995575
+    pitch: 25.800003
+  arena:
+    world: world
+    x: 733.6999999880791
+    y: 63.0
+    z: 1416.300000011921
+    yaw: 188.65547
+    pitch: 25.350002
+money: 453.90424216756105
+nickname: Tyler

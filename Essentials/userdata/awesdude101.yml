@@ -1,0 +1,28 @@
+timestamps:
+  login: 1359917270307
+  lastteleport: 1359917558714
+  logout: 1359917674853
+ipAddress: 99.98.193.107
+lastlocation:
+  world: world
+  x: 624.6451499379672
+  y: 63.0
+  z: 365.6706727625182
+  yaw: 351.5642
+  pitch: -8.914473
+homes:
+  home:
+    world: world
+    x: 951.8506669653183
+    y: 55.0
+    z: 89.71860396955175
+    yaw: -261.23462
+    pitch: 22.700544
+  awesdude101:
+    world: world
+    x: 968.9218226181002
+    y: 60.0
+    z: 76.20459070812413
+    yaw: 183.9654
+    pitch: 17.999989
+money: 3072.470270339592

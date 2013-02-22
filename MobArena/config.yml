@@ -1,0 +1,229 @@
+# MobArena v0.94.4.94 - Config-file
+# Read the Wiki for details on how to set up this file: http://goo.gl/F5TTc
+# Note: You -must- use spaces instead of tabs!
+global-settings:
+    enabled: true
+    allowed-commands: /list, /pl
+    update-notification: true
+classes:
+    Knight:
+        items: diamond_sword, potion:8197:3
+        armor: 306,307,308,309
+    Tank:
+        items: iron_sword, potion:8229:2
+        armor: 310,311,312,313
+    Archer:
+        items: wood_sword, bow, arrow:256, potion:8197:3, bone
+        armor: 298,299,300,301
+    Chemist:
+        items: stone_sword, potion:16428:30, potion:16388:8, potion:16389:20, potion:8197:3, potion:8226:1
+        armor: 314,315,316,317
+    Oddjob:
+        items: stone_sword, flint_and_steel, netherrack:2, tnt:4, potion:8197:3
+        armor: 298,299,300,301
+arenas:
+    default:
+        settings:
+            world: world
+            enabled: true
+            protect: true
+            logging: true
+            entry-fee: ''
+            clear-wave-before-next: true
+            clear-boss-before-next: true
+            lightning: true
+            auto-equip-armor: true
+            soft-restore: false
+            soft-restore-drops: false
+            require-empty-inv-join: false
+            require-empty-inv-spec: false
+            hellhounds: true
+            pvp-enabled: false
+            monster-infight: true
+            allow-teleporting: false
+            spectate-on-death: true
+            auto-respawn: true
+            share-items-in-arena: true
+            min-players: 0
+            max-players: 0
+            max-join-distance: 0
+            first-wave-delay: 5
+            wave-interval: 15
+            final-wave: 30
+            monster-limit: 100
+            monster-exp: true
+            keep-exp: true
+            food-regen: false
+            lock-food-level: true
+            spout-class-select: false
+            player-time-in-arena: world
+            auto-ignite-tnt: false
+            auto-start-timer: 0
+        waves:
+            recurrent:
+                def1:
+                    type: default
+                    priority: 1
+                    frequency: 1
+                    monsters:
+                        zombies: 10
+                        skeletons: 10
+                        spiders: 10
+                        creepers: 10
+                        wolves: 10
+                spec1:
+                    type: special
+                    priority: 2
+                    frequency: 4
+                    monsters:
+                        endermen: 10
+                        powered-creepers: 10
+                        zombie-pigmen: 10
+                        angry-wolves: 10
+                        blazes: 10
+            single:
+                swarm1:
+                    type: swarm
+                    wave: 6
+                    monster: slime
+                    amount: low
+                boss1:
+                    type: boss
+                    wave: 10
+                    monster: cave_spider
+                    health: high
+                    abilities: arrows, root-target, throw-nearby
+        rewards:
+            waves:
+                every:
+                    '3': feather, bone, stick
+                    '5': dirt:4, gravel:4, stone:4
+                    '10': iron_ingot:10, gold_ingot:8
+                after:
+                    '7': minecart, storage_minecart, powered_minecart
+                    '13': iron_sword, iron_pickaxe, iron_spade
+                    '16': diamond_sword
+        class-limits:
+            Archer: -1
+            Oddjob: -1
+            Chemist: -1
+            Tank: -1
+            Knight: -1
+        coords:
+            p1: 912,9,-2105,-95.25197,90.0
+            p2: 1070,136,-2020,179.39798,90.0
+            lobby: 926,64,-2052,95.6981,1.5000243
+            spectator: 946,65,-2057,267.4487,1.500047
+            arena: 1025,65,-2067,94.34878,6.4500766
+            spawnpoints:
+                s1: 960,64,-2041,73.64884,3.9000778
+                s2: 961,64,-2056,181.94887,6.9000793
+                s3: 961,64,-2073,181.94887,6.9000793
+                s4: 953,64,-2095,181.94887,6.9000793
+                s5: 984,64,-2087,321.14883,23.850073
+                s6: 988,64,-2040,8.248657,29.70005
+                s7: 1014,64,-2037,231.89914,66.750084
+                s8: 1034,76,-2029,278.09903,48.450092
+                s9: 1062,64,-2034,256.19928,50.100098
+                s10: 1061,64,-2064,174.89925,30.000107
+                s11: 1056,64,-2091,166.64928,29.550108
+                s12: 1031,64,-2096,99.44928,14.5501
+                s13: 997,64,-2095,98.24932,33.150093
+    wool:
+        settings:
+            world: arena
+            enabled: true
+            protect: true
+            logging: true
+            entry-fee: ''
+            clear-wave-before-next: false
+            clear-boss-before-next: false
+            lightning: true
+            auto-equip-armor: true
+            soft-restore: false
+            soft-restore-drops: false
+            require-empty-inv-join: false
+            require-empty-inv-spec: false
+            hellhounds: false
+            pvp-enabled: false
+            monster-infight: false
+            allow-teleporting: false
+            spectate-on-death: true
+            auto-respawn: true
+            share-items-in-arena: true
+            min-players: 0
+            max-players: 0
+            max-join-distance: 0
+            first-wave-delay: 5
+            wave-interval: 15
+            final-wave: 0
+            monster-limit: 100
+            monster-exp: false
+            keep-exp: true
+            food-regen: false
+            lock-food-level: true
+            spout-class-select: false
+            player-time-in-arena: world
+            auto-ignite-tnt: false
+            auto-start-timer: 0
+        waves:
+            recurrent:
+                def1:
+                    type: default
+                    priority: 1
+                    frequency: 1
+                    monsters:
+                        zombies: 10
+                        skeletons: 10
+                        spiders: 10
+                        creepers: 10
+                        wolves: 10
+                spec1:
+                    type: special
+                    priority: 2
+                    frequency: 4
+                    monsters:
+                        powered-creepers: 10
+                        zombie-pigmen: 10
+                        angry-wolves: 10
+                        blazes: 10
+            single:
+                swarm1:
+                    type: swarm
+                    wave: 6
+                    monster: slime
+                    amount: low
+                boss1:
+                    type: boss
+                    wave: 10
+                    monster: cave_spider
+                    health: high
+                    abilities: arrows, root-target, throw-nearby
+        rewards:
+            waves:
+                every:
+                    '3': feather, bone, stick
+                    '5': dirt:4, gravel:4, stone:4
+                    '10': iron_ingot:10, gold_ingot:8
+                after:
+                    '7': minecart, storage_minecart, powered_minecart
+                    '13': iron_sword, iron_pickaxe, iron_spade
+                    '16': diamond_sword
+        class-limits:
+            Archer: -1
+            Oddjob: -1
+            Chemist: -1
+            Tank: -1
+            Knight: -1
+        coords:
+            p1: 69,31,-45,57.209534,81.89995
+            p2: 116,72,6,48.359497,88.04988
+            spectator: 96,49,-29,-0.2991333,47.84994
+            lobby: 110,62,-35,357.50995,-4.950012
+            arena: 93,33,-14,0.51000977,90.0
+            spawnpoints:
+                w1: 103,32,-14,90.36017,13.350005
+                w2: 93,32,-23,359.01038,16.199997
+                w3: 83,32,-14,267.6599,21.449982
+                w4: 93,32,-4,176.15894,7.499979
+            leaderboard: 108,64,-44,0.0,0.0

@@ -1,0 +1,25 @@
+timestamps:
+  login: 1357348530399
+  lastteleport: 1357348714560
+  logout: 1357350076612
+  mute: 0
+ipAddress: 75.172.233.195
+afk: false
+lastlocation:
+  world: realm
+  x: 1760.96944197317
+  y: 68.0
+  z: 66.10293890811174
+  yaw: -177.28333
+  pitch: 90.0
+homes:
+  home:
+    world: realm
+    x: 1760.6410575360455
+    y: 68.0
+    z: 65.54478102251711
+    yaw: 348.91644
+    pitch: 20.099892
+muted: false
+nickname: §0Mr§fTrololo
+money: 40244.77880287474

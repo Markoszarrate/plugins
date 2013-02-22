@@ -1,0 +1,21 @@
+lastlocation:
+  world: Pern
+  x: 346.695775172018
+  y: 63.0
+  z: 30.11603203947129
+  yaw: -319.02444
+  pitch: 5.399996
+timestamps:
+  login: 1346524766559
+  logout: 1346525132658
+  lastteleport: 1346522208197
+ipAddress: 24.108.130.106
+homes:
+  home:
+    world: Pern
+    x: 345.96005257252057
+    y: 63.0
+    z: 31.01486178015898
+    yaw: -282.57404
+    pitch: 71.4
+money: 1500.0

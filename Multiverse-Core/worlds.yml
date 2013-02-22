@@ -1,0 +1,286 @@
+worlds:
+  world:
+    seed: -491218957
+    environment: NORMAL
+    type: NORMAL
+    hidden: false
+    alias:
+      name: Aero
+      color: WHITE
+    pvp: true
+    scale: 1.0
+    respawnworld: ''
+    allowweather: true
+    difficulty: EASY
+    animals:
+      spawn: true
+    monsters:
+      spawn: true
+    entryfee:
+      currency: -1
+      price: 0.0
+    hunger: true
+    autoheal: true
+    adjustspawn: true
+    portalform: ALL
+    gamemode: SURVIVAL
+    keepspawninmemory: true
+    spawn:
+      x: 1301.0
+      y: 97.0
+      z: 610.0
+      pitch: 0.0
+      yaw: 0.0
+      world: world
+    autoload: true
+    bedrespawn: true
+  world_nether:
+    seed: -491218957
+    environment: NETHER
+    type: NORMAL
+    hidden: false
+    alias:
+      name: ''
+      color: WHITE
+    pvp: true
+    scale: 8.0
+    respawnworld: ''
+    allowweather: true
+    difficulty: EASY
+    animals:
+      spawn: true
+    monsters:
+      spawn: true
+    entryfee:
+      currency: -1
+      price: 0.0
+    hunger: true
+    autoheal: true
+    adjustspawn: true
+    portalform: ALL
+    gamemode: SURVIVAL
+    keepspawninmemory: true
+    spawn:
+      x: -9.5
+      y: 66.0
+      z: -1.5
+      pitch: 0.0
+      yaw: 0.0
+      world: world_nether
+    autoload: true
+    bedrespawn: true
+  world_the_end:
+    seed: -491218957
+    environment: THE_END
+    type: NORMAL
+    hidden: false
+    alias:
+      name: ''
+      color: WHITE
+    pvp: true
+    scale: 1.0
+    respawnworld: ''
+    allowweather: true
+    difficulty: EASY
+    animals:
+      spawn: true
+    monsters:
+      spawn: true
+    entryfee:
+      currency: -1
+      price: 0.0
+    hunger: true
+    autoheal: true
+    adjustspawn: true
+    portalform: ALL
+    gamemode: SURVIVAL
+    keepspawninmemory: true
+    spawn:
+      x: 2.5
+      y: 62.0
+      z: 0.5
+      pitch: 0.0
+      yaw: 0.0
+      world: world_the_end
+    autoload: true
+    bedrespawn: true
+  realm:
+    generator: Nordic
+    seed: -1293552798
+    environment: NORMAL
+    type: NORMAL
+    hidden: false
+    alias:
+      name: Amaltheia
+      color: WHITE
+    pvp: true
+    scale: 1.0
+    respawnworld: ''
+    allowweather: true
+    difficulty: EASY
+    animals:
+      spawn: true
+    monsters:
+      spawn: true
+    entryfee:
+      currency: -1
+      price: 0.0
+    hunger: true
+    autoheal: true
+    adjustspawn: true
+    portalform: ALL
+    gamemode: SURVIVAL
+    keepspawninmemory: true
+    spawn:
+      x: 1636.5
+      y: 68.0
+      z: -917.5
+      pitch: 0.0
+      yaw: 0.0
+      world: realm
+    autoload: true
+    bedrespawn: true
+  Archive:
+    generator: CleanroomGenerator:60,stone,1,grass
+    seed: -4654017168672859490
+    environment: NORMAL
+    type: NORMAL
+    hidden: false
+    alias:
+      name: ''
+      color: WHITE
+    pvp: true
+    scale: 1.0
+    respawnworld: ''
+    allowweather: true
+    difficulty: EASY
+    animals:
+      spawn: false
+    monsters:
+      spawn: false
+    entryfee:
+      currency: -1
+      price: 0.0
+    hunger: true
+    autoheal: true
+    adjustspawn: true
+    portalform: ALL
+    gamemode: SURVIVAL
+    keepspawninmemory: true
+    spawn:
+      x: 0.0
+      y: 62.0
+      z: 0.0
+      pitch: 0.0
+      yaw: 0.0
+      world: Archive
+    autoload: true
+    bedrespawn: true
+  Ellesmera:
+    generator: TerrainControl
+    seed: 6710768802477716586
+    environment: NORMAL
+    type: NORMAL
+    hidden: false
+    alias:
+      name: ''
+      color: WHITE
+    pvp: true
+    scale: 1.0
+    respawnworld: ''
+    allowweather: true
+    difficulty: EASY
+    animals:
+      spawn: true
+    monsters:
+      spawn: true
+    entryfee:
+      currency: -1
+      price: 0.0
+    hunger: true
+    autoheal: true
+    adjustspawn: true
+    portalform: ALL
+    gamemode: SURVIVAL
+    keepspawninmemory: true
+    spawn:
+      x: -649.5
+      y: 64.0
+      z: -584.5
+      pitch: 0.0
+      yaw: 0.0
+      world: Ellesmera
+    autoload: true
+    bedrespawn: true
+  arena:
+    generator: CleanroomGenerator:10,stone,20,dirt,1,grass
+    seed: 1023393856952242801
+    environment: NORMAL
+    type: NORMAL
+    hidden: false
+    alias:
+      name: ''
+      color: WHITE
+    pvp: true
+    scale: 1.0
+    respawnworld: ''
+    allowweather: true
+    difficulty: EASY
+    animals:
+      spawn: false
+    monsters:
+      spawn: false
+    entryfee:
+      currency: -1
+      price: 0.0
+    hunger: true
+    autoheal: true
+    adjustspawn: true
+    portalform: ALL
+    gamemode: SURVIVAL
+    keepspawninmemory: true
+    spawn:
+      x: -0.5
+      y: 32.0
+      z: -1.5
+      pitch: 0.0
+      yaw: 0.0
+      world: arena
+    autoload: true
+    bedrespawn: true
+  skyworld:
+    generator: uSkyBlock
+    seed: 4702853648677194963
+    environment: NORMAL
+    type: FLAT
+    hidden: false
+    alias:
+      name: ''
+      color: WHITE
+    pvp: true
+    scale: 1.0
+    respawnworld: ''
+    allowweather: true
+    difficulty: EASY
+    animals:
+      spawn: true
+    monsters:
+      spawn: true
+    entryfee:
+      currency: -1
+      price: 0.0
+    hunger: true
+    autoheal: true
+    adjustspawn: true
+    portalform: ALL
+    gamemode: SURVIVAL
+    keepspawninmemory: true
+    spawn:
+      x: 845.0
+      y: 4.0
+      z: -389.0
+      pitch: 0.0
+      yaw: 0.0
+      world: skyworld
+    autoload: true
+    bedrespawn: true

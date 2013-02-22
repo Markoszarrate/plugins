@@ -1,0 +1,20 @@
+timestamps:
+  login: 1353846286663
+  logout: 1353846106495
+ipAddress: 77.250.74.84
+lastlocation:
+  world: Pern
+  x: 219.97829128553425
+  y: 71.0
+  z: 245.72678692642646
+  yaw: 159.32745
+  pitch: 14.700014
+homes:
+  home:
+    world: Notra
+    x: 1639.3820229079352
+    y: 34.0
+    z: 593.9757911638235
+    yaw: 358.9649
+    pitch: -31.500008
+money: 1500.0

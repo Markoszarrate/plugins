@@ -1,0 +1,24 @@
+timestamps:
+  login: 1355542422169
+  logout: 1355542837551
+  lastteleport: 1355542837086
+ipAddress: 96.241.211.57
+lastlocation:
+  world: world
+  x: 235.7461957622224
+  y: 152.0
+  z: 327.5264716724776
+  yaw: 246.76384
+  pitch: 12.523131
+homes:
+  home:
+    world: Pern
+    x: 191.4584078949089
+    y: 67.76636799395752
+    z: 703.4564953536703
+    yaw: -212.95174
+    pitch: 77.68737
+ban:
+  reason: 'Banned: griefa of the megamew house'
+money: 1500.0
+afk: false

@@ -1,0 +1,184 @@
+worlds:
+-   name: world
+    title: world
+    enabled: true
+    extrazoomout: 2
+    maps:
+    -   class: org.dynmap.hdmap.HDMap
+        name: surface
+        title: Surface
+        prefix: t
+        perspective: iso_SE_60_vlowres
+        shader: stdtexture
+        lighting: shadows
+        image-format: default
+        mapzoomin: 2
+        append_to_world: ''
+        protected: false
+    protected: false
+    sendposition: true
+    sendhealth: true
+    bigworld: false
+    visibilitylimits: [
+        ]
+    hiddenlimits: [
+        ]
+    autogenerate-to-visibilitylimits: none
+    hidestyle: stone
+-   name: world_nether
+    title: world_nether
+    enabled: true
+    extrazoomout: 2
+    maps:
+    -   class: org.dynmap.hdmap.HDMap
+        name: nether
+        title: Surface
+        prefix: nt
+        perspective: iso_SE_60_vlowres
+        shader: stdtexture
+        lighting: nethershadows
+        image-format: default
+        mapzoomin: 2
+        background: '#300806'
+        append_to_world: ''
+        protected: false
+    protected: false
+    sendposition: true
+    sendhealth: true
+    bigworld: false
+    visibilitylimits: [
+        ]
+    hiddenlimits: [
+        ]
+    autogenerate-to-visibilitylimits: none
+    hidestyle: stone
+-   name: world_the_end
+    title: world_the_end
+    enabled: true
+    extrazoomout: 2
+    maps:
+    -   class: org.dynmap.hdmap.HDMap
+        name: the_end
+        title: Surface
+        prefix: st
+        perspective: iso_SE_60_vlowres
+        shader: stdtexture
+        lighting: brightnight
+        image-format: default
+        mapzoomin: 2
+        append_to_world: ''
+        protected: false
+    protected: false
+    sendposition: true
+    sendhealth: true
+    bigworld: false
+    visibilitylimits: [
+        ]
+    hiddenlimits: [
+        ]
+    autogenerate-to-visibilitylimits: none
+    hidestyle: stone
+-   name: realm
+    title: realm
+    enabled: true
+    extrazoomout: 2
+    maps:
+    -   class: org.dynmap.hdmap.HDMap
+        name: surface
+        title: Surface
+        prefix: t
+        perspective: iso_SE_60_vlowres
+        shader: stdtexture
+        lighting: shadows
+        image-format: default
+        mapzoomin: 2
+        append_to_world: ''
+        protected: false
+    protected: false
+    sendposition: true
+    sendhealth: true
+    bigworld: false
+    visibilitylimits: [
+        ]
+    hiddenlimits: [
+        ]
+    autogenerate-to-visibilitylimits: none
+    hidestyle: stone
+-   name: Archive
+    title: Archive
+    enabled: true
+    extrazoomout: 2
+    maps:
+    -   class: org.dynmap.hdmap.HDMap
+        name: surface
+        title: Surface
+        prefix: t
+        perspective: iso_SE_60_vlowres
+        shader: stdtexture
+        lighting: shadows
+        image-format: default
+        mapzoomin: 2
+        append_to_world: ''
+        protected: false
+    protected: false
+    sendposition: true
+    sendhealth: true
+    bigworld: false
+    visibilitylimits: [
+        ]
+    hiddenlimits: [
+        ]
+    autogenerate-to-visibilitylimits: none
+    hidestyle: stone
+-   name: Ellesmera
+    title: Ellesmera
+    enabled: true
+    extrazoomout: 2
+    maps:
+    -   class: org.dynmap.hdmap.HDMap
+        name: surface
+        title: Surface
+        prefix: t
+        perspective: iso_SE_60_vlowres
+        shader: stdtexture
+        lighting: shadows
+        image-format: default
+        mapzoomin: 2
+        append_to_world: ''
+        protected: false
+    protected: false
+    sendposition: true
+    sendhealth: true
+    bigworld: false
+    visibilitylimits: [
+        ]
+    hiddenlimits: [
+        ]
+    autogenerate-to-visibilitylimits: none
+    hidestyle: stone
+-   name: arena
+    title: arena
+    enabled: true
+    protected: false
+    sendposition: true
+    sendhealth: true
+    bigworld: false
+    extrazoomout: 2
+    visibilitylimits: [
+        ]
+    hiddenlimits: [
+        ]
+    autogenerate-to-visibilitylimits: none
+    hidestyle: stone
+    maps:
+    -   class: org.dynmap.hdmap.HDMap
+        name: surface
+        title: Surface
+        prefix: t
+        perspective: iso_SE_60_vlowres
+        shader: stdtexture
+        lighting: shadows
+        image-format: default
+        mapzoomin: 2
+        append_to_world: ''
+        protected: false

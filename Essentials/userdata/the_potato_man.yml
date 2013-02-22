@@ -1,0 +1,25 @@
+timestamps:
+  login: 1346685089461
+  lastteleport: 1346684974745
+  logout: 1346685667457
+ipAddress: 31.53.26.126
+lastlocation:
+  world: SkyBlockMultiplayer
+  x: 51.03503774147877
+  y: 63.0
+  z: -200.31409240978067
+  yaw: -46.62744
+  pitch: 17.989056
+nickname: §aT§bh§ce_§dP§eo§at§ba§ct§do_§eM§aa§bn
+afk: false
+homes:
+  home:
+    world: Pern
+    x: 158.76362363769556
+    y: 71.0
+    z: 626.1397403991377
+    yaw: -178.81183
+    pitch: 9.314549
+ban:
+  reason: 'Banned: pot'
+money: 1312.5

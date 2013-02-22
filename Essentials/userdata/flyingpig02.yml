@@ -1,0 +1,162 @@
+timestamps:
+  login: 1361414671461
+  logout: 1361415613014
+  lastteleport: 1361414675455
+  mute: 0
+  jail: 0
+ipAddress: 71.80.219.81
+lastlocation:
+  world: arena
+  x: 665.3000000119209
+  y: 32.0
+  z: -1258.9379042360158
+  yaw: 29.253109
+  pitch: 20.699986
+money: 198087.11807654786
+homes:
+  home2:
+    world: world
+    x: 798.6999999880791
+    y: 65.0
+    z: 1533.8779925749504
+    yaw: -88.61951
+    pitch: 11.400002
+  spawner:
+    world: world
+    x: 955.6999999880791
+    y: 12.0
+    z: -320.69999998807907
+    yaw: 6.3120594
+    pitch: 19.950003
+  cobble:
+    world: world
+    x: 736.3636311102046
+    y: 117.0
+    z: 1448.1732207107686
+    yaw: 177.30219
+    pitch: 4.9499493
+  farm:
+    world: world
+    x: 964.1890274796227
+    y: 64.0
+    z: 247.86577500257073
+    yaw: -2.2501504
+    pitch: 14.400021
+  house:
+    world: world
+    x: 787.3542816367684
+    y: 76.0
+    z: -362.17164508871184
+    yaw: -84.84558
+    pitch: 5.549998
+  market:
+    world: world
+    x: -566.3616535107502
+    y: 71.0
+    z: 309.69999998807907
+    yaw: -182.5493
+    pitch: 5.5499854
+  nether:
+    world: world_nether
+    x: 82.69999998807907
+    y: 59.0
+    z: 176.69999998807907
+    yaw: 178.48041
+    pitch: 3.749977
+  forest:
+    world: world
+    x: -330.66488630132284
+    y: 70.0
+    z: 612.4963083247997
+    yaw: 92.397316
+    pitch: 2.8499901
+  underwater:
+    world: world
+    x: 775.2807101822239
+    y: 50.0
+    z: 117.69999998807907
+    yaw: -121.94998
+    pitch: -5.8499923
+  mine:
+    world: world
+    x: 301.16692692228986
+    y: 16.0
+    z: 193.1442071152267
+    yaw: 89.69875
+    pitch: 1.1999953
+  end:
+    world: world_the_end
+    x: 0.001125004753064679
+    y: 62.0
+    z: -13.53995464470829
+    yaw: -90.900055
+    pitch: -7.6500034
+  home3:
+    world: world
+    x: 155.02643504149012
+    y: 64.0
+    z: 222.29213663560284
+    yaw: -93.00273
+    pitch: 5.9999733
+  darkattack:
+    world: world
+    x: -267.30000001192093
+    y: 72.0
+    z: 561.7036930409973
+    yaw: -89.75575
+    pitch: 5.249994
+  dark:
+    world: world
+    x: -204.66444778615895
+    y: 65.0
+    z: 618.3714337562388
+    yaw: 188.75996
+    pitch: 7.3500075
+  dungeon:
+    world: Dungeon
+    x: -501.1478244984362
+    y: 22.0
+    z: -122.0151907189186
+    yaw: 126.024994
+    pitch: 34.05003
+  survivalisland:
+    world: world
+    x: -1909.7605641723403
+    y: 67.0
+    z: -1046.4080081040208
+    yaw: 1.1977234
+    pitch: -4.0500245
+  home:
+    world: world
+    x: 152.1765043214321
+    y: 64.0
+    z: 222.1493673666183
+    yaw: -87.29883
+    pitch: -4.950019
+  home4:
+    world: Pern
+    x: 113.03978193220875
+    y: 64.0
+    z: 581.3512141786388
+    yaw: -358.02612
+    pitch: 2.6999938
+  parkour:
+    world: world
+    x: 1131.5288505985036
+    y: 110.0
+    z: 556.5609106564804
+    yaw: -268.938
+    pitch: 33.010475
+  cowfarm:
+    world: world
+    x: 461.56413600886947
+    y: 63.0
+    z: 274.6245290245614
+    yaw: -166.06616
+    pitch: 48.4133
+muted: false
+afk: false
+ban:
+  reason: 'Banned: Monkey doesn''t want you in here as well'
+  timeout: 0
+jailed: false

@@ -1,0 +1,52 @@
+timestamps:
+  login: 1343591667111
+  lastteleport: 1342918781506
+  logout: 1343361508876
+  mute: 0
+ipAddress: 99.14.109.206
+homes:
+  home:
+    world: world
+    x: 777.688784437993
+    y: 64.0
+    z: 1544.699999988079
+    yaw: 98.90427
+    pitch: 41.462013
+  fort:
+    world: world
+    x: -565.8602088399781
+    y: 64.0
+    z: 725.2225227700768
+    yaw: -267.95508
+    pitch: -6.0000005
+  magic:
+    world: world
+    x: 797.5894080305541
+    y: 71.0
+    z: 1552.9885332157064
+    yaw: -274.80002
+    pitch: 16.200008
+  flysroof:
+    world: world
+    x: 790.3581688472225
+    y: 80.0
+    z: 1534.289712518501
+    yaw: -30.150024
+    pitch: 29.550009
+  flyshouse:
+    world: world
+    x: 797.0941608642137
+    y: 71.0
+    z: 1534.7528258306577
+    yaw: 270.5999
+    pitch: 24.299994
+lastlocation:
+  world: world
+  x: -555.3175415530163
+  y: 76.0
+  z: 293.6485741673191
+  yaw: -78.84573
+  pitch: -2.0380018
+money: 84531.51045371391
+afk: false
+muted: false

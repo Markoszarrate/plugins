@@ -1,0 +1,46 @@
+timestamps:
+  login: 1357265381179
+  logout: 1357267169182
+  lastteleport: 1357266791526
+  mute: 0
+ipAddress: 74.197.204.253
+lastlocation:
+  world: realm
+  x: 4028.699999988079
+  y: 72.0
+  z: -4084.7664096141693
+  yaw: -4.1208496
+  pitch: 11.029974
+homes:
+  home:
+    world: world
+    x: 216.69525854719882
+    y: 66.0
+    z: 259.11744103588785
+    yaw: -286.20166
+    pitch: 10.007668
+  '2':
+    world: world
+    x: 730.8999726737816
+    y: 70.0
+    z: -707.666297374814
+    yaw: -73.350006
+    pitch: 42.45
+  '3':
+    world: world_the_end
+    x: 22.15865566967273
+    y: 63.0
+    z: -12.34810440077905
+    yaw: -307.19977
+    pitch: 22.949976
+  '1':
+    world: realm
+    x: 4027.652512597618
+    y: 72.0
+    z: -4083.396473302464
+    yaw: 138.83252
+    pitch: 33.749912
+afk: false
+nickname: §2GodOfWine
+muted: false
+money: 72618.33299057855

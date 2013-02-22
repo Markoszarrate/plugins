@@ -1,0 +1,177 @@
+{
+  "67": {
+    "relationWish": {
+      "65": "ALLY",
+      "68": "ALLY"
+    },
+    "claimOwnership": {},
+    "invites": [
+      "awsdefrg",
+      "landoncr4d",
+      "servercracker",
+      "bobmarker",
+      "zombiefart123456",
+      "looptyloo123"
+    ],
+    "open": true,
+    "peaceful": false,
+    "peacefulExplosionsEnabled": false,
+    "permanent": true,
+    "tag": "Avalon",
+    "description": "The Avalon Guard",
+    "home": {
+      "world": "realm",
+      "x": 4022.524510354339,
+      "y": 65.0,
+      "z": -4026.4463368840825,
+      "yaw": -91.56836700439453,
+      "pitch": 74.70002746582031
+    },
+    "money": 0.0,
+    "powerBoost": 20.0
+  },
+  "69": {
+    "relationWish": {
+      "64": "ALLY",
+      "68": "ALLY"
+    },
+    "claimOwnership": {},
+    "invites": [
+      "str4tic",
+      "mrtwister22"
+    ],
+    "open": false,
+    "peaceful": false,
+    "peacefulExplosionsEnabled": false,
+    "permanent": false,
+    "tag": "Styx",
+    "description": "The Long Arm of the Law",
+    "home": {
+      "world": "world",
+      "x": 1110.6085528436963,
+      "y": 65.0,
+      "z": 163.46967155009486,
+      "yaw": -90.0625,
+      "pitch": 9.599931716918945
+    },
+    "money": 0.0,
+    "powerBoost": 20.0
+  },
+  "0": {
+    "relationWish": {},
+    "claimOwnership": {},
+    "invites": [],
+    "open": false,
+    "peaceful": false,
+    "peacefulExplosionsEnabled": false,
+    "permanent": false,
+    "tag": "§2Wilderness",
+    "description": "",
+    "money": 0.0,
+    "powerBoost": 0.0
+  },
+  "68": {
+    "relationWish": {
+      "69": "ALLY",
+      "67": "ENEMY"
+    },
+    "claimOwnership": {},
+    "invites": [
+      "mropod",
+      "mrtwister22",
+      "deathstar9000"
+    ],
+    "open": false,
+    "peaceful": false,
+    "peacefulExplosionsEnabled": false,
+    "permanent": false,
+    "tag": "bamfsburg",
+    "description": "BAMFS FO LIFE YO",
+    "money": 0.0,
+    "powerBoost": 0.0
+  },
+  "-2": {
+    "relationWish": {},
+    "claimOwnership": {},
+    "invites": [],
+    "open": false,
+    "peaceful": false,
+    "peacefulExplosionsEnabled": false,
+    "permanent": false,
+    "tag": "WarZone",
+    "description": "Not the safest place to be",
+    "money": 0.0,
+    "powerBoost": 0.0
+  },
+  "-1": {
+    "relationWish": {},
+    "claimOwnership": {},
+    "invites": [],
+    "open": false,
+    "peaceful": false,
+    "peacefulExplosionsEnabled": false,
+    "permanent": false,
+    "tag": "SafeZone",
+    "description": "Free from PVP and monsters",
+    "money": 0.0,
+    "powerBoost": 0.0
+  },
+  "64": {
+    "relationWish": {
+      "68": "ALLY",
+      "69": "ALLY"
+    },
+    "claimOwnership": {},
+    "invites": [
+      "49op",
+      "stickerslap",
+      "megaforce10",
+      "thewinded",
+      "wisepanda",
+      "bowserx101"
+    ],
+    "open": true,
+    "peaceful": false,
+    "peacefulExplosionsEnabled": false,
+    "permanent": true,
+    "tag": "Altmer",
+    "description": "Altmer Dominion",
+    "home": {
+      "world": "realm",
+      "x": 1654.540085886686,
+      "y": 71.0,
+      "z": 65.45222799488536,
+      "yaw": 181.06591796875,
+      "pitch": 28.350061416625977
+    },
+    "money": 0.0,
+    "powerBoost": 20.0
+  },
+  "65": {
+    "relationWish": {
+      "67": "ALLY",
+      "68": "ALLY"
+    },
+    "claimOwnership": {},
+    "invites": [
+      "bobmarker",
+      "predator_121"
+    ],
+    "open": true,
+    "peaceful": false,
+    "peacefulExplosionsEnabled": false,
+    "permanent": true,
+    "tag": "Elgar",
+    "description": "The Elgar Kingdom",
+    "home": {
+      "world": "realm",
+      "x": 1850.9192360539437,
+      "y": 63.0,
+      "z": -3328.132725599311,
+      "yaw": -359.9998779296875,
+      "pitch": 4.199987888336182
+    },
+    "money": 0.0,
+    "powerBoost": 20.0
+  }
+}

@@ -1,0 +1,17 @@
+arenalobby:689,33,-1230::1:0:180.0:689,35,-1229:small.gate:playground:arenalobby:monkeypuddles:false:true:false:arena:false:false:false:false:false:false
+playground:119,33,27::-1:0:0.0:119,35,26:small.gate:arenalobby:arenalobby:monkeypuddles:false:true:false:arena:false:true:false:false:false:false
+spawn6:846,33,-1222::0:1:270.0:845,35,-1222:small.gate:rulehelp:spawn:monkeypuddles:false:true:false:arena:false:true:false:false:false:false
+rulehelp:857,33,-1199::0:-1:90.0:858,35,-1199:small.gate:spawn6:spawn:monkeypuddles:false:true:false:arena:false:true:false:false:false:false
+spawn5:846,33,-1225::0:1:270.0:845,35,-1225:small.gate:commandhelp:spawn:monkeypuddles:false:true:false:arena:false:true:false:false:false:false
+commandhelp:857,40,-1199::0:-1:90.0:858,42,-1199:small.gate:spawn5:spawn:monkeypuddles:false:true:false:arena:false:true:false:false:false:false
+spawn7:846,33,-1219::0:1:270.0:845,35,-1219:small.gate:archive:spawn:monkeypuddles:false:true:false:arena:false:true:false:false:false:false
+spawn4:752,33,-1224::0:-1:90.0:753,35,-1224:small.gate:arenalobby:spawn:monkeypuddles:false:true:false:arena:false:true:false:false:false:false
+arenalobby:701,33,-1244::0:1:270.0:700,35,-1244:small.gate:spawn4:spawn:monkeypuddles:false:true:false:arena:false:true:false:false:false:false
+spawn8:798,33,-1270::1:0:180.0:798,35,-1269:small.gate:nether:spawn:monkeypuddles:false:true:false:arena:false:true:false:false:false:false
+spawn9:802,33,-1270::1:0:180.0:802,35,-1269:small.gate:end:spawn:monkeypuddles:false:true:false:arena:false:true:false:false:false:false
+spawn2:801,33,-1177::-1:0:0.0:801,35,-1178:small.gate:amaltheia:spawn:monkeypuddles:false:true:false:arena:false:true:false:false:false:false
+spawn:798,33,-1177::-1:0:0.0:798,35,-1178:small.gate:ellesmera:spawn:monkeypuddles:false:true:false:arena:false:true:false:false:false:false
+spawn3:795,33,-1177::-1:0:0.0:795,35,-1178:small.gate:aero:spawn:monkeypuddles:false:true:false:arena:false:true:false:false:false:false
+spawn10:846,37,-1222::0:1:270.0:845,39,-1222:small.gate:skyblock:spawn:monkeypuddles:false:true:false:arena:false:true:false:false:false:false
+skyblock:889,27,-1226::0:1:270.0:888,29,-1226:small.gate:spawn10:spawn:monkeypuddles:false:true:false:arena:false:true:false:false:false:false
+playground2:96,2,71::1:0:180.0:96,4,72:small.gate:playground:arenalobby:monkeypuddles:false:true:false:arena:false:true:false:false:false:false

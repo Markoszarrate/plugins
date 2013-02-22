@@ -1,0 +1,54 @@
+timestamps:
+  login: 1360527967830
+  lastteleport: 1360528328485
+  logout: 1360528527454
+  mute: 0
+  lastheal: 1360426938059
+  kits:
+    tools: 1354919018830
+ipAddress: 173.65.92.51
+money: 325268.52593188133
+homes:
+  neth:
+    world: world_nether
+    x: 31.858874012534905
+    y: 33.0
+    z: -1.70353345055759
+    yaw: -62.405025
+    pitch: 48.750015
+  ab:
+    world: Ellesmera
+    x: -1652.8964242721281
+    y: 65.0
+    z: -1628.1099543641042
+    yaw: 280.05112
+    pitch: -9.449992
+  fort:
+    world: world
+    x: 536.9302863428461
+    y: 68.0
+    z: 361.01482818876696
+    yaw: 325.2411
+    pitch: 32.539463
+  markos:
+    world: world
+    x: 300.43826595174266
+    y: 71.5
+    z: -44.71561497426447
+    yaw: -244.35507
+    pitch: 22.950005
+lastlocation:
+  world: world_nether
+  x: 37.49553245704847
+  y: 80.0
+  z: -10.861065409942583
+  yaw: 181.64453
+  pitch: 56.40001
+afk: false
+muted: false
+socialspy: true
+godmode: false
+nickname: §dBianca
+powertools:
+  '369':
+  - /paste

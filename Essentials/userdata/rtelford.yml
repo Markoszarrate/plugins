@@ -1,0 +1,26 @@
+timestamps:
+  login: 1359623998730
+  logout: 1359624258027
+  lastteleport: 1358470172051
+  mute: 0
+ipAddress: 203.219.235.64
+lastlocation:
+  world: world
+  x: 916.6999999880791
+  y: 63.0
+  z: 64.96564616638173
+  yaw: 138.22583
+  pitch: 26.699987
+muted: false
+money: 68676.49923707687
+afk: false
+homes:
+  home:
+    world: world
+    x: 1118.3281402213775
+    y: 190.0
+    z: 150.74700139292412
+    yaw: -268.49005
+    pitch: -8.249986
+ban:
+  reason: Pact agreement between classic and smp

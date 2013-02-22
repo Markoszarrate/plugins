@@ -1,0 +1,12 @@
+id=24
+owner=Markoszarrate
+title=I can't say cla.ss without getting a warning (without the period)
+world=world
+x=302.08043992685936
+y=77.0
+z=-39.0251365093023
+pitch=34.049973
+yaw=-12.152475
+assignee=*
+log=Markoszarrate: I got 3 warnings because of this glitch...
+log=Closed by BobMarker: Fixed

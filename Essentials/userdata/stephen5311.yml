@@ -1,0 +1,24 @@
+timestamps:
+  login: 1353555544224
+  lastteleport: 1353555559834
+  logout: 1353555623408
+  mute: 0
+ipAddress: 98.88.173.11
+lastlocation:
+  world: realm
+  x: 1669.699999988079
+  y: 82.5
+  z: 59.69999998807907
+  yaw: 353.2659
+  pitch: 10.200046
+homes:
+  home:
+    world: Altmer
+    x: -141.51539411863425
+    y: 71.0
+    z: 468.405163956997
+    yaw: -139.7951
+    pitch: 49.799995
+nickname: §1S§et§1e§ep§1h§ee§1n
+muted: true
+money: 1500.0

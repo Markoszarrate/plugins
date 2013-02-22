@@ -1,0 +1,21 @@
+lastlocation:
+  world: realm
+  x: 1633.9199248947848
+  y: 57.0230161915047
+  z: 89.1435381071934
+  yaw: -243.47998
+  pitch: 0.4470327
+timestamps:
+  login: 1353440588694
+  lastteleport: 1353441174914
+  logout: 1353441189909
+ipAddress: 72.74.170.134
+homes:
+  home:
+    world: Altmer
+    x: -262.5105500515444
+    y: 68.0
+    z: 576.1428121842052
+    yaw: -101.72864
+    pitch: 21.666628
+money: 1500.0

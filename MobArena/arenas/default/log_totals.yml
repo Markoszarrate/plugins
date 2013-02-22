@@ -1,0 +1,158 @@
+class-distribution:
+    archer: 2
+    oddjob: 2
+    chemist: 8
+    tank: 3
+    knight: 2
+players:
+    shreader226:
+        name: shreader226
+        classes:
+            chemist: 1
+        kills: 0
+        damage-done: 25
+        damage-taken: 15
+        swings: 41
+        hits: 5
+        games-played: 1
+        last-wave: 1
+        time-played: 00:00:24
+    Gboy1726:
+        name: Gboy1726
+        classes:
+            chemist: 1
+        kills: 1
+        damage-done: 16
+        damage-taken: 4
+        swings: 83
+        hits: 3
+        games-played: 1
+        last-wave: 1
+        time-played: 00:00:58
+    99bmario:
+        name: 99bmario
+        classes:
+            chemist: 1
+        kills: 1
+        damage-done: 20
+        damage-taken: 0
+        swings: 24
+        hits: 4
+        games-played: 1
+        last-wave: 1
+        time-played: 00:01:08
+    LukeAlexRobe:
+        name: LukeAlexRobe
+        classes:
+            knight: 1
+        kills: 2
+        damage-done: 140
+        damage-taken: 65
+        swings: 617
+        hits: 20
+        games-played: 1
+        last-wave: 2
+        time-played: 00:05:41
+    Markoszarrate:
+        name: Markoszarrate
+        classes:
+            oddjob: 1
+            chemist: 2
+        kills: 17
+        damage-done: 648
+        damage-taken: 202
+        swings: 499
+        hits: 125
+        games-played: 3
+        last-wave: 5
+        time-played: 00:07:01
+    CheerGirl453:
+        name: CheerGirl453
+        classes:
+            chemist: 1
+            tank: 1
+        kills: 3
+        damage-done: 133
+        damage-taken: 230
+        swings: 238
+        hits: 25
+        games-played: 2
+        last-wave: 3
+        time-played: 00:09:28
+    TopFuel1979:
+        name: TopFuel1979
+        classes:
+            archer: 1
+        kills: 5
+        damage-done: 117
+        damage-taken: 36
+        swings: 77
+        hits: 14
+        games-played: 1
+        last-wave: 3
+        time-played: 00:02:23
+    jwinn3:
+        name: jwinn3
+        classes:
+            chemist: 2
+            oddjob: 1
+        kills: 5
+        damage-done: 218
+        damage-taken: 858
+        swings: 221
+        hits: 43
+        games-played: 3
+        last-wave: 2
+        time-played: 00:08:24
+    whasuppeeps123:
+        name: whasuppeeps123
+        classes:
+            archer: 1
+        kills: 2
+        damage-done: 26
+        damage-taken: 0
+        swings: 26
+        hits: 3
+        games-played: 1
+        last-wave: 1
+        time-played: 00:01:31
+    talortank:
+        name: talortank
+        classes:
+            tank: 1
+        kills: 0
+        damage-done: 0
+        damage-taken: 0
+        swings: 83
+        hits: 0
+        games-played: 1
+        last-wave: 1
+        time-played: 00:01:35
+    flyingpig02:
+        name: flyingpig02
+        classes:
+            tank: 1
+        kills: 38
+        damage-done: 1184
+        damage-taken: 209
+        swings: 1050
+        hits: 193
+        games-played: 1
+        last-wave: 9
+        time-played: 00:07:16
+    jenyah:
+        name: jenyah
+        classes:
+            knight: 1
+        kills: 1
+        damage-done: 49
+        damage-taken: 27
+        swings: 33
+        hits: 7
+        games-played: 1
+        last-wave: 2
+        time-played: 00:02:08
+general-info:
+    time-played: 00:42:41
+    sessions-played: 13
+    last-wave: 9

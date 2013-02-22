@@ -1,0 +1,23 @@
+timestamps:
+  login: 1360638437296
+  logout: 1360640164164
+  lastteleport: 1360640038700
+ipAddress: 75.136.223.153
+lastlocation:
+  world: world
+  x: 646.1247654322362
+  y: 14.0
+  z: -851.9919234068027
+  yaw: -205.47961
+  pitch: 36.59998
+homes:
+  home:
+    world: world
+    x: 724.6502597952804
+    y: 66.0
+    z: -701.3180094677955
+    yaw: -185.38052
+    pitch: 62.400005
+afk: false
+nickname: §4Herobrine
+money: 435251.19138977927

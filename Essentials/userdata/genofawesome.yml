@@ -1,0 +1,93 @@
+timestamps:
+  login: 1361025426378
+  logout: 1361030279069
+  lastteleport: 1360428192426
+  mute: 0
+  jail: 0
+  lastheal: 1360426591124
+ipAddress: 99.101.98.35
+money: 398999.70734070416
+afk: false
+lastlocation:
+  world: realm
+  x: 4022.524510354339
+  y: 62.94199995994562
+  z: -4026.4463368840825
+  yaw: -91.56837
+  pitch: 74.70003
+muted: false
+homes:
+  castle:
+    world: world
+    x: 798.7929216822515
+    y: 65.0
+    z: 1490.220802222208
+    yaw: 245.40027
+    pitch: 57.300007
+  treehouse:
+    world: world
+    x: 875.7035122308745
+    y: 90.0
+    z: 1322.921187814776
+    yaw: -59.25
+    pitch: -8.100003
+  farm:
+    world: world
+    x: 958.8831635194248
+    y: 66.0
+    z: 234.48009359670098
+    yaw: 7.1998653
+    pitch: 31.500027
+  home:
+    world: world
+    x: 380.69999998807907
+    y: 61.0
+    z: -110.4953593111087
+    yaw: 93.750015
+    pitch: 80.549995
+  awesome:
+    world: world
+    x: 37.49727889742167
+    y: 81.0
+    z: 469.7700109910648
+    yaw: 249.14076
+    pitch: -7.500008
+  end:
+    world: world_the_end
+    x: 46.69999998807907
+    y: 58.0
+    z: 4.857979780599426
+    yaw: 214.50024
+    pitch: 40.80001
+  hole:
+    world: realm
+    x: 4229.837247128137
+    y: 54.0
+    z: -3295.8955537129473
+    yaw: -172.26843
+    pitch: 63.299988
+  realmcastle:
+    world: realm
+    x: 5533.977830608113
+    y: 68.0
+    z: -3213.60346017723
+    yaw: -271.1411
+    pitch: 3.300009
+  terana:
+    world: Ellesmera
+    x: -563.9351998810779
+    y: 67.0
+    z: -660.8434923886388
+    yaw: 358.64938
+    pitch: 88.350006
+ban:
+  reason: Temporarily banned from server for 1 year 11 months 1 day
+  timeout: 1420905725383
+mail:
+- 'Megamew2: if u ever can get to my server, say this code: Generationawesome'
+- 'Megamew2: only talk in mail about this'
+- 'Megamew2: theres a hack going round that makes people look like u. use the code'
+- 'Megamew2: so i know its u'
+jailed: false
+godmode: false
+nickname: §3captainofawesomeness

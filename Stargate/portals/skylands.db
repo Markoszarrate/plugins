@@ -1,0 +1,11 @@
+Notra:-543,46,-1303:-547,46,-1303:1:0:180.0:-543,48,-1302:nethergate.gate::sky:monkeypuddles:false:false:false:skylands:true:false:false:false:false
+Rivendour:-369,48,-1548::0:1:270.0:-370,50,-1548:nethergate.gate:spawn:central:monkeypuddles:false:true:false:skylands:false:false:false:false:false
+Spawn:-535,46,-1315::0:-1:90.0:-534,48,-1315:nethergate.gate:Rivendour:central:monkeypuddles:false:true:false:skylands:false:false:false:false:false
+Markhart:-1012,65,-1606::0:1:270.0:-1013,67,-1606:nethergate.gate:spawn:central:monkeypuddles:false:true:false:skylands:false:false:false:false:false
+Categona:-765,76,-1183::0:-1:90.0:-764,78,-1183:nethergate.gate:spawn3:central:monkeypuddles:false:true:false:skylands:false:false:false:false:false
+Spawn3:-547,46,-1323::-1:0:0.0:-547,48,-1324:nethergate.gate:Categona:central:monkeypuddles:false:true:false:skylands:false:false:false:false:false
+Hylandia:-1009,87,-1464::0:-1:90.0:-1008,89,-1464:nethergate.gate:spawn2:central:monkeypuddles:false:true:false:skylands:false:false:false:false:false
+pigshouse2:-1057,58,-1428:-1061,58,-1428:1:0:180.0:-1057,60,-1427:nethergate.gate:Pigshouse1:central:monkeypuddles:false:false:false:skylands:true:false:false:false:false
+Enchants:-1315,196,-1600:-1315,196,-1596:0:-1:90.0:-1314,198,-1600:nethergate.gate::aero:monkeypuddles:false:false:false:skylands:true:false:false:false:false
+jungle:-17,48,-907:-17,48,-903:0:-1:90.0:-16,50,-907:nethergate.gate::adam:monkeypuddles:false:false:false:skylands:true:false:false:false:false
+Deserthome:-407,86,-1163:-411,86,-1163:1:0:180.0:-407,88,-1162:nethergate.gate::adam:monkeypuddles:false:false:false:skylands:true:false:false:false:false

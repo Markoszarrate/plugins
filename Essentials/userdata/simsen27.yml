@@ -1,0 +1,20 @@
+timestamps:
+  login: 1350066029380
+  lastteleport: 1350065100823
+  logout: 1350066319942
+  mute: 1350066491459
+lastlocation:
+  world: world
+  x: 1078.0935761707271
+  y: 16.0
+  z: 1325.9040185426827
+  yaw: -30.308004
+  pitch: 24.599968
+ipAddress: 83.109.132.193
+afk: false
+jailed: true
+jail: lava
+muted: true
+ban:
+  reason: 'Banned: spammer'
+money: 1500.0

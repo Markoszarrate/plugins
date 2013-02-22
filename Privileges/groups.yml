@@ -1,0 +1,216 @@
+# Group ranks determine the order they are promoted in.
+# Lowest rank is 1, highest rank is 2,147,483,647.
+# Visit https://github.com/krinsdeath/Privileges/wiki for help with configuration
+# World nodes override global nodes for that group
+# Inherited groups are calculated first. Each group in the tree overrides any nodes
+# from the previous group.
+groups:
+  player:
+    data:
+      promotion: mod
+    rank: 1
+    permissions:
+    - essentials.me
+    - essentials.warp.archive
+    - heroes.classes.barbarian
+    - petition.pe
+    - essentials.hat
+    - heroes.classes.rogue
+    - heroes.bind
+    - heroes.scroll
+    - heroes.reset
+    - heroes.classes.Warrior
+    - heroes.classes.Rouge
+    - heroes.classes.Mage
+    - heroes.classes.Cleric
+    - iConomy.list
+    - herochat.speak.Open
+    - herochat.speak.Global
+    - herochat.leave.Global
+    - herochat.leave.Open
+    - herochat.join.Open
+    - herochat.join.Gobal
+    - essentials.moneytop
+    - essentials.money.top
+    - iConomy.top
+    - essentials.warp.Terana
+    - essentials.warp.Castle
+    - essentials.warp.castle
+    - vtriggers.use.*
+    - essentials.sethome
+    - essentials.home
+    - factions.kit.fullplayer
+    - essentials.pay
+    - choptree.togglechop
+    - choptree.chop
+    - jobs.command.info
+    - jobs.command.leave
+    - jobs.command.join
+    - jobs.command.stats
+    - jobs.command.browse
+    - jobs.use
+    - factions.money.kit.standard
+    - herobounty.list
+    - herobounty.locate
+    - herobounty.accept
+    - herobounty.new
+    - ChestShop.shop.*
+    - essentials.ptime
+    - essentials.spawn
+    - essentials.delhome
+    - essentials.home.bed
+    - essentials.sethome.multiple
+    - essentials.depth
+    - essentials.warp
+    - essentials.warp.list
+    - essentials.tpa
+    - essentials.tpdeny
+    - essentials.tpaccept
+    - essentials.signs.create.disposal
+    - essentials.signs.use.disposal
+    - essentials.signs.create.balance
+    - essentials.signs.use.balance
+    - essentials.signs.use.mail
+    - essentials.signs.create.mail
+    - essentials.signs.break.disposal
+    - essentials.signs.break.mail
+    - essentials.signs.break.balance
+    - essentials.signs.use.info
+    - essentials.signs.color
+    - essentials.signs.magic
+    - essentials.signs.format
+    - essentials.chat.color
+    - modifyworld.*
+    - essentials.warps.castle
+    - essentials.compass
+    - essentials.msg
+    - essentials.list
+    - essentials.info
+    - essentials.rules
+    - essentials.helpop
+    - essentials.help
+    - essentials.motd
+    - backpack.use
+    - group.player
+    - privileges.player
+    - privileges.build
+    - privileges.interact
+    - modifyworld
+    - logblock.me
+    - portal.use
+    - essentials.back
+    - usb.island.create
+    - usb.island.sethome
+    - usb.island.info
+    - usb.island.topten
+    - usb.lock
+    - usb.party.create
+    - usb.party.kick
+    - usb.party.makeleader
+    - usb.party.join
+    - usb.island.challenges
+    inheritance: []
+  mod:
+    data:
+      demotion: default
+      promotion: admin
+    rank: 2
+    permissions:
+    - essentials.tp
+    - essentials.helpop.receive
+    - essentials.itemdb
+    - essentials.near
+    - essentials.nick.color
+    - essentials.nick
+    - essentials.seen.extra
+    - essentials.seen.banreason
+    - essentials.seen
+    - essentials.whois
+    - essentials.ext
+    - essentials.jails
+    - essentials.kick.notify
+    - essentials.kick
+    - essentials.mute
+    - essentials.togglejail
+    - group.mod
+    - privileges.mods
+    - logblock.lookup
+    - logblock.tools.tool
+    inheritance:
+    - player
+  admin:
+    data:
+      demotion: mod
+    rank: 3
+    permissions:
+    - adminchat.send
+    - adminchat.read
+    - essentials.sethome.multiple.vip
+    - petition.moderator
+    - petition.moderate
+    - essentials.msg
+    - essentials.warp.Terana
+    - essentials.warp.Castle
+    - essentials.warp.archive
+    - essentials.warp.oldspawn
+    - essentials.warps.oldspawn
+    - essentials.warps.Terana
+    - essentials.warps
+    - essentials.warp
+    - essentials.tppos
+    - essentials.invsee
+    - essentials.fly
+    - jobs.command.*
+    - factions.kit.mod
+    - essentials.tp.others
+    - essentials.tp
+    - essentials.tpall
+    - essentials.vanish
+    - essentials.unbanip
+    - essentials.unban
+    - essentials.tempban.offline
+    - essentials.tempban
+    - essentials.broadcast
+    - essentials.banip
+    - essentials.ban
+    - essentials.getpos
+    - essentials.workbench
+    - essentials.speed
+    - essentials.ptime.others
+    - essentials.feed
+    - essentials.heal
+    - group.admin
+    - privileges.admins
+    - logblock.rollback
+    - logblock.tp
+    - logblock.spawnTools
+    - logblock.tools.toolblock
+    - logblock.me
+    - logblock.*
+    - usb.mod.challenges
+    - usb.admin.delete
+    - usb.admin.remove
+    - usb.admin.reload
+    - usb.admin.register
+    - usb.mod.topten
+    - usb.mod.party
+    inheritance:
+    - mod
+  owner:
+    rank: 100
+    permissions:
+    - group.owner
+    - privileges.self.edit
+    - privileges.*
+    - essentials.*
+    - lockette.*
+    - .*
+    - heroes.classes.admin
+    - stargate.*
+    - pmonitor.showstate
+    - multiverse.*
+    - worldguard.*
+    - essentials.vanish
+    - worldedit.*
+    inheritance:
+    - admin

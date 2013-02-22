@@ -1,0 +1,22 @@
+timestamps:
+  login: 1347034618208
+  logout: 1347034820550
+  lastteleport: 1346619193635
+ipAddress: 80.4.175.175
+lastlocation:
+  world: SkyBlockMultiplayer
+  x: 53.23783757204262
+  y: 63.0
+  z: -201.1172354853322
+  yaw: 33.899536
+  pitch: 36.599964
+homes:
+  home:
+    world: SkyBlockMultiplayer
+    x: 6.309992620721461
+    y: 64.0
+    z: -196.64727457070455
+    yaw: -2.9999084
+    pitch: 44.100006
+afk: false
+money: 1500.0

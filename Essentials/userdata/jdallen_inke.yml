@@ -1,0 +1,21 @@
+timestamps:
+  login: 1358605405337
+  lastteleport: 1358481032374
+  logout: 1358605573986
+ipAddress: 24.14.5.161
+lastlocation:
+  world: Ellesmera
+  x: -531.3433454804185
+  y: 67.0
+  z: -545.944115263354
+  yaw: -32.55001
+  pitch: 11.249993
+homes:
+  home:
+    world: Notra
+    x: 952.7030457378371
+    y: 221.0
+    z: 466.4423688089666
+    yaw: 267.32507
+    pitch: 89.1
+money: 1499.0

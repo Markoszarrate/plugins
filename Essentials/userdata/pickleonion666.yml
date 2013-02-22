@@ -1,0 +1,23 @@
+lastlocation:
+  world: Notra
+  x: 1528.369860067949
+  y: -2.2214041139423037
+  z: 451.56134133752687
+  yaw: 257.72668
+  pitch: 25.950016
+timestamps:
+  login: 1349371301114
+  lastteleport: 1348596385894
+  logout: 1349371306314
+ipAddress: 176.252.229.252
+homes:
+  home:
+    world: Notra
+    x: 1531.1147467285427
+    y: 40.0
+    z: 451.8875922874397
+    yaw: 355.97668
+    pitch: 8.400016
+ban:
+  reason: 'Banned: grief'
+money: 1500.0

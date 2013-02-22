@@ -1,0 +1,24 @@
+timestamps:
+  login: 1346381366164
+  logout: 1346384329791
+  lastteleport: 1346384059988
+ipAddress: 99.37.183.179
+lastlocation:
+  world: Pern
+  x: 135.37898822184414
+  y: 64.0
+  z: 184.13088266548593
+  yaw: -140.90143
+  pitch: 78.32639
+homes:
+  home:
+    world: Pern
+    x: 137.3677535992508
+    y: 64.0
+    z: 185.35564835781435
+    yaw: 114.15267
+    pitch: 20.572779
+afk: false
+ban:
+  reason: 'Banned: The Ban Hammer has spoken!'
+money: 2.0

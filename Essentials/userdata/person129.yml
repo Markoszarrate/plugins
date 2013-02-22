@@ -1,0 +1,120 @@
+timestamps:
+  login: 1361488694112
+  lastteleport: 1361489202527
+  logout: 1361489204237
+  mute: 0
+  jail: 0
+ipAddress: 71.80.219.81
+lastlocation:
+  world: arena
+  x: 799.5
+  y: 34.0
+  z: -1221.5
+  yaw: -1.1998804
+  pitch: -3.1500463
+ban:
+  reason: 'Banned: EFER'
+  timeout: 0
+money: 4609480.235235949
+homes:
+  home:
+    world: world
+    x: 898.8826072575813
+    y: 63.0
+    z: 31.79587440448867
+    yaw: 85.741455
+    pitch: 12.750005
+  house:
+    world: world
+    x: 802.1157694564932
+    y: 64.5
+    z: 1596.919206866806
+    yaw: 0.5997009
+    pitch: 19.94996
+  spawner:
+    world: world
+    x: 955.5
+    y: 12.0
+    z: -318.5
+    yaw: 101.2626
+    pitch: 34.350002
+  cobblecastle:
+    world: world
+    x: 762.3973457039925
+    y: 117.0
+    z: 1445.6303118952428
+    yaw: 135.90073
+    pitch: 16.349943
+  farm:
+    world: world
+    x: 318.51398720788154
+    y: 68.0
+    z: -89.69999998807907
+    yaw: 275.10303
+    pitch: 1.8000257
+  market:
+    world: world
+    x: -548.0275200016703
+    y: 81.0
+    z: 292.24885203104094
+    yaw: 178.05005
+    pitch: 9.449961
+  nether:
+    world: world_nether
+    x: -178.03038447054922
+    y: 69.0
+    z: 344.4743895032203
+    yaw: 340.3324
+    pitch: -19.050007
+  blazespawner:
+    world: world_nether
+    x: -45.67109307292181
+    y: 64.0
+    z: 411.69999998807907
+    yaw: 262.30533
+    pitch: 7.049999
+  cave:
+    world: world
+    x: 1159.048604216713
+    y: 61.0
+    z: 1055.8966423672498
+    yaw: 90.242035
+    pitch: -11.399989
+  base:
+    world: world
+    x: 1039.9098530943681
+    y: 72.0
+    z: 1468.473552890291
+    yaw: 281.3971
+    pitch: 3.1499958
+  dark:
+    world: world
+    x: -192.85661617105217
+    y: 77.0
+    z: 617.843836263981
+    yaw: 262.34644
+    pitch: 4.800009
+  war:
+    world: world
+    x: 717.3170614179608
+    y: 64.0
+    z: 1248.4712889539057
+    yaw: 346.7931
+    pitch: 9.299964
+  original:
+    world: world
+    x: 127.2326192629726
+    y: 67.0
+    z: 15.449419631068
+    yaw: 181.50867
+    pitch: 0.44999334
+  home1:
+    world: Pern
+    x: 6.831441256505425
+    y: 63.0
+    z: 1689.068140902324
+    yaw: -9.1562805
+    pitch: 38.849976
+muted: false
+afk: false
+jailed: false

@@ -1,0 +1,22 @@
+lastlocation:
+  world: Notra
+  x: 1568.2746946240204
+  y: 39.0
+  z: 446.53993970368526
+  yaw: -184.58694
+  pitch: 18.44999
+timestamps:
+  login: 1347988309026
+  logout: 1347988312417
+  lastteleport: 1347984858976
+ipAddress: 76.28.26.240
+afk: false
+homes:
+  home:
+    world: Notra
+    x: 1565.9856906278317
+    y: 39.0
+    z: 443.90420103341756
+    yaw: 40.562325
+    pitch: 18.917534
+money: 1500.0

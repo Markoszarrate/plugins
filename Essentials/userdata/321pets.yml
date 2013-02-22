@@ -1,0 +1,23 @@
+timestamps:
+  login: 1351115941665
+  logout: 1351116005571
+  lastteleport: 1350853023463
+ipAddress: 173.218.157.210
+lastlocation:
+  world: world
+  x: 498.30000001192093
+  y: 66.0
+  z: 1287.300000011921
+  yaw: 192.3001
+  pitch: 13.650003
+homes:
+  home:
+    world: world
+    x: 920.6655230166816
+    y: 64.0
+    z: 40.30834145919072
+    yaw: 226.62347
+    pitch: 3.3000057
+afk: false
+money: 37125.14811238735
+nickname: §dCatgirl

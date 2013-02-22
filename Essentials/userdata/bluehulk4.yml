@@ -1,0 +1,21 @@
+timestamps:
+  login: 1360562731868
+  lastteleport: 1360567411532
+  logout: 1360567515890
+ipAddress: 101.174.128.72
+lastlocation:
+  world: skyworld
+  x: 112.72825112094304
+  y: 125.0
+  z: 0.7220951844457868
+  yaw: -337.5
+  pitch: -4.8
+money: 2524.277583713302
+homes:
+  home:
+    world: Ellesmera
+    x: -1436.3294673210364
+    y: 89.0
+    z: -671.5463525266858
+    yaw: 55.938232
+    pitch: -1.1999824

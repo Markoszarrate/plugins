@@ -1,0 +1,18 @@
+timestamps:
+  login: 1340334437466
+  lastteleport: 1340334042716
+  logout: 1340334916152
+  jail: 0
+ipAddress: 76.241.71.119
+lastlocation:
+  world: skylands
+  x: -898.171237939758
+  y: 72.0
+  z: -1056.512499988079
+  yaw: -176.80688
+  pitch: 3.600015
+jailed: false
+ban:
+  reason: Temporarily banned from server for  1 day
+  timeout: 1340421317920
+money: 1500.0

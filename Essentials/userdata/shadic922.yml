@@ -1,0 +1,25 @@
+timestamps:
+  login: 1343792342552
+  logout: 1343792351607
+  lastteleport: 1343753701266
+  mute: 0
+ipAddress: 67.169.225.51
+lastlocation:
+  world: world
+  x: 752.6999999880791
+  y: 46.0
+  z: -406.30000001192093
+  yaw: -250.50043
+  pitch: 16.65001
+muted: false
+afk: false
+homes:
+  home:
+    world: SkyBlockMultiplayer
+    x: -2.7502105243092814
+    y: 68.0
+    z: -81.57394742947645
+    yaw: -79.64973
+    pitch: 36.599983
+nickname: §aSh§5ad§6ic§0922
+money: 1480.0

@@ -1,0 +1,21 @@
+timestamps:
+  login: 1341791178249
+  logout: 1341782953147
+  lastteleport: 1341791979866
+ipAddress: 173.76.22.104
+lastlocation:
+  world: skylands
+  x: -1049.4620037900092
+  y: 61.5
+  z: -1514.8893160974076
+  yaw: 131.44835
+  pitch: -9.3128
+homes:
+  home:
+    world: skylands
+    x: -1049.4620037900092
+    y: 61.5
+    z: -1514.8893160974076
+    yaw: 132.04834
+    pitch: -9.4628
+money: 7202.9828124999985

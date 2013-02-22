@@ -1,0 +1,91 @@
+timestamps:
+  login: 1361488717115
+  lastteleport: 1361488951184
+  lastheal: 1356058326757
+  logout: 1361488956470
+  mute: 0
+  jail: 0
+ipAddress: 200.26.183.34
+lastlocation:
+  world: world
+  x: 303.5
+  y: 71.0
+  z: -42.5
+  yaw: -203.70248
+  pitch: 24.899973
+homes:
+  home:
+    world: world
+    x: 303.88825042101206
+    y: 71.0
+    z: -42.71614351638112
+    yaw: -204.15248
+    pitch: 23.54997
+  mooshroom:
+    world: Ellesmera
+    x: -437.2000113859279
+    y: 69.0
+    z: -1284.6452906110471
+    yaw: -7.9500055
+    pitch: -3.7500005
+  mobarena:
+    world: world
+    x: 1034.3022601210866
+    y: 65.0
+    z: -2012.6736670339774
+    yaw: -14.5601425
+    pitch: 5.3999443
+  parkour:
+    world: Ellesmera
+    x: -1317.3630082000695
+    y: 51.0
+    z: -198.86649220768942
+    yaw: -134.69931
+    pitch: 11.249974
+  arena:
+    world: arena
+    x: 128.69999998807907
+    y: 43.0
+    z: 51.247715327540966
+    yaw: -353.3092
+    pitch: 47.099983
+  mobarena2:
+    world: arena
+    x: 125.00471021771043
+    y: 32.0
+    z: 23.7898444730915
+    yaw: -232.24048
+    pitch: 63.299973
+  bf:
+    world: world
+    x: 533.9930969702141
+    y: 68.5
+    z: 418.4786959575228
+    yaw: 108.499504
+    pitch: 22.46861
+  end:
+    world: world_the_end
+    x: 326.93435190927505
+    y: 43.0
+    z: -61.67587298047734
+    yaw: 271.33182
+    pitch: 56.70006
+muted: false
+afk: false
+money: 2052839.8843461936
+powertools:
+  '67':
+  - smite Herpderp182
+  '110':
+  - kittycannon
+  '2263':
+  - lightning
+  '7':
+  - kittycannon
+  '59':
+  - smite
+  '6':
+  - smite
+godmode: false
+jailed: false
+nickname: §5Markoszarrate

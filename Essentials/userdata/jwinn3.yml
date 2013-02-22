@@ -1,0 +1,23 @@
+timestamps:
+  login: 1360996419899
+  logout: 1360998521232
+  lastteleport: 1360998033426
+ipAddress: 63.142.74.253
+lastlocation:
+  world: world
+  x: 1333.3718354955963
+  y: 65.0
+  z: 254.07486030942187
+  yaw: 88.38961
+  pitch: 25.683928
+money: 144.60901010599264
+homes:
+  home:
+    world: world
+    x: 290.2055423111958
+    y: 19.0
+    z: 796.4171355546907
+    yaw: 0.0
+    pitch: 0.0
+ban:
+  reason: 'Banned: flyhacks'

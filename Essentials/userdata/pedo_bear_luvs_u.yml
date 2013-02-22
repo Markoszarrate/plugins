@@ -1,0 +1,25 @@
+timestamps:
+  login: 1360427000117
+  lastteleport: 1360427678620
+  logout: 1360427984242
+  mute: 0
+ipAddress: 173.65.92.51
+lastlocation:
+  world: realm
+  x: 4010.422657567324
+  y: 72.0
+  z: -4023.5375576305523
+  yaw: 183.23138
+  pitch: 54.300064
+afk: false
+homes:
+  home:
+    world: world
+    x: 133.71887229695352
+    y: 95.0
+    z: -92.07120823835861
+    yaw: -175.19371
+    pitch: 5.4701066
+muted: false
+nickname: §aE§br§ci§dn
+money: 35461.02942040085

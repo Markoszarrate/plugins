@@ -1,0 +1,21 @@
+timestamps:
+  login: 1354761071204
+  logout: 1354761213846
+  lastteleport: 1354484290494
+ipAddress: 108.218.190.253
+lastlocation:
+  world: realm
+  x: 4013.699999988079
+  y: 71.0
+  z: -4014.7617799577874
+  yaw: -81.36908
+  pitch: 43.049995
+money: 1500.0
+homes:
+  home:
+    world: realm
+    x: 4024.699999988079
+    y: 75.0
+    z: -4025.6843778437405
+    yaw: 162.38101
+    pitch: -15.599985

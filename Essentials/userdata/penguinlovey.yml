@@ -1,0 +1,67 @@
+timestamps:
+  login: 1358806714781
+  logout: 1358806753803
+  lastteleport: 1358686093321
+  mute: 0
+ipAddress: 108.48.199.34
+lastlocation:
+  world: realm
+  x: 5606.401543867845
+  y: 61.0
+  z: -3289.1233908730187
+  yaw: -136.30782
+  pitch: 18.44999
+afk: false
+nickname: §fPenguin§0Girl
+homes:
+  home:
+    world: Pern
+    x: 236.44221201811368
+    y: 64.0
+    z: 643.5470212855621
+    yaw: -350.71246
+    pitch: 20.825342
+  bamfs:
+    world: Pern
+    x: 236.5
+    y: 64.0
+    z: 643.5
+    yaw: -350.71246
+    pitch: 20.825342
+  avalon:
+    world: realm
+    x: 5585.204283457127
+    y: 68.0
+    z: -3252.918159747128
+    yaw: 209.44211
+    pitch: 7.1076903
+  sbasement:
+    world: world
+    x: -75.5
+    y: 50.0
+    z: 1521.5
+    yaw: 262.38773
+    pitch: -14.113324
+  sfarm:
+    world: world
+    x: -112.4576036368391
+    y: 67.5
+    z: 1513.2713160905028
+    yaw: -76.60264
+    pitch: 64.744774
+  market:
+    world: world
+    x: -570.985936066395
+    y: 78.0
+    z: 319.91798060209544
+    yaw: 327.61935
+    pitch: -12.946699
+  zombiefarm:
+    world: Pern
+    x: 70.1310698626588
+    y: 44.0
+    z: 610.3573712897048
+    yaw: 266.1449
+    pitch: -13.1734085
+muted: false
+money: 88172.66185044278

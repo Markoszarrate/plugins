@@ -1,0 +1,18 @@
+timestamps:
+  login: 1348437624927
+  lastteleport: 1347147713418
+  logout: 1348437626947
+  mute: 0
+ipAddress: 69.125.59.63
+lastlocation:
+  world: SkyBlockMultiplayer
+  x: -48.75980556397131
+  y: 64.0
+  z: 3.6999999880790715
+  yaw: -36.4422
+  pitch: 19.958395
+afk: false
+muted: false
+ban:
+  reason: 'Banned: grief'
+money: 5.5

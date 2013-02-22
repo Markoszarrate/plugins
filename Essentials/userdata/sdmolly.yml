@@ -1,0 +1,16 @@
+lastlocation:
+  world: SkyBlockMultiplayer
+  x: 170.1415149739906
+  y: 1.0
+  z: 191.36800229640218
+  yaw: -274.8902
+  pitch: 51.67708
+timestamps:
+  login: 1346603776333
+  logout: 1346603780795
+  lastteleport: 1346603655868
+ipAddress: 86.148.254.123
+ban:
+  reason: Temporarily banned from server for 1 day
+  timeout: 1346690293119
+money: 1500.0

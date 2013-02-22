@@ -1,0 +1,13 @@
+This work is licensed under the Herocraft License version 1.0
+
+1) All source and binary files are licensed under the Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License except where exceptions are defined below.
+    A) To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-nd/3.0/ or send a letter to Creative Commons, 171 Second Street, Suite 300, San Francisco, California, 94105, USA.
+2) The 'work' is all files present in this repository, and any binary or compiled form of them.
+3) A derivative work is defined as alteration of the files contained within this repository, zip file, binaries (if you have downloaded a binary release) or any configuration file that would be loaded by Heroes.
+    A) You may not make, or release derivative works of this software, regardless of translation.
+    B) This clause supersedes the normal allowance set forth in the CC-A-NC-ND license that normally allows translation of a project.
+    C) All configuration files used by Heroes or which are specifically for loading classes into Heroes may be transfered, translated, and shared, under the normal CCA-NC-ND license.
+4) Creating a separate plugin which imports content within this project does not constitute a derivative work, and can be licensed under any License the author desires.
+5) By creating any 'Skill' which links, or imports content from this work you give Herocraft Coding the right to re-license the work under the Herocraft License.
+    A) You may still maintain your own license, and rights to your work.
+6) Herocraft Coding reserves the right to deny the right to use this software in any form to any party which it desires for any reason and at any time.

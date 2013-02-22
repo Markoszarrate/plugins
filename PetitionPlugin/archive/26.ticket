@@ -1,0 +1,12 @@
+id=26
+owner=Markoszarrate
+title=The owners of a private iron or wood door can't open it with a button
+world=world
+x=230.17588560448922
+y=71.0
+z=-107.99113463999484
+pitch=-1.0500232
+yaw=-307.80258
+assignee=*
+log=Markoszarrate: I'd also point that shift-clicking to put a sign doesn't open the GUI in Spout.
+log=Closed by Markoszarrate: [Intended] Iron doors become wooden one under lockette

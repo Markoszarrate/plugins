@@ -1,0 +1,10 @@
+#Loaclization. Users-Online must be shorter than 16 characters to fit on the sign.
+#Sat Dec 22 16:12:50 MSK 2012
+slap-more=You haven't slapped enough signs
+begin-2=Slap more signs to add them to this board.
+begin-1=You have begun construction of an PlayerOnlineSigns board.
+no-permission=You do not have permission to make an PlayerOnlineSign.
+board-created=PlayerOnlineSigns board created
+x-left=<NUMBER> signs left to slap.
+Users-Online=Users Online
+slapped-enough=You have already slapped enough signs.  Slap the first sign again to finish.

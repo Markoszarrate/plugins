@@ -1,0 +1,25 @@
+lastlocation:
+  world: world
+  x: 893.7920165138283
+  y: 63.0
+  z: 65.11207112343433
+  yaw: -62.85022
+  pitch: 14.850041
+timestamps:
+  login: 1354921484199
+  lastteleport: 1354921880500
+  logout: 1354922343814
+  mute: 0
+ipAddress: 108.133.222.247
+homes:
+  home:
+    world: realm
+    x: 1657.0541011049822
+    y: 60.0
+    z: 75.31096232028541
+    yaw: -201.58423
+    pitch: 10.95009
+muted: false
+ban:
+  reason: 'Banned: being rude, griefing, and stealing'
+money: 1507.5

@@ -1,0 +1,20 @@
+portal-open=90
+portal-closed=0
+toowner=false
+A=49
+B=87
+-=87
+
+  AA   A  
+  A A  A  
+  A A  A  
+  A  A A  
+  A  A A  
+  A   AA  
+  BBBBBB  
+ BB....BB 
+BB......BB
+B........B
+-........B
+-...*....B
+BBBBBBBBBB

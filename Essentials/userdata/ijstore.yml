@@ -1,0 +1,24 @@
+timestamps:
+  login: 1347805354920
+  lastteleport: 1347810018731
+  logout: 1347810142241
+ipAddress: 178.117.132.67
+lastlocation:
+  world: world
+  x: 333.7379819227365
+  y: 65.0
+  z: 193.59248234739732
+  yaw: 270.17645
+  pitch: 19.050009
+homes:
+  home:
+    world: world
+    x: 386.8909400596448
+    y: 62.0
+    z: -132.7687090057088
+    yaw: 208.07953
+    pitch: 40.199932
+afk: false
+ban:
+  reason: 'Banned: theft and grief'
+money: 1410.0

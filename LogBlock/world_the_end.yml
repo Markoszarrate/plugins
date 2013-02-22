@@ -1,0 +1,29 @@
+logging:
+  WITHER: true
+  TNTEXPLOSION: true
+  SNOWFORM: false
+  MISCEXPLOSION: false
+  LEAVESDECAY: false
+  NATURALSTRUCTUREGROW: false
+  SIGNTEXT: false
+  WITHER_SKULL: true
+  KILL: false
+  CAKEEAT: false
+  LAVAFLOW: false
+  CHAT: false
+  BLOCKBREAK: true
+  FIRE: true
+  SWITCHINTERACT: false
+  WATERFLOW: false
+  BONEMEALSTRUCTUREGROW: false
+  NOTEBLOCKINTERACT: false
+  BLOCKPLACE: true
+  ENDERDRAGON: true
+  DIODEINTERACT: false
+  SNOWFADE: false
+  CHESTACCESS: false
+  CREEPEREXPLOSION: true
+  GHASTFIREBALLEXPLOSION: true
+  DOORINTERACT: false
+  ENDERMEN: false
+table: lb-world_the_end

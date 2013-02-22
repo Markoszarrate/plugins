@@ -1,0 +1,34 @@
+timestamps:
+  login: 1360884949320
+  lastteleport: 1360886927655
+  logout: 1360888570997
+  mute: 0
+ipAddress: 76.219.153.149
+lastlocation:
+  world: skyworld
+  x: -109.3836321935142
+  y: 125.0
+  z: 110.55612314470044
+  yaw: 34.500183
+  pitch: -84.299995
+afk: false
+money: 16441.096504380286
+muted: false
+ban:
+  reason: Temporarily banned from server for 59 seconds
+  timeout: 0
+homes:
+  npc_village:
+    world: world
+    x: 592.5
+    y: 66.0
+    z: -1754.5
+    yaw: 256.68256
+    pitch: 16.049976
+  home:
+    world: realm
+    x: 1802.5939177502526
+    y: 64.0
+    z: -3333.151743250564
+    yaw: 270.44904
+    pitch: 15.899948

@@ -1,0 +1,3 @@
+db: {username: root, v2-14-fix: true, password: lordlev, url: 'jdbc:mysql://localhost:3306/minecraft'}
+global: null
+webServer: {enabled: true}

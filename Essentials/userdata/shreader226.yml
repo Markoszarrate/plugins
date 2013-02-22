@@ -1,0 +1,28 @@
+lastlocation:
+  world: world_nether
+  x: 771.0098147881272
+  y: 71.0
+  z: -64.56924465394854
+  yaw: -110.22247
+  pitch: 15.684987
+timestamps:
+  login: 1361463581262
+  lastteleport: 1361466666338
+  logout: 1361467125539
+ipAddress: 50.150.21.224
+money: 11792.332093023942
+homes:
+  mining:
+    world: world
+    x: 972.329621725664
+    y: 60.0
+    z: 61.67021204930742
+    yaw: -330.90137
+    pitch: 28.650005
+  fort:
+    world: world_nether
+    x: 875.4703309236793
+    y: 74.0
+    z: -101.53487828741609
+    yaw: 293.71616
+    pitch: 25.685982

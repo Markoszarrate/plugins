@@ -1,0 +1,60 @@
+timestamps:
+  login: 1361489065150
+  lastteleport: 1361489168654
+  logout: 1361489214569
+  kits:
+    dtools: 1342461143739
+  mute: 0
+ipAddress: 64.95.183.1
+money: 228174.49070947
+afk: false
+homes:
+  realm:
+    world: realm
+    x: 4252.813267074667
+    y: 61.0
+    z: -552.6587446320638
+    yaw: 78.00006
+    pitch: 33.899998
+  temp:
+    world: Ellesmera
+    x: -530.1016967235224
+    y: 67.0
+    z: -595.9412879397418
+    yaw: 174.90833
+    pitch: 16.650053
+  hide:
+    world: Ellesmera
+    x: -524.2253065568134
+    y: 33.0
+    z: -737.2002297517502
+    yaw: 274.2113
+    pitch: 7.500062
+  mv:
+    world: world_the_end
+    x: 50.592803181030476
+    y: 64.0
+    z: -938.1499095133419
+    yaw: 180.75047
+    pitch: 14.250027
+  mine:
+    world: Ellesmera
+    x: -296.44280192725034
+    y: 44.0
+    z: 49.14151157115809
+    yaw: -135.29984
+    pitch: 7.499998
+socialspy: true
+lastlocation:
+  world: arena
+  x: 801.3944638115063
+  y: 33.5
+  z: -1220.931608293385
+  yaw: 76.65017
+  pitch: 11.999941
+godmode: false
+muted: false
+nickname: §2Monkey
+ban:
+  reason: Temporarily banned from server for 5 seconds
+  timeout: 0

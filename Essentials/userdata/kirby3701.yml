@@ -1,0 +1,17 @@
+timestamps:
+  login: 1349726864222
+  lastteleport: 1346435531755
+  logout: 1349726885702
+  mute: 1349726946084
+ipAddress: 99.27.174.150
+lastlocation:
+  world: world
+  x: 234.3240679593152
+  y: 102.53278549093676
+  z: 322.33211122528576
+  yaw: -8.426562
+  pitch: -11.399987
+muted: true
+ban:
+  reason: 'Banned: spam'
+money: 1500.0

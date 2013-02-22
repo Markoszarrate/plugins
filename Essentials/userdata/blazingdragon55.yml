@@ -1,0 +1,15 @@
+lastlocation:
+  world: realm
+  x: 4033.5103988770143
+  y: 71.0
+  z: -4016.7191301255693
+  yaw: 0.9814453
+  pitch: 18.600042
+timestamps:
+  login: 1354946153432
+  logout: 1354946249153
+  lastteleport: 1354051145716
+ipAddress: 101.103.25.10
+ban:
+  reason: 'Banned: The Ban Hammer has spoken!'
+money: 1500.0

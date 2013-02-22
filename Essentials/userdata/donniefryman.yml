@@ -1,0 +1,23 @@
+timestamps:
+  login: 1349028196121
+  logout: 1349028844130
+  lastteleport: 1347223316180
+ipAddress: 67.140.183.57
+lastlocation:
+  world: world
+  x: 659.8607392880804
+  y: 63.0
+  z: -379.31132706068456
+  yaw: -269.24976
+  pitch: -8.850023
+homes:
+  home:
+    world: world
+    x: 745.9432036841038
+    y: 67.0
+    z: -381.8228843446975
+    yaw: 357.33197
+    pitch: 19.050024
+money: 37677.02101781077
+afk: false
+nickname: FinntheHuman

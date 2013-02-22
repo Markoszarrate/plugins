@@ -1,0 +1,78 @@
+timestamps:
+  login: 1360425540687
+  lastteleport: 1360425476724
+  logout: 1360425598581
+  jail: 0
+  lastheal: 1360425120864
+  mute: 0
+ipAddress: 68.44.17.109
+lastlocation:
+  world: world
+  x: 275.3907056755313
+  y: 69.1707870772188
+  z: -40.87228141134341
+  yaw: -279.002
+  pitch: 15.14998
+homes:
+  stuff:
+    world: world
+    x: 1265.557602409709
+    y: 71.12380380545443
+    z: -1813.2888189126538
+    yaw: -45.866577
+    pitch: 35.898376
+  x:
+    world: realm
+    x: 1226.084654227457
+    y: 202.0
+    z: 229.46683638845482
+    yaw: -115.63623
+    pitch: 31.649849
+  stick:
+    world: world
+    x: -59.15860436197815
+    y: 50.0
+    z: 1503.84125717583
+    yaw: 327.8882
+    pitch: 11.700026
+  ell:
+    world: Ellesmera
+    x: -1115.1649474825813
+    y: 128.0
+    z: -1169.834752392043
+    yaw: -112.8
+    pitch: 17.549997
+  shop:
+    world: Ellesmera
+    x: -498.67448184295426
+    y: 67.0
+    z: -656.9349997792593
+    yaw: -237.90002
+    pitch: 8.249998
+  battle:
+    world: world
+    x: 557.3490367100612
+    y: 63.0
+    z: 393.6430213285851
+    yaw: 55.512768
+    pitch: 27.21313
+  v:
+    world: world
+    x: 527.234153339663
+    y: 68.0
+    z: 390.712572050736
+    yaw: -165.70049
+    pitch: 13.768587
+afk: false
+money: 1.160603830505981E7
+socialspy: true
+jailed: false
+teleportenabled: true
+godmode: false
+powertools:
+  '31':
+  - kittycannon
+ban:
+  reason: 'Banned: The Ban Hammer has spoken!'
+muted: false
+nickname: WJWD

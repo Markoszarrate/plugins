@@ -1,0 +1,24 @@
+lastlocation:
+  world: world
+  x: -192.8396978411735
+  y: 63.10408037809304
+  z: 634.8424946751674
+  yaw: 10.798926
+  pitch: 19.800005
+timestamps:
+  login: 1354946063214
+  lastteleport: 1354308760298
+  logout: 1354946114155
+ipAddress: 101.103.25.10
+money: 300.0
+afk: false
+homes:
+  swamp:
+    world: world
+    x: -211.5
+    y: 63.0
+    z: 601.5
+    yaw: 47.99872
+    pitch: 12.600013
+ban:
+  reason: 'Banned: later'

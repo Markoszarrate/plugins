@@ -1,0 +1,27 @@
+timestamps:
+  login: 1356734252737
+  lastteleport: 1356734384475
+  logout: 1356734475718
+  mute: 0
+  jail: 0
+ipAddress: 98.111.18.55
+lastlocation:
+  world: Ellesmera
+  x: -545.1646526706242
+  y: 67.0
+  z: -594.1101038830042
+  yaw: -84.559326
+  pitch: 9.405034
+afk: false
+homes:
+  home:
+    world: Pern
+    x: 265.24419513332975
+    y: 64.0
+    z: 597.4597049964128
+    yaw: -173.38942
+    pitch: 5.1001716
+muted: false
+jailed: false
+money: 225338.85412133858
+nickname: §cSir§3B§2c§3o§2r§3e

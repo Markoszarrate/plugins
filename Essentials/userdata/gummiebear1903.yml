@@ -1,0 +1,21 @@
+timestamps:
+  login: 1357554530994
+  logout: 1357554623153
+  lastteleport: 1356856945504
+ipAddress: 122.148.227.245
+lastlocation:
+  world: world
+  x: 1187.699999988079
+  y: 64.0
+  z: 161.90087441396562
+  yaw: 304.05038
+  pitch: -18.708094
+homes:
+  home:
+    world: Pern
+    x: 264.0829864664844
+    y: 64.0
+    z: 595.1082012998544
+    yaw: -4.771479
+    pitch: 4.975113
+money: 1500.0

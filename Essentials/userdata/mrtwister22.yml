@@ -1,0 +1,178 @@
+timestamps:
+  login: 1360288923478
+  lastteleport: 1360290562970
+  logout: 1360290578448
+ipAddress: 174.54.213.5
+afk: false
+lastlocation:
+  world: world_nether
+  x: 163.8107753392997
+  y: 67.0
+  z: 422.27232594346424
+  yaw: -249.59975
+  pitch: -34.650017
+godmode: false
+socialspy: true
+money: 352512.8688652829
+homes:
+  home:
+    world: world
+    x: 787.5
+    y: 64.0
+    z: 1577.5
+    yaw: 29.102737
+    pitch: 4.649993
+  '2':
+    world: world
+    x: 1191.699999988079
+    y: 79.0
+    z: 535.3000000119209
+    yaw: 45.896923
+    pitch: 22.050014
+  ship:
+    world: world
+    x: 775.9303636409443
+    y: 71.0
+    z: 121.62418348095954
+    yaw: -156.30267
+    pitch: 27.6
+  pern:
+    world: Pern
+    x: 161.09898366312223
+    y: 71.0
+    z: 629.0138987359302
+    yaw: 144.77313
+    pitch: -0.90006346
+  greg:
+    world: Pern
+    x: -1521.184679835627
+    y: 68.0
+    z: 243.65280708326978
+    yaw: -140.86308
+    pitch: -1.200143
+  desert:
+    world: Pern
+    x: -1641.5883413668994
+    y: 66.0
+    z: 173.44799542733372
+    yaw: -54.163696
+    pitch: 15.149995
+  town:
+    world: Pern
+    x: -481.3430485383174
+    y: 64.0
+    z: -933.221832723182
+    yaw: 21.626663
+    pitch: 4.349999
+  top:
+    world: Pern
+    x: 165.10422857342724
+    y: 190.0
+    z: 578.5471498087628
+    yaw: -345.57648
+    pitch: 52.950016
+  spawner:
+    world: Pern
+    x: 67.66530952616499
+    y: 20.0
+    z: 84.76254490350573
+    yaw: -40.62503
+    pitch: 34.499985
+  coaster:
+    world: Pern
+    x: 380.68680572677886
+    y: 107.0
+    z: 614.3072296279488
+    yaw: -112.026855
+    pitch: 34.199993
+  coll:
+    world: Pern
+    x: 516.5137755310609
+    y: 61.0
+    z: 628.5021405758434
+    yaw: -166.92944
+    pitch: 9.150103
+  elgar:
+    world: realm
+    x: 1641.4845159854651
+    y: 57.0
+    z: -1232.8041936706024
+    yaw: -12.299929
+    pitch: 25.199938
+  parkour:
+    world: world
+    x: 1133.3452224021494
+    y: 109.0
+    z: 556.2529344746457
+    yaw: 84.59684
+    pitch: 2.100011
+  faction:
+    world: Ellesmera
+    x: -609.4342147240269
+    y: 97.0
+    z: -1072.9836494186688
+    yaw: -15.599518
+    pitch: 25.499971
+  quest1:
+    world: Ellesmera
+    x: -587.4821833643757
+    y: 64.0
+    z: -1241.300000011921
+    yaw: -224.85056
+    pitch: 26.70006
+  quest2:
+    world: Ellesmera
+    x: 569.4557423217302
+    y: 28.0
+    z: 1394.6218974215503
+    yaw: -180.73877
+    pitch: 33.299984
+  temp:
+    world: Ellesmera
+    x: -585.7148629743018
+    y: 55.0
+    z: -1263.7756470517559
+    yaw: -12.747498
+    pitch: 27.599958
+  quest3:
+    world: Ellesmera
+    x: -1640.6346335141207
+    y: 106.0
+    z: 294.9535957794084
+    yaw: 179.9996
+    pitch: 18.150043
+  quest4:
+    world: Ellesmera
+    x: -511.6999999880784
+    y: 29.0
+    z: -693.8844252370639
+    yaw: 0.2987224
+    pitch: 10.4999
+  quest5:
+    world: Ellesmera
+    x: -1306.7101696633651
+    y: 58.0
+    z: -207.69999998807907
+    yaw: -97.049835
+    pitch: -29.099998
+  portal1:
+    world: world_nether
+    x: 165.0715524126877
+    y: 67.0
+    z: 422.68890938249314
+    yaw: -190.34973
+    pitch: -5.7000184
+  surv:
+    world: Ellesmera
+    x: -477.72216846164804
+    y: 128.0
+    z: -1125.6551321276554
+    yaw: -222.45033
+    pitch: -11.549965
+powertools:
+  '369':
+  - kittycannon
+  '352':
+  - compass
+ban:
+  reason: 'Banned: FUCK YOU'

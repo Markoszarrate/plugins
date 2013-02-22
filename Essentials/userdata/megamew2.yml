@@ -1,0 +1,190 @@
+timestamps:
+  login: 1360444680121
+  lastteleport: 1359829115945
+  logout: 1360444710993
+  mute: 0
+  jail: 0
+ipAddress: 24.245.244.98
+lastlocation:
+  world: Ellesmera
+  x: -528.5613433295275
+  y: 67.0
+  z: -592.6680427834596
+  yaw: -220.85379
+  pitch: -1.996637
+afk: false
+homes:
+  hotels:
+    world: world
+    x: 203.20741034539682
+    y: 68.0
+    z: 831.3000000119209
+    yaw: -5.115204
+    pitch: 41.81461
+  netherbase:
+    world: world_nether
+    x: -181.6292787849011
+    y: 69.0
+    z: 343.30000001192093
+    yaw: -58.518616
+    pitch: 2.6999629
+  market:
+    world: world
+    x: -574.3328739683242
+    y: 78.0
+    z: 318.16956414015357
+    yaw: 253.49727
+    pitch: 2.8500142
+  buildingsite:
+    world: skylands
+    x: -1038.146749578419
+    y: 75.0
+    z: -1469.1867510624502
+    yaw: -0.5897217
+    pitch: 11.249983
+  castel:
+    world: Pern
+    x: -6.351262687061737
+    y: 71.0
+    z: -355.9958239540898
+    yaw: -358.02893
+    pitch: 17.099997
+  1_3_world:
+    world: Pern
+    x: -1435.7365788993786
+    y: 67.0
+    z: 187.20978460467566
+    yaw: -47.62922
+    pitch: 20.550003
+  secret_cottage:
+    world: Pern
+    x: -1439.7995561830671
+    y: 67.0
+    z: 186.16862915509108
+    yaw: -351.53253
+    pitch: 26.400028
+  base_:
+    world: Notra
+    x: 1187.9051233092298
+    y: 41.0
+    z: 199.6980124194251
+    yaw: -239.7019
+    pitch: 4.650016
+  derpderpderp:
+    world: Pern
+    x: 7326.63651586071
+    y: 52.0
+    z: 6763.637663589697
+    yaw: -31.802185
+    pitch: 74.250015
+  bamfsburg:
+    world: Pern
+    x: 223.97991304572523
+    y: 64.0
+    z: 668.0771951159487
+    yaw: -213.24536
+    pitch: -7.5000696
+  cave:
+    world: Notra
+    x: 1541.8041910713873
+    y: 81.0
+    z: 630.4797445055219
+    yaw: -306.89914
+    pitch: 38.550003
+  water:
+    world: world
+    x: -702.1198884169672
+    y: 66.0
+    z: 618.2497952807378
+    yaw: -46.069405
+    pitch: 87.899994
+  spawn:
+    world: void
+    x: -30.072173685038845
+    y: 63.0
+    z: -4.096288890425108
+    yaw: -102.28586
+    pitch: 53.849968
+  ol:
+    world: world
+    x: 1300.3471854940303
+    y: 97.0
+    z: 609.6065390789381
+    yaw: -40.05005
+    pitch: 90.0
+  well:
+    world: Pern
+    x: 5125.219303445731
+    y: 64.08874723933369
+    z: -4922.904503838792
+    yaw: -153.44885
+    pitch: -18.750006
+  skycity:
+    world: world
+    x: 217.22838738480698
+    y: 182.0
+    z: 106.81437865373522
+    yaw: -88.64868
+    pitch: 7.3499727
+  villagerz:
+    world: Pern
+    x: -7467.864528164509
+    y: 78.0
+    z: 4799.432920106823
+    yaw: -159.1095
+    pitch: 3.3000011
+  fishylamps:
+    world: world
+    x: -224.24206608546072
+    y: 64.0
+    z: -434.30000001192093
+    yaw: 22.641088
+    pitch: -0.14998972
+  end:
+    world: world_the_end
+    x: 31.253032342749517
+    y: 63.0
+    z: -7.133833934387598
+    yaw: 307.05194
+    pitch: 19.64983
+  old__:
+    world: world
+    x: 1636.5086526800042
+    y: 66.0
+    z: 4.04568063164617
+    yaw: -184.50175
+    pitch: 9.900045
+  slide:
+    world: Pern
+    x: 391.30533644704025
+    y: 211.0
+    z: 641.6260490395906
+    yaw: 39.57045
+    pitch: 87.75
+  mine:
+    world: Pern
+    x: 28.39760496140196
+    y: 11.0
+    z: 135.6414432232095
+    yaw: -140.2653
+    pitch: 20.100002
+  avalon:
+    world: Avalon
+    x: -599.1758675277233
+    y: 123.0
+    z: 264.87290832448116
+    yaw: -60.599716
+    pitch: 25.650003
+  documents:
+    world: world
+    x: 703.2965436265222
+    y: 64.0
+    z: 271.14341469458225
+    yaw: 2.8286743
+    pitch: -25.649973
+money: 96500.07889725953
+muted: false
+jailed: false
+ban:
+  reason: Temporarily banned from server for 5 minutes
+  timeout: 0

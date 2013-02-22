@@ -1,0 +1,43 @@
+cfg-version: 5
+message: Careful! You have reached the Edge of the World! Don't fall off!
+round-border: true
+debug-mode: false
+whoosh-effect: false
+knock-back-dist: 3.0
+timer-delay-ticks: 5
+dynmap-border-enabled: true
+dynmap-border-message: The Scary Unknown!!!
+worlds:
+  world:
+    x: 261.19191755107204
+    z: 215.52797039374786
+    radius: 3000
+  Pern:
+    x: 204.5
+    z: 244.5
+    radius: 1600
+  world_the_end:
+    x: 25.661877126539647
+    z: -1006.4017718558399
+    radius: 3000
+  world_nether:
+    x: -9.5
+    z: -1.5
+    radius: 1000
+  realm:
+    x: 2925.017284777098
+    z: -1945.2379077432358
+    radius: 3500
+  Archive:
+    x: 0.0
+    z: 0.0
+    radius: 500
+  Ellesmera:
+    x: -277.3563337596858
+    z: 615.3030085408313
+    radius: 5000
+  arena:
+    x: 1.5
+    z: 2.2702608082580387
+    radius: 2000
+    shape-round: false

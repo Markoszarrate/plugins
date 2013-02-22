@@ -1,0 +1,37 @@
+timestamps:
+  login: 1354928111971
+  lastteleport: 1354841155424
+  logout: 1354928389737
+ipAddress: 72.70.133.63
+lastlocation:
+  world: realm
+  x: 4206.413647110416
+  y: 62.0
+  z: -4347.873908183698
+  yaw: -261.03577
+  pitch: 15.14999
+homes:
+  home:
+    world: world
+    x: -998.5714236840115
+    y: 65.0
+    z: 489.401446584957
+    yaw: -93.8734
+    pitch: 32.100014
+  '2':
+    world: world
+    x: -571.8586609051166
+    y: 73.0
+    z: 319.26023695021627
+    yaw: -125.42758
+    pitch: 47.99998
+  '1':
+    world: realm
+    x: 4184.040462041883
+    y: 60.0
+    z: -4385.411698303525
+    yaw: -325.87402
+    pitch: 16.349997
+afk: false
+nickname: Stevic
+money: 24218.1671954633

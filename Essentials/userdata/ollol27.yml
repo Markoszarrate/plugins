@@ -1,0 +1,25 @@
+timestamps:
+  login: 1349386610428
+  logout: 1349390263632
+  lastteleport: 1349389999091
+ipAddress: 71.7.164.25
+lastlocation:
+  world: world_nether
+  x: 59.89789357453375
+  y: 79.0
+  z: 222.48242950504485
+  yaw: -83.33777
+  pitch: 3.5999866
+afk: false
+homes:
+  home:
+    world: world_nether
+    x: 36.66557545258384
+    y: 74.0
+    z: -12.92486617243074
+    yaw: 170.91272
+    pitch: 15.000011
+ban:
+  reason: 'Banned: grief'
+  timeout: 0
+money: 21339.543164813866

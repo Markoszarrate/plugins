@@ -1,0 +1,20 @@
+lastlocation:
+  world: realm
+  x: 4047.0736578312094
+  y: 20.0
+  z: -4153.300000011921
+  yaw: -6.0682664
+  pitch: -1.7999972
+timestamps:
+  login: 1358966458474
+  logout: 1358967960157
+  lastteleport: 1358967800492
+ipAddress: 94.213.83.8
+homes:
+  home:
+    world: Ellesmera
+    x: -476.3767468020823
+    y: 34.0
+    z: -647.7793889820986
+    yaw: -269.99768
+    pitch: 9.493065

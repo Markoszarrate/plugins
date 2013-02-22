@@ -1,0 +1,19 @@
+timestamps:
+  login: 1358034342267
+  logout: 1358036006003
+  lastteleport: 1356571929284
+  mute: 0
+ipAddress: 24.245.243.166
+afk: false
+ban:
+  reason: Temporarily banned from server for  10 minutes
+  timeout: 0
+lastlocation:
+  world: world
+  x: 764.8676274707766
+  y: 65.0
+  z: 1534.420521799654
+  yaw: 298.08817
+  pitch: 7.6895847
+muted: false
+money: 146336.41531240297

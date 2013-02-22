@@ -1,0 +1,32 @@
+lastlocation:
+  world: world
+  x: 968.5
+  y: 60.0
+  z: 72.5
+  yaw: -52.35
+  pitch: 4.5
+timestamps:
+  login: 1359060290656
+  logout: 1359062391038
+  lastteleport: 1359062279793
+ipAddress: 64.250.175.236
+afk: false
+money: 6892.012137218186
+homes:
+  home:
+    world: world
+    x: 969.5
+    y: 60.0
+    z: 72.5
+    yaw: -55.95
+    pitch: 25.949999
+  t:
+    world: Ellesmera
+    x: -551.5965785289638
+    y: 69.0
+    z: 183.57452213740757
+    yaw: 280.4192
+    pitch: 14.249984
+ban:
+  reason: 'Banned: griefin the owners airship'
+  timeout: 0

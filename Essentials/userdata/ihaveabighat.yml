@@ -1,0 +1,33 @@
+timestamps:
+  login: 1356651075340
+  lastteleport: 1356494504711
+  logout: 1356651623864
+  mute: 0
+  lastheal: 1354318246676
+ipAddress: 173.65.195.130
+money: 857838.4425169191
+lastlocation:
+  world: world_nether
+  x: 97.34366560351309
+  y: 24.0
+  z: 136.97560564501248
+  yaw: -249.14977
+  pitch: 89.4
+homes:
+  home:
+    world: world
+    x: 958.9504893985722
+    y: 117.0
+    z: 639.8152998936583
+    yaw: 180.74951
+    pitch: 48.599995
+  '2':
+    world: world
+    x: 528.5
+    y: 63.0
+    z: 253.5
+    yaw: -85.26783
+    pitch: 27.694763
+afk: false
+muted: false
+nickname: §bHan§1nah

@@ -1,0 +1,28 @@
+timestamps:
+  login: 1346630314416
+  logout: 1346630316615
+  lastteleport: 1346629798469
+  mute: 0
+  jail: 0
+ipAddress: 94.12.235.162
+lastlocation:
+  world: world
+  x: 517.0
+  y: 73.0
+  z: 1290.0
+  yaw: -1.3160634
+  pitch: 0.73114634
+homes:
+  home:
+    world: SkyBlockMultiplayer
+    x: 0.0
+    y: 89.0
+    z: 0.0
+    yaw: 0.0
+    pitch: 0.0
+afk: false
+muted: false
+jailed: false
+ban:
+  reason: 'Banned: The Ban Hammer has spoken!'
+money: 1500.0

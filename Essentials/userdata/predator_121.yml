@@ -1,0 +1,50 @@
+timestamps:
+  login: 1360492141745
+  lastteleport: 1360492580443
+  logout: 1360441037038
+ipAddress: 79.107.134.65
+lastlocation:
+  world: Ellesmera
+  x: -892.7561427128517
+  y: 72.72159999847416
+  z: -798.7493842668849
+  yaw: -223.04842
+  pitch: 16.199957
+homes:
+  home:
+    world: world
+    x: -920.895775899918
+    y: 68.0
+    z: 499.69999998807907
+    yaw: -176.25275
+    pitch: 16.049992
+  spawner:
+    world: world
+    x: -828.6999999880791
+    y: 30.0
+    z: 429.30000001192093
+    yaw: 357.30563
+    pitch: 16.650036
+  shop:
+    world: world
+    x: 1120.5753344679217
+    y: 190.0
+    z: 139.29653974641337
+    yaw: -203.2404
+    pitch: 19.35003
+  nether:
+    world: world
+    x: -826.2420709083137
+    y: 32.0
+    z: 440.9534943504336
+    yaw: 3.005521
+    pitch: 16.799965
+  castle:
+    world: Ellesmera
+    x: -547.9250666990059
+    y: 69.0
+    z: 177.45722729478473
+    yaw: 17.768147
+    pitch: 1.0500412
+afk: false
+money: 88923.0612580219

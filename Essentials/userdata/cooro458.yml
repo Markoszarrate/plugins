@@ -1,0 +1,24 @@
+timestamps:
+  login: 1345230924937
+  logout: 1345231128112
+  lastteleport: 1345230934146
+ipAddress: 98.249.164.24
+lastlocation:
+  world: Pern
+  x: 97.53884988006058
+  y: 64.2984804012666
+  z: 618.5661185027985
+  yaw: 75.90961
+  pitch: 21.710913
+homes:
+  home:
+    world: Pern
+    x: 153.17785861609346
+    y: 60.0
+    z: 588.1135479016807
+    yaw: -287.32394
+    pitch: 27.99877
+ban:
+  reason: 'Banned: 2w'
+  timeout: 1405711130376
+money: 1507.5

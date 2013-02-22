@@ -1,0 +1,202 @@
+timestamps:
+  login: 1361403117842
+  lastteleport: 1360626718218
+  logout: 1361403152495
+  mute: 0
+  kits:
+    tools: 1343199223693
+ipAddress: 207.191.210.146
+homes:
+  house:
+    world: world
+    x: 1154.5
+    y: 63.0
+    z: 161.5
+    yaw: -0.44953066
+    pitch: -2.999961
+  market:
+    world: world
+    x: -570.9691426993661
+    y: 78.0
+    z: 317.70316301620363
+    yaw: 289.4973
+    pitch: 13.800006
+  mobgrind:
+    world: skylands
+    x: -1319.9410002734926
+    y: 195.0
+    z: -1572.3586447848215
+    yaw: 2.9972203
+    pitch: 19.200022
+  mineoffice:
+    world: world
+    x: 1701.9142156716966
+    y: 54.0
+    z: -71.8892208151767
+    yaw: 194.54791
+    pitch: 5.3999133
+  wall:
+    world: world
+    x: 1131.4182681248813
+    y: 81.0
+    z: 90.54525694206464
+    yaw: 85.800835
+    pitch: 13.95
+  home:
+    world: world
+    x: 1156.455559070991
+    y: 97.0
+    z: 128.63918889588717
+    yaw: -1.8632812
+    pitch: 15.150002
+  skb:
+    world: skyland
+    x: 69.09893925875741
+    y: 70.0
+    z: 88.06260868291756
+    yaw: -263.4043
+    pitch: 20.400038
+  fmarket:
+    world: world
+    x: 1116.3782941206903
+    y: 190.0
+    z: 125.58978820834284
+    yaw: -358.7901
+    pitch: 12.000034
+  dungeon:
+    world: Dungeon
+    x: 1244.4913733961323
+    y: 19.0
+    z: 1757.1317194591538
+    yaw: -129.57031
+    pitch: 12.900019
+  markerdome:
+    world: world
+    x: 1210.4712067886398
+    y: 78.0
+    z: 488.9269977897732
+    yaw: -336.22284
+    pitch: 46.800026
+  perdunettower:
+    world: world
+    x: 1212.6947221974842
+    y: 82.0
+    z: 473.45361823454743
+    yaw: -355.26553
+    pitch: -16.050106
+  project:
+    world: world
+    x: -210.11905958369056
+    y: 74.0
+    z: 551.3883392489139
+    yaw: -194.09972
+    pitch: 1.7999154
+  churchofpern:
+    world: Pern
+    x: 293.3289675899794
+    y: 66.0
+    z: 901.6588366212018
+    yaw: -270.83725
+    pitch: 8.099791
+  firstmarkistchurch:
+    world: world
+    x: 1158.4957373204359
+    y: 66.0
+    z: 1330.6540378093753
+    yaw: -270.81335
+    pitch: 21.150002
+  chroniclehouse:
+    world: world
+    x: 696.6414361568094
+    y: 71.0
+    z: 278.30000001192093
+    yaw: 269.64307
+    pitch: 9.899978
+  realmarket:
+    world: realm
+    x: 1974.168876787659
+    y: 37.0
+    z: -925.1357385962677
+    yaw: -275.8534
+    pitch: -5.4000273
+  avalon:
+    world: realm
+    x: 4036.7486895574048
+    y: 64.0
+    z: -4026.8754530993997
+    yaw: -272.7252
+    pitch: 5.0999904
+  altmer:
+    world: realm
+    x: 1654.5060590450162
+    y: 60.0
+    z: 66.46406115946004
+    yaw: -179.53442
+    pitch: 9.900001
+  stickerendfarm:
+    world: world_the_end
+    x: 50.46870492493712
+    y: 64.0
+    z: -935.562200445821
+    yaw: -181.8388
+    pitch: 25.049921
+  de:
+    world: world_the_end
+    x: -283.37137163142404
+    y: 33.0
+    z: 622.8990613548533
+    yaw: -142.4765
+    pitch: 13.650005
+  pvm:
+    world: realm
+    x: 1158.558497445012
+    y: 63.0
+    z: 573.2922584573713
+    yaw: 171.30286
+    pitch: 32.700005
+  imperialfort:
+    world: realm
+    x: 4262.466038958658
+    y: 62.0
+    z: -550.4746444082451
+    yaw: -270.60413
+    pitch: 18.899961
+  elgar:
+    world: realm
+    x: 1852.459279418876
+    y: 63.0
+    z: -3337.17113779253
+    yaw: -180.15
+    pitch: 5.1000023
+  mountainfort:
+    world: Ellesmera
+    x: -203.05403881826666
+    y: 112.0
+    z: 233.76012251024383
+    yaw: -85.95292
+    pitch: 9.600053
+  dealwithit:
+    world: arena
+    x: 14.901362986366623
+    y: 32.0
+    z: -80.12398557098788
+    yaw: -3.1416016
+    pitch: 1.7999809
+lastlocation:
+  world: arena
+  x: 13.802786192356209
+  y: 63.0
+  z: -77.45296495525118
+  yaw: -135.89279
+  pitch: 32.250034
+afk: false
+muted: false
+money: 1013741.8653637511
+socialspy: true
+powertools:
+  '369':
+  - lightning
+powertoolsenabled: true
+nickname: §2Robert§8D§3Marker
+teleportenabled: false
+godmode: false

@@ -1,0 +1,20 @@
+timestamps:
+  login: 1346458727527
+  logout: 1346459305532
+ipAddress: 135.19.81.27
+lastlocation:
+  world: Notra
+  x: 1589.9783345659632
+  y: 35.0
+  z: 528.4942400850698
+  yaw: -31.035927
+  pitch: 7.6500015
+homes:
+  home:
+    world: Notra
+    x: 1566.937494785974
+    y: 49.0
+    z: 473.6291972921237
+    yaw: -42.285686
+    pitch: 43.500034
+money: 1500.0

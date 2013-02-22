@@ -1,0 +1,18 @@
+timestamps:
+  login: 1350152894657
+  lastteleport: 1350065446468
+  logout: 1350153143981
+  mute: 0
+ipAddress: 82.146.83.225
+lastlocation:
+  world: world
+  x: 103.60593198548159
+  y: 64.53584062504456
+  z: 10.774352489524912
+  yaw: -243.62225
+  pitch: 19.363253
+afk: false
+muted: false
+ban:
+  reason: 'Banned: Grief'
+money: 1460.0

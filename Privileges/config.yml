@@ -1,0 +1,5 @@
+default_group: player
+debug: false
+metrics: false
+users_cleanup: false
+auto_reload: false

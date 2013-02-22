@@ -1,0 +1,20 @@
+portal-open=9
+portal-closed=0
+toowner=false
+A=20
+B=89
+-=20
+
+    AAAAA    
+  AAB...BAA  
+ AA.......AA 
+ A.........A 
+AB.........BA
+A...........A
+A...........A
+A...........A
+AB.........BA
+ A.........A 
+ --.......AA 
+  AAB.*.BAA  
+    AAAAA    

@@ -1,0 +1,21 @@
+timestamps:
+  login: 1360891605964
+  logout: 1360892023073
+  lastteleport: 1360891767249
+ipAddress: 74.166.70.232
+lastlocation:
+  world: Ellesmera
+  x: -834.2299069888943
+  y: 53.0
+  z: -1442.6847600798953
+  yaw: -13.25473
+  pitch: 6.900001
+homes:
+  home:
+    world: world
+    x: 959.1005585072876
+    y: 63.0
+    z: 133.4770338707754
+    yaw: -243.87265
+    pitch: 14.951972
+money: 1623.7168996374007

@@ -1,0 +1,18 @@
+#      TimeLock Example Configuration
+# ----------------------------------------
+# World:     
+#   world: day
+#   world_nether: night
+#   world_the_end: normal
+
+World:
+  world: normal
+  Dungeon: night
+  testground: day
+  Pern: normal
+  void: day
+  Notra: normal
+  advent: day
+  Archive: normal
+  Ellesmera: normal
+  arena: day
