@@ -1,18 +1,18 @@
 timestamps:
-  login: 1361394254300
+  login: 1361530606009
   lastteleport: 1361394431580
-  logout: 1361395546982
+  logout: 1361530800593
   lastheal: 1361026098280
   mute: 0
   jail: 0
 ipAddress: 146.90.15.163
 lastlocation:
   world: arena
-  x: 809.3624468542379
-  y: 32.5
-  z: -1209.4539937600823
-  yaw: -185.69965
-  pitch: -8.400003
+  x: 776.7891574128977
+  y: 41.0
+  z: -1226.755807184028
+  yaw: -324.15002
+  pitch: 29.999985
 homes:
   home:
     world: world_nether
