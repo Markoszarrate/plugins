@@ -1,22 +1,26 @@
 general-info:
     number-of-players: 1
-    start-time: Fri Feb 22 04:19:41 MSK 2013
-    end-time: Fri Feb 22 04:21:50 MSK 2013
-    duration: 00:02:08
+    start-time: Fri Feb 22 06:41:15 MSK 2013
+    end-time: Fri Feb 22 06:46:20 MSK 2013
+    duration: 00:05:04
 class-distribution:
-    archer: 0
+    archer: 1
     oddjob: 0
     chemist: 0
     tank: 0
-    knight: 1
+    knight: 0
 players:
     jenyah:
         name: jenyah
-        class: knight
-        kills: 1
-        damage-done: 49
-        damage-taken: 27
-        swings: 33
-        hits: 7
-        last-wave: 2
-        time-played: 00:02:08
+        class: archer
+        kills: 19
+        damage-done: 345
+        damage-taken: 40
+        swings: 43
+        hits: 38
+        last-wave: 6
+        time-played: 00:05:04
+        rewards:
+            stick: 1
+            bone: 1
+            stone: 4

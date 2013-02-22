@@ -1,5 +1,5 @@
 class-distribution:
-    archer: 2
+    archer: 3
     oddjob: 2
     chemist: 8
     tank: 3
@@ -144,15 +144,16 @@ players:
         name: jenyah
         classes:
             knight: 1
-        kills: 1
-        damage-done: 49
-        damage-taken: 27
-        swings: 33
-        hits: 7
-        games-played: 1
-        last-wave: 2
-        time-played: 00:02:08
+            archer: 1
+        kills: 20
+        damage-done: 394
+        damage-taken: 67
+        swings: 76
+        hits: 45
+        games-played: 2
+        last-wave: 6
+        time-played: 00:07:12
 general-info:
-    time-played: 00:42:41
-    sessions-played: 13
+    time-played: 00:47:45
+    sessions-played: 14
     last-wave: 9

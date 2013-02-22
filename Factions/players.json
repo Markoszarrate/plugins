@@ -99,16 +99,6 @@
     "lastLoginTime": 1361349715749,
     "chatMode": "PUBLIC"
   },
-  "TopFuel1979": {
-    "factionId": "0",
-    "role": "NORMAL",
-    "title": "",
-    "power": 4.734893333333334,
-    "powerBoost": 0.0,
-    "lastPowerUpdateTime": 1360640167781,
-    "lastLoginTime": 1360640167781,
-    "chatMode": "PUBLIC"
-  },
   "BobMarker": {
     "factionId": "69",
     "role": "ADMIN",
@@ -243,10 +233,10 @@
     "factionId": "0",
     "role": "NORMAL",
     "title": "",
-    "power": 2.4915200000000004,
+    "power": 3.7665900000000003,
     "powerBoost": 0.0,
-    "lastPowerUpdateTime": 1361491984363,
-    "lastLoginTime": 1361491236907,
+    "lastPowerUpdateTime": 1361501180876,
+    "lastLoginTime": 1361501180876,
     "chatMode": "PUBLIC"
   },
   "99bmario": {
