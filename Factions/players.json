@@ -1,14 +1,4 @@
 {
-  "MagicalMaya": {
-    "factionId": "0",
-    "role": "NORMAL",
-    "title": "",
-    "power": 0.5551300000000001,
-    "powerBoost": 0.0,
-    "lastPowerUpdateTime": 1360947443976,
-    "lastLoginTime": 1360947443976,
-    "chatMode": "PUBLIC"
-  },
   "Puppyfun101": {
     "factionId": "0",
     "role": "NORMAL",
@@ -17,6 +7,16 @@
     "powerBoost": 0.0,
     "lastPowerUpdateTime": 1360978346787,
     "lastLoginTime": 1360978346787,
+    "chatMode": "PUBLIC"
+  },
+  "MagicalMaya": {
+    "factionId": "0",
+    "role": "NORMAL",
+    "title": "",
+    "power": 0.5551300000000001,
+    "powerBoost": 0.0,
+    "lastPowerUpdateTime": 1360947443976,
+    "lastLoginTime": 1360947443976,
     "chatMode": "PUBLIC"
   },
   "XXz_gamer": {
@@ -257,16 +257,6 @@
     "powerBoost": 0.0,
     "lastPowerUpdateTime": 1360892024144,
     "lastLoginTime": 1360892024144,
-    "chatMode": "PUBLIC"
-  },
-  "mikesock": {
-    "factionId": "0",
-    "role": "NORMAL",
-    "title": "",
-    "power": 0.8212700000000002,
-    "powerBoost": 0.0,
-    "lastPowerUpdateTime": 1360632121942,
-    "lastLoginTime": 1360632121942,
     "chatMode": "PUBLIC"
   },
   "naynghast": {
