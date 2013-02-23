@@ -1,22 +1,29 @@
 general-info:
     number-of-players: 1
-    start-time: Sat Feb 23 06:56:51 MSK 2013
-    end-time: Sat Feb 23 06:57:41 MSK 2013
-    duration: 00:00:50
+    start-time: Sat Feb 23 14:16:10 MSK 2013
+    end-time: Sat Feb 23 14:23:47 MSK 2013
+    duration: 00:07:37
 class-distribution:
     archer: 0
     oddjob: 0
     chemist: 0
-    tank: 0
-    knight: 1
+    tank: 1
+    knight: 0
 players:
-    RKOBRO:
-        name: RKOBRO
-        class: knight
-        kills: 0
-        damage-done: 0
-        damage-taken: 28
-        swings: 0
-        hits: 0
-        last-wave: 1
-        time-played: 00:00:50
+    BobMarker:
+        name: BobMarker
+        class: tank
+        kills: 36
+        damage-done: 1062
+        damage-taken: 442
+        swings: 656
+        hits: 177
+        last-wave: 10
+        time-played: 00:07:37
+        rewards:
+            gold_ingot: 8
+            powered_minecart: 1
+            bone: 1
+            stone: 4
+            dirt: 4
+            feather: 2

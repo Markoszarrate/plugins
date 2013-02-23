@@ -1,7 +1,7 @@
 timestamps:
   login: 1361611962744
-  lastteleport: 1361612635707
-  logout: 1361604561504
+  lastteleport: 1361614705887
+  logout: 1361614993664
   kits:
     dtools: 1342461143739
   mute: 0
@@ -47,11 +47,11 @@ homes:
 socialspy: true
 lastlocation:
   world: arena
-  x: 871.5747994840196
-  y: 39.0
-  z: -1226.432954523487
-  yaw: -91.349594
-  pitch: 74.84994
+  x: 808.117028484155
+  y: 58.0
+  z: -1255.5446127276325
+  yaw: 80.250336
+  pitch: 16.950016
 godmode: false
 muted: false
 nickname: §2Monkey

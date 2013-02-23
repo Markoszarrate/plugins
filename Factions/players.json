@@ -63,10 +63,10 @@
     "factionId": "65",
     "role": "ADMIN",
     "title": "",
-    "power": -1.4453999999999994,
+    "power": -0.674216666666666,
     "powerBoost": 0.0,
-    "lastPowerUpdateTime": 1361530803472,
-    "lastLoginTime": 1361530803472,
+    "lastPowerUpdateTime": 1361612498907,
+    "lastLoginTime": 1361612498907,
     "chatMode": "PUBLIC"
   },
   "Cosmorocker15": {
@@ -103,20 +103,10 @@
     "factionId": "69",
     "role": "ADMIN",
     "title": "",
-    "power": 10.0,
+    "power": 8.906976666666667,
     "powerBoost": 0.0,
-    "lastPowerUpdateTime": 1361403155058,
-    "lastLoginTime": 1361403155058,
-    "chatMode": "PUBLIC"
-  },
-  "monkeypuddles": {
-    "factionId": "0",
-    "role": "NORMAL",
-    "title": "",
-    "power": 7.959543333333333,
-    "powerBoost": 0.0,
-    "lastPowerUpdateTime": 1361604565829,
-    "lastLoginTime": 1361604565829,
+    "lastPowerUpdateTime": 1361615027745,
+    "lastLoginTime": 1361615027745,
     "chatMode": "PUBLIC"
   },
   "cheese_mobile": {

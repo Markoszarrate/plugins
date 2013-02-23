@@ -1,6 +1,6 @@
 timestamps:
   login: 1361612875661
-  lastteleport: 1361612538725
+  lastteleport: 1361614268845
   logout: 1361612861439
   mute: 0
   kits:
@@ -184,11 +184,11 @@ homes:
     pitch: 1.7999809
 lastlocation:
   world: arena
-  x: 667.5474687938231
-  y: 34.74848791821935
-  z: -1258.1186356719127
-  yaw: -256.65063
-  pitch: -7.1999946
+  x: 665.5134672880865
+  y: 32.0
+  z: -1256.7472720947205
+  yaw: -177.74432
+  pitch: -3.749995
 afk: false
 muted: false
 money: 1013741.8653637511
@@ -198,5 +198,5 @@ powertools:
   - lightning
 powertoolsenabled: true
 nickname: §2Robert§8D§3Marker
-teleportenabled: false
+teleportenabled: true
 godmode: false

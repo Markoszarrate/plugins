@@ -2,7 +2,7 @@ class-distribution:
     archer: 8
     oddjob: 3
     chemist: 8
-    tank: 4
+    tank: 5
     knight: 5
 players:
     shreader226:
@@ -168,7 +168,19 @@ players:
         games-played: 3
         last-wave: 5
         time-played: 00:05:01
+    BobMarker:
+        name: BobMarker
+        classes:
+            tank: 1
+        kills: 36
+        damage-done: 1062
+        damage-taken: 442
+        swings: 656
+        hits: 177
+        games-played: 1
+        last-wave: 10
+        time-played: 00:07:37
 general-info:
-    time-played: 01:09:39
-    sessions-played: 22
+    time-played: 01:17:16
+    sessions-played: 23
     last-wave: 10
