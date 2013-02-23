@@ -1,14 +1,4 @@
 {
-  "Puppyfun101": {
-    "factionId": "0",
-    "role": "NORMAL",
-    "title": "",
-    "power": 0.7481700000000001,
-    "powerBoost": 0.0,
-    "lastPowerUpdateTime": 1360978346787,
-    "lastLoginTime": 1360978346787,
-    "chatMode": "PUBLIC"
-  },
   "MagicalMaya": {
     "factionId": "0",
     "role": "NORMAL",
@@ -17,6 +7,16 @@
     "powerBoost": 0.0,
     "lastPowerUpdateTime": 1360947443976,
     "lastLoginTime": 1360947443976,
+    "chatMode": "PUBLIC"
+  },
+  "Puppyfun101": {
+    "factionId": "0",
+    "role": "NORMAL",
+    "title": "",
+    "power": 0.7481700000000001,
+    "powerBoost": 0.0,
+    "lastPowerUpdateTime": 1360978346787,
+    "lastLoginTime": 1360978346787,
     "chatMode": "PUBLIC"
   },
   "XXz_gamer": {
@@ -259,16 +259,6 @@
     "lastLoginTime": 1361603148919,
     "chatMode": "PUBLIC"
   },
-  "saviorofwords": {
-    "factionId": "0",
-    "role": "NORMAL",
-    "title": "",
-    "power": 1.0331733333333333,
-    "powerBoost": 0.0,
-    "lastPowerUpdateTime": 1360886446162,
-    "lastLoginTime": 1360886446162,
-    "chatMode": "PUBLIC"
-  },
   "shreader226": {
     "factionId": "0",
     "role": "NORMAL",
@@ -277,6 +267,16 @@
     "powerBoost": 0.0,
     "lastPowerUpdateTime": 1361568582660,
     "lastLoginTime": 1361568582660,
+    "chatMode": "PUBLIC"
+  },
+  "saviorofwords": {
+    "factionId": "0",
+    "role": "NORMAL",
+    "title": "",
+    "power": 1.0331733333333333,
+    "powerBoost": 0.0,
+    "lastPowerUpdateTime": 1360886446162,
+    "lastLoginTime": 1360886446162,
     "chatMode": "PUBLIC"
   },
   "RKOBRO": {

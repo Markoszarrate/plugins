@@ -23,9 +23,9 @@ regions:
     use-scheduler: true
     sql:
         use: false
-        dsn: jdbc:mysql://localhost/worldguard
-        username: worldguard
-        password: worldguard
+        dsn: jdbc:mysql://localhost/minecraft
+        username: root
+        password: lordlev
     enable: true
     invincibility-removes-mobs: false
     high-frequency-flags: false
@@ -84,6 +84,8 @@ mobs:
     block-plugin-spawning: true
     block-above-ground-slimes: false
     block-enderdragon-portal-creation: false
+    block-other-explosions: false
+    block-zombie-door-destruction: false
 player-damage:
     disable-fall-damage: false
     disable-lava-damage: false
@@ -122,6 +124,7 @@ dynamics:
     disable-leaf-decay: false
     disable-grass-growth: false
     disable-mycelium-spread: false
+    disable-vine-growth: false
 blacklist:
     use-as-whitelist: false
     logging:

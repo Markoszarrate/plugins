@@ -43,3 +43,5 @@ minecarts:
   damage_monsters: true
   damage_animals: true
   damage_modifier: 1.0
+misc:
+  debug: false

@@ -43,6 +43,7 @@ consumer:
   forceToProcessAtLeast: 20
   fireCustomEvents: false
   delayBetweenRuns: 6
+  queueWarningSize: 1000
 lookup:
   dateFormat: MM-dd HH:mm:ss
   linesLimit: 1500

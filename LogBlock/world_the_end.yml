@@ -26,4 +26,5 @@ logging:
   GHASTFIREBALLEXPLOSION: true
   DOORINTERACT: false
   ENDERMEN: false
+  WORLDEDIT: false
 table: lb-world_the_end

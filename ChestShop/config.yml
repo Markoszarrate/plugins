@@ -85,3 +85,19 @@ WORLDGUARD_USE_PROTECTION: true
 
 HEROES_EXP: 100
 #How much Heroes exp should people get for creating a ChestShop?
+
+SHIFT_SELLS_EVERYTHING: false
+#If true, people will be able to sell/buy everything available of the same type.
+REMOVE_EMPTY_CHESTS: false
+#If true, if the REMOVE_EMPTY_SHOPS option is turned on, the chest is also destroyed.
+
+STACK_TO_64: false
+#Do you want to stack all items up to 64 item stacks?
+STICK_SIGNS_TO_CHESTS: false
+#Do you want to have shop signs "stick" to chests?
+TURN_OFF_DEFAULT_PROTECTION_WHEN_PROTECTED_EXTERNALLY: false
+#EXPERIMENTAL: Do you want to turn off the default protection when another plugin is protecting the block? (Will leave the chest visually open - CraftBukkit bug!)
+TURN_OFF_SIGN_PROTECTION: false
+#Do you want to turn off the default sign protection? Warning! Other players will be able to destroy other people's shops!
+TURN_OFF_CRAFTBUKKIT_TELEPORTATION_BUGFIX: false
+#Do you want to turn off the CraftBukkit teleportation bugfix, which closes the inventory screen on teleport? (If you're using xAuth, you might want to turn it on) - only applies to CraftBukkit versions lower than 1.4.7-R1.1
