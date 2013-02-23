@@ -1,26 +1,22 @@
 general-info:
     number-of-players: 1
-    start-time: Fri Feb 22 06:41:15 MSK 2013
-    end-time: Fri Feb 22 06:46:20 MSK 2013
-    duration: 00:05:04
+    start-time: Sat Feb 23 06:56:51 MSK 2013
+    end-time: Sat Feb 23 06:57:41 MSK 2013
+    duration: 00:00:50
 class-distribution:
-    archer: 1
+    archer: 0
     oddjob: 0
     chemist: 0
     tank: 0
-    knight: 0
+    knight: 1
 players:
-    jenyah:
-        name: jenyah
-        class: archer
-        kills: 19
-        damage-done: 345
-        damage-taken: 40
-        swings: 43
-        hits: 38
-        last-wave: 6
-        time-played: 00:05:04
-        rewards:
-            stick: 1
-            bone: 1
-            stone: 4
+    RKOBRO:
+        name: RKOBRO
+        class: knight
+        kills: 0
+        damage-done: 0
+        damage-taken: 28
+        swings: 0
+        hits: 0
+        last-wave: 1
+        time-played: 00:00:50

@@ -382,6 +382,8 @@
 - Cosmorocker15
 '70_161_251_193':
 - rickhntr1
+'78_144_209_65':
+- udeminer999999
 '92_20_24_226':
 - coolemmanuel1
 '68_98_166_53':
@@ -459,6 +461,8 @@
 '146_90_15_163':
 - cosmodude15
 - Cosmorocker15
+'200_26_183_34':
+- Markoszarrate
 '92_28_36_242':
 - coolemmanuel1
 '121_216_28_103':
@@ -470,8 +474,8 @@
 '70_191_238_235':
 - blazeman424
 '50_150_21_224':
-- shreader226
 - Gboy1726
+- shreader226
 '2_99_79_152':
 - coolemmanuel1
 '122_179_103_23':
@@ -480,6 +484,8 @@
 - UltimateSwifter4
 '95_148_178_157':
 - molten_meadows
+'2_99_68_120':
+- coolemmanuel1
 '81_97_119_57':
 - comguy
 - comandrew
@@ -533,6 +539,8 @@
 - mropod
 '97_64_230_83':
 - naynghast
+'64_112_205_184':
+- ZZZackary111
 '213_93_66_11':
 - sjaakie1999
 '174_54_218_237':
@@ -579,6 +587,8 @@
 - MixUp
 '67_166_179_166':
 - Rvngizswt
+'99_23_77_12':
+- naynghast
 '87_113_185_121':
 - cosmodude15
 - Cosmorocker15
@@ -667,6 +677,8 @@
 - tintme49
 '79_107_132_171':
 - Predator_121
+'107_201_189_118':
+- Darkvega0701
 '109_145_124_7':
 - cosmodude15
 - Cosmorocker15

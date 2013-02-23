@@ -1,9 +1,9 @@
 class-distribution:
-    archer: 22
+    archer: 24
     oddjob: 7
-    chemist: 63
+    chemist: 64
     tank: 9
-    knight: 17
+    knight: 18
 players:
     MrTwister22:
         name: MrTwister22
@@ -56,19 +56,19 @@ players:
     shreader226:
         name: shreader226
         classes:
-            chemist: 24
-            knight: 2
-            archer: 4
+            chemist: 25
+            knight: 3
+            archer: 5
             oddjob: 3
             tank: 1
-        kills: 230
-        damage-done: 7473
-        damage-taken: 3273
-        swings: 4770
-        hits: 1491
-        games-played: 34
+        kills: 265
+        damage-done: 8652
+        damage-taken: 3621
+        swings: 5273
+        hits: 1690
+        games-played: 37
         last-wave: 10
-        time-played: 00:41:00
+        time-played: 00:45:43
     monkeypuddles:
         name: monkeypuddles
         classes:
@@ -232,16 +232,16 @@ players:
     jenyah:
         name: jenyah
         classes:
-            archer: 1
-        kills: 34
-        damage-done: 1029
-        damage-taken: 39
-        swings: 50
-        hits: 143
-        games-played: 1
+            archer: 2
+        kills: 79
+        damage-done: 1909
+        damage-taken: 60
+        swings: 125
+        hits: 265
+        games-played: 2
         last-wave: 26
-        time-played: 00:06:36
+        time-played: 00:12:01
 general-info:
-    time-played: 02:14:08
-    sessions-played: 83
+    time-played: 02:24:16
+    sessions-played: 87
     last-wave: 26

@@ -1,7 +1,7 @@
 timestamps:
-  login: 1361403117842
-  lastteleport: 1360626718218
-  logout: 1361403152495
+  login: 1361612875661
+  lastteleport: 1361612538725
+  logout: 1361612861439
   mute: 0
   kits:
     tools: 1343199223693
@@ -184,11 +184,11 @@ homes:
     pitch: 1.7999809
 lastlocation:
   world: arena
-  x: 13.802786192356209
-  y: 63.0
-  z: -77.45296495525118
-  yaw: -135.89279
-  pitch: 32.250034
+  x: 667.5474687938231
+  y: 34.74848791821935
+  z: -1258.1186356719127
+  yaw: -256.65063
+  pitch: -7.1999946
 afk: false
 muted: false
 money: 1013741.8653637511

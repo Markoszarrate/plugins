@@ -18,6 +18,14 @@ regions:
         flags: {pvp: deny, greeting: ArenaLobby!}
         owners: {}
         members: {}
+    helpruleslobby:
+        type: cuboid
+        min: {x: 857.0, y: 27.0, z: -1203.0}
+        max: {x: 887.0, y: 44.0, z: -1192.0}
+        priority: 0
+        flags: {}
+        owners: {}
+        members: {}
     playground:
         type: cuboid
         min: {x: 69.0, y: 2.0, z: 13.0}
@@ -27,6 +35,14 @@ regions:
         owners: {}
         members:
             players: [markoszarrate, genofawesome]
+    skblobby:
+        type: cuboid
+        min: {x: 866.0, y: 25.0, z: -1236.0}
+        max: {x: 888.0, y: 38.0, z: -1218.0}
+        priority: 0
+        flags: {}
+        owners: {}
+        members: {}
     spawn:
         type: cuboid
         min: {x: 740.0, y: 27.0, z: -1290.0}

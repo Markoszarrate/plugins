@@ -110,92 +110,6 @@ groups:
     - usb.party.join
     - usb.island.challenges
     inheritance: []
-  mod:
-    data:
-      demotion: default
-      promotion: admin
-    rank: 2
-    permissions:
-    - essentials.tp
-    - essentials.helpop.receive
-    - essentials.itemdb
-    - essentials.near
-    - essentials.nick.color
-    - essentials.nick
-    - essentials.seen.extra
-    - essentials.seen.banreason
-    - essentials.seen
-    - essentials.whois
-    - essentials.ext
-    - essentials.jails
-    - essentials.kick.notify
-    - essentials.kick
-    - essentials.mute
-    - essentials.togglejail
-    - group.mod
-    - privileges.mods
-    - logblock.lookup
-    - logblock.tools.tool
-    inheritance:
-    - player
-  admin:
-    data:
-      demotion: mod
-    rank: 3
-    permissions:
-    - adminchat.send
-    - adminchat.read
-    - essentials.sethome.multiple.vip
-    - petition.moderator
-    - petition.moderate
-    - essentials.msg
-    - essentials.warp.Terana
-    - essentials.warp.Castle
-    - essentials.warp.archive
-    - essentials.warp.oldspawn
-    - essentials.warps.oldspawn
-    - essentials.warps.Terana
-    - essentials.warps
-    - essentials.warp
-    - essentials.tppos
-    - essentials.invsee
-    - essentials.fly
-    - jobs.command.*
-    - factions.kit.mod
-    - essentials.tp.others
-    - essentials.tp
-    - essentials.tpall
-    - essentials.vanish
-    - essentials.unbanip
-    - essentials.unban
-    - essentials.tempban.offline
-    - essentials.tempban
-    - essentials.broadcast
-    - essentials.banip
-    - essentials.ban
-    - essentials.getpos
-    - essentials.workbench
-    - essentials.speed
-    - essentials.ptime.others
-    - essentials.feed
-    - essentials.heal
-    - group.admin
-    - privileges.admins
-    - logblock.rollback
-    - logblock.tp
-    - logblock.spawnTools
-    - logblock.tools.toolblock
-    - logblock.me
-    - logblock.*
-    - usb.mod.challenges
-    - usb.admin.delete
-    - usb.admin.remove
-    - usb.admin.reload
-    - usb.admin.register
-    - usb.mod.topten
-    - usb.mod.party
-    inheritance:
-    - mod
   owner:
     rank: 100
     permissions:
@@ -212,5 +126,16 @@ groups:
     - worldguard.*
     - essentials.vanish
     - worldedit.*
-    inheritance:
-    - admin
+    inheritance: []
+  vip:
+    rank: 5
+    permissions:
+    - group.vip
+  mod:
+    rank: 10
+    permissions:
+    - group.mod
+  admin:
+    rank: 50
+    permissions:
+    - group.admin

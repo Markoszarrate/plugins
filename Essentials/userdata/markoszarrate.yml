@@ -1,18 +1,18 @@
 timestamps:
-  login: 1361488717115
+  login: 1361572402806
   lastteleport: 1361488951184
   lastheal: 1356058326757
-  logout: 1361488956470
+  logout: 1361572629394
   mute: 0
   jail: 0
 ipAddress: 200.26.183.34
 lastlocation:
   world: world
-  x: 303.5
-  y: 71.0
-  z: -42.5
-  yaw: -203.70248
-  pitch: 24.899973
+  x: 305.09048648416956
+  y: 65.0
+  z: -46.22160735171094
+  yaw: -106.20282
+  pitch: 14.249959
 homes:
   home:
     world: world

@@ -1,9 +1,9 @@
 class-distribution:
-    archer: 3
-    oddjob: 2
+    archer: 8
+    oddjob: 3
     chemist: 8
-    tank: 3
-    knight: 2
+    tank: 4
+    knight: 5
 players:
     shreader226:
         name: shreader226
@@ -143,17 +143,32 @@ players:
     jenyah:
         name: jenyah
         classes:
-            knight: 1
+            knight: 2
+            archer: 5
+            tank: 1
+            oddjob: 1
+        kills: 88
+        damage-done: 2045
+        damage-taken: 405
+        swings: 604
+        hits: 273
+        games-played: 9
+        last-wave: 10
+        time-played: 00:28:07
+    RKOBRO:
+        name: RKOBRO
+        classes:
             archer: 1
-        kills: 20
-        damage-done: 394
-        damage-taken: 67
-        swings: 76
-        hits: 45
-        games-played: 2
-        last-wave: 6
-        time-played: 00:07:12
+            knight: 2
+        kills: 8
+        damage-done: 173
+        damage-taken: 129
+        swings: 128
+        hits: 27
+        games-played: 3
+        last-wave: 5
+        time-played: 00:05:01
 general-info:
-    time-played: 00:47:45
-    sessions-played: 14
-    last-wave: 9
+    time-played: 01:09:39
+    sessions-played: 22
+    last-wave: 10

@@ -1,7 +1,4 @@
 users:
-  Njodi:
-    group: creator
-    worlds: {}
   monkeypuddles:
     group: owner
     worlds: {}
@@ -15,10 +12,10 @@ users:
     group: player
     worlds: {}
   nadija10:
-    group: admin
+    group: player
     worlds: {}
   markoszarrate:
-    group: admin
+    group: player
     worlds: {}
   thetwinkieguy_1:
     group: player
@@ -45,14 +42,13 @@ users:
     group: player
     worlds: {}
   deathstar9000:
-    group: admin
-    worlds: {}
-  genofawesome:
-    group: admin
-    worlds: {}
-  naynghast:
     group: player
     worlds: {}
+  genofawesome:
+    group: player
+    worlds: {}
+  naynghast:
+    group: vip
   megamew2:
     group: player
     worlds: {}
@@ -72,7 +68,7 @@ users:
     group: owner
     worlds: {}
   meypuddles:
-    group: mod
+    group: player
     worlds: {}
   99bmario:
     group: player
@@ -93,7 +89,7 @@ users:
     group: player
     worlds: {}
   mcnugget09:
-    group: admin
+    group: player
     worlds: {}
   xxz_gamer:
     group: player
@@ -303,7 +299,7 @@ users:
     group: player
     worlds: {}
   cosmodude15:
-    group: admin
+    group: player
     worlds: {}
   gboy:
     group: player
@@ -330,7 +326,7 @@ users:
     group: player
     worlds: {}
   monkeyp:
-    group: mod
+    group: player
     worlds: {}
   nitewolff:
     group: player
@@ -351,7 +347,7 @@ users:
     group: player
     worlds: {}
   meganc:
-    group: admin
+    group: player
     worlds: {}
     permissions:
     - essentials.gamemode
@@ -458,3 +454,18 @@ users:
   udeminer999999:
     group: player
     worlds: {}
+  darkvega0701:
+    group: player
+    worlds: {}
+  njodi:
+    group: creator
+    permissions: []
+    worlds:
+      world: []
+      world_nether: []
+      world_the_end: []
+      realm: []
+      Archive: []
+      Ellesmera: []
+      arena: []
+      skyworld: []

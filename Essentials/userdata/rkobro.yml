@@ -1,13 +1,13 @@
 timestamps:
-  login: 1359409848312
-  logout: 1359409894666
-  lastteleport: 1359409866797
+  login: 1361588296738
+  logout: 1361588873944
+  lastteleport: 1361588747740
 ipAddress: 75.23.207.173
 money: 1500.0
 lastlocation:
-  world: Ellesmera
-  x: -484.5
-  y: 34.0
-  z: -629.5
-  yaw: -2.697701
-  pitch: 0.6430704
+  world: skyworld
+  x: 221.1570863306075
+  y: 125.0
+  z: 221.30000001192093
+  yaw: -129.44995
+  pitch: 39.299995

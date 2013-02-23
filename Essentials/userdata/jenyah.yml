@@ -1,14 +1,14 @@
 lastlocation:
-  world: arena
-  x: 666.2095327882939
-  y: 32.0
-  z: -1256.4827015720562
-  yaw: 165.7492
-  pitch: 6.5999737
+  world: skyworld
+  x: -27.23368805844307
+  y: 125.0
+  z: 220.96578329414686
+  yaw: -118.805664
+  pitch: 6.150002
 timestamps:
-  login: 1361500798790
-  lastteleport: 1361493043220
-  logout: 1361501176607
+  login: 1361584410415
+  lastteleport: 1361588137060
+  logout: 1361588705071
 ipAddress: 75.44.53.238
 homes:
   home:

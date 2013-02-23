@@ -1,14 +1,14 @@
 lastlocation:
-  world: world
-  x: 960.8768587768282
-  y: 11.0
-  z: 38.654519665695275
-  yaw: -3.5996094
-  pitch: -13.64996
+  world: world_nether
+  x: -41.69999998807907
+  y: 43.0
+  z: -395.09006446155365
+  yaw: 79.49741
+  pitch: 6.149961
 timestamps:
-  login: 1361542371800
-  lastteleport: 1361544307948
-  logout: 1361544546790
+  login: 1361567713689
+  lastteleport: 1361568293381
+  logout: 1361568579740
 ipAddress: 50.150.21.224
 money: 11792.332093023942
 homes:
