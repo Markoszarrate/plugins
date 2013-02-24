@@ -135,7 +135,61 @@ groups:
     rank: 10
     permissions:
     - group.mod
+    - essentials.kick
+    - essentials.mute
+    - essentials.jail
+    - essentials.jails
+    - essentials.togglejail
   admin:
     rank: 50
     permissions:
     - group.admin
+    - privileges.promote
+    - privileges.demote
+    - lockett.admin.create
+    - lockett.admin.break
+    - lockett.admin.bypass
+    - lockett.admin.snoop
+    - essentials.exp.others
+    - essentials.fly
+    - essentials.ptime.others
+    - essentials.workbench
+    - essentials.itemdb
+    - essentials.mail.sendall
+    - essentials.msg.format
+    - essentials.msg.magic
+    - essentials.msg.url
+    - essentials.seen.extra
+    - essentials.list.hidden
+    - essentials.whois
+    - essentials.ban
+    - essentials.ban.offline
+    - essentials.invsee
+    - essentials.invsee.modify
+    - essentials.socialspy
+    - essentials.tempban
+    - essentials.unban
+    - essentials.sethome.multiple.unlimited
+    - essentials.tp
+    - essentials.tp.others
+    - essentials.tphere
+    - essentials.tppos
+    - essentials.signs.create.info
+    - iConomy.accounts.give
+    - iConomy.accounts.take
+    - iConomy.accounts.set
+    - iConomy.accounts.status
+    - iConomy.accounts.status.set
+    - essentials.help
+    - essentials.home
+    - essentials.sethome
+    - logblock.lookup
+    - logblock.rollback
+    - logblock.clearlog
+    - logblock.tp
+    - logblock.me
+    - logblock.spawnTools
+    - logblock.tools.Tool
+    - essentials.thru
+    - essentials.suicide
+    - essentials.back

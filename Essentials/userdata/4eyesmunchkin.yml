@@ -1,9 +1,9 @@
 timestamps:
-  login: 1359866686405
+  login: 1361656870593
   lastteleport: 1356999824441
-  logout: 1359866830196
+  logout: 1361656895198
   mute: 0
-ipAddress: 144.137.208.240
+ipAddress: 124.182.235.220
 lastlocation:
   world: Ellesmera
   x: -485.00957741570784
@@ -193,3 +193,10 @@ money: 3213640.996888331
 nickname: Riley
 ban:
   reason: 'Banned: i think ive been nice.. you can come back lager'
+logoutlocation:
+  world: Ellesmera
+  x: -484.4135653628221
+  y: 34.0
+  z: -650.3112524261863
+  yaw: 173.25224
+  pitch: 11.699967

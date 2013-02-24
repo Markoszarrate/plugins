@@ -12,10 +12,10 @@ users:
     group: player
     worlds: {}
   nadija10:
-    group: player
+    group: admin
     worlds: {}
   markoszarrate:
-    group: player
+    group: admin
     worlds: {}
   thetwinkieguy_1:
     group: player
@@ -45,7 +45,7 @@ users:
     group: player
     worlds: {}
   genofawesome:
-    group: player
+    group: admin
     worlds: {}
   naynghast:
     group: vip
@@ -89,7 +89,7 @@ users:
     group: player
     worlds: {}
   mcnugget09:
-    group: player
+    group: admin
     worlds: {}
   xxz_gamer:
     group: player
@@ -469,3 +469,42 @@ users:
       Ellesmera: []
       arena: []
       skyworld: []
+  gen:
+    group: player
+    worlds: {}
+  player:
+    group: mod
+    worlds: {}
+  nadiaj10:
+    group: mod
+    worlds: {}
+  playernameheredork:
+    group: mod
+    worlds: {}
+  comguy:
+    group: player
+    worlds: {}
+  brav03260:
+    group: player
+    worlds: {}
+  44rachet:
+    group: player
+    worlds: {}
+  hadrielstriker:
+    group: player
+    worlds: {}
+  frederino:
+    group: player
+    worlds: {}
+  studlygiraffe9:
+    group: player
+    worlds: {}
+  wolderado:
+    group: player
+    worlds: {}
+  mropod:
+    group: player
+    worlds: {}
+  oldsoldier2003:
+    group: player
+    worlds: {}

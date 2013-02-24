@@ -1,7 +1,7 @@
 timestamps:
-  login: 1360527967830
-  lastteleport: 1360528328485
-  logout: 1360528527454
+  login: 1361736106203
+  lastteleport: 1361666309893
+  logout: 1361736112299
   mute: 0
   lastheal: 1360426938059
   kits:
@@ -38,12 +38,12 @@ homes:
     yaw: -244.35507
     pitch: 22.950005
 lastlocation:
-  world: world_nether
-  x: 37.49553245704847
-  y: 80.0
-  z: -10.861065409942583
-  yaw: 181.64453
-  pitch: 56.40001
+  world: arena
+  x: 800.1262496574612
+  y: 34.0
+  z: -1218.7697480432248
+  yaw: 199.20093
+  pitch: 13.9499855
 afk: false
 muted: false
 socialspy: true
@@ -52,3 +52,10 @@ nickname: §dBianca
 powertools:
   '369':
   - /paste
+logoutlocation:
+  world: world
+  x: 143.2093554189074
+  y: 64.0
+  z: 159.80439043101322
+  yaw: 262.49622
+  pitch: 10.199977

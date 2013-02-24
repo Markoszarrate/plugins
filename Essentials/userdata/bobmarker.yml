@@ -1,7 +1,7 @@
 timestamps:
-  login: 1361612875661
-  lastteleport: 1361614268845
-  logout: 1361612861439
+  login: 1361680815035
+  lastteleport: 1361684278457
+  logout: 1361684448977
   mute: 0
   kits:
     tools: 1343199223693
@@ -183,12 +183,12 @@ homes:
     yaw: -3.1416016
     pitch: 1.7999809
 lastlocation:
-  world: arena
-  x: 665.5134672880865
-  y: 32.0
-  z: -1256.7472720947205
-  yaw: -177.74432
-  pitch: -3.749995
+  world: Ellesmera
+  x: -1634.260156585225
+  y: 128.0
+  z: 299.81159803360333
+  yaw: -186.301
+  pitch: 5.850014
 afk: false
 muted: false
 money: 1013741.8653637511
@@ -198,5 +198,12 @@ powertools:
   - lightning
 powertoolsenabled: true
 nickname: §2Robert§8D§3Marker
-teleportenabled: true
+teleportenabled: false
 godmode: false
+logoutlocation:
+  world: arena
+  x: 98.7128917486113
+  y: 51.0
+  z: -26.463584619749028
+  yaw: -272.69812
+  pitch: 19.349985

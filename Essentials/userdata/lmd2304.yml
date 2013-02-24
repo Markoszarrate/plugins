@@ -1,7 +1,7 @@
 timestamps:
-  login: 1358034342267
-  logout: 1358036006003
-  lastteleport: 1356571929284
+  login: 1361665092098
+  logout: 1361667586395
+  lastteleport: 1361667293304
   mute: 0
 ipAddress: 24.245.243.166
 afk: false
@@ -10,10 +10,17 @@ ban:
   timeout: 0
 lastlocation:
   world: world
-  x: 764.8676274707766
+  x: 839.3000000119209
   y: 65.0
-  z: 1534.420521799654
-  yaw: 298.08817
-  pitch: 7.6895847
+  z: 1315.6526063612448
+  yaw: -292.3875
+  pitch: 21.18721
 muted: false
 money: 146336.41531240297
+logoutlocation:
+  world: world
+  x: 855.6262177814767
+  y: 39.0
+  z: 1396.0823955351623
+  yaw: -181.33466
+  pitch: 37.161602

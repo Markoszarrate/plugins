@@ -21,6 +21,28 @@ regions:
         owners:
             players: [bluehulk4]
         members: {}
+    brav03260island:
+        type: cuboid
+        min: {x: 170.0, y: 0.0, z: 60.0}
+        max: {x: 270.0, y: 255.0, z: 160.0}
+        priority: 100
+        flags: {pvp: deny, farewell: You are leaving a protected island area. (BrAv03260),
+            greeting: You are entering a protected island area. (BrAv03260), chest-access: deny,
+            use: deny}
+        owners:
+            players: [brav03260]
+        members: {}
+    coolemmanuel1island:
+        type: cuboid
+        min: {x: 170.0, y: 0.0, z: -270.0}
+        max: {x: 270.0, y: 255.0, z: -170.0}
+        priority: 100
+        flags: {pvp: deny, farewell: You are leaving a protected island area. (coolemmanuel1),
+            greeting: You are entering a protected island area. (coolemmanuel1), chest-access: deny,
+            use: deny}
+        owners:
+            players: [coolemmanuel1]
+        members: {}
     gboy1726island:
         type: cuboid
         min: {x: -160.0, y: 0.0, z: -160.0}
@@ -107,7 +129,18 @@ regions:
             greeting: You are entering a protected island area. (RKOBRO), chest-access: deny,
             use: deny}
         owners:
-            players: [rkobro]
+            players: [oldsoldier2003, rkobro]
+        members: {}
+    shreader226island:
+        type: cuboid
+        min: {x: 170.0, y: 0.0, z: -50.0}
+        max: {x: 270.0, y: 255.0, z: 50.0}
+        priority: 100
+        flags: {pvp: deny, farewell: You are leaving a protected island area. (shreader226),
+            greeting: You are entering a protected island area. (shreader226), chest-access: deny,
+            use: deny}
+        owners:
+            players: [shreader226]
         members: {}
     whasuppeeps123island:
         type: cuboid

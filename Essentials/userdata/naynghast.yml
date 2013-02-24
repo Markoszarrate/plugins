@@ -1,16 +1,16 @@
 timestamps:
-  login: 1361603149105
-  lastteleport: 1361603379082
-  logout: 1360888570997
+  login: 1361664844372
+  lastteleport: 1361665758400
+  logout: 1361666985961
   mute: 0
-ipAddress: 99.23.77.12
+ipAddress: 108.207.180.83
 lastlocation:
-  world: skyworld
-  x: -111.2898135181694
-  y: 125.0
-  z: 110.65312224853665
-  yaw: 248.10007
-  pitch: 32.100002
+  world: arena
+  x: 806.249460425761
+  y: 58.0
+  z: -1253.86958552957
+  yaw: 194.50308
+  pitch: 47.743847
 afk: false
 money: 16441.096504380286
 muted: false
@@ -32,3 +32,10 @@ homes:
     z: -3333.151743250564
     yaw: 270.44904
     pitch: 15.899948
+logoutlocation:
+  world: realm
+  x: 1802.35571070456
+  y: 64.0
+  z: -3319.7573699489703
+  yaw: -113.549835
+  pitch: -7.6500154

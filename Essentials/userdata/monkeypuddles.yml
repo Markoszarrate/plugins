@@ -1,7 +1,7 @@
 timestamps:
-  login: 1361611962744
-  lastteleport: 1361614705887
-  logout: 1361614993664
+  login: 1361680792286
+  lastteleport: 1361683276542
+  logout: 1361684400492
   kits:
     dtools: 1342461143739
   mute: 0
@@ -47,14 +47,21 @@ homes:
 socialspy: true
 lastlocation:
   world: arena
-  x: 808.117028484155
-  y: 58.0
-  z: -1255.5446127276325
-  yaw: 80.250336
-  pitch: 16.950016
+  x: 19.09284486420494
+  y: 32.0
+  z: -87.276807484777
+  yaw: -306.7469
+  pitch: 4.0500402
 godmode: false
 muted: false
 nickname: §2Monkey
 ban:
   reason: Temporarily banned from server for 5 seconds
   timeout: 0
+logoutlocation:
+  world: arena
+  x: 109.89518241875247
+  y: 62.0
+  z: -39.01696090677833
+  yaw: -326.99805
+  pitch: 11.1000185

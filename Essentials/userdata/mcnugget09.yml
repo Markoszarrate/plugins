@@ -1,18 +1,18 @@
 timestamps:
-  login: 1360425540687
-  lastteleport: 1360425476724
-  logout: 1360425598581
+  login: 1361683782169
+  lastteleport: 1361684234179
+  logout: 1361684448977
   jail: 0
   lastheal: 1360425120864
   mute: 0
 ipAddress: 68.44.17.109
 lastlocation:
-  world: world
-  x: 275.3907056755313
-  y: 69.1707870772188
-  z: -40.87228141134341
-  yaw: -279.002
-  pitch: 15.14998
+  world: arena
+  x: 96.8403504715903
+  y: 49.5
+  z: -29.001989654265344
+  yaw: -0.2991333
+  pitch: 47.84994
 homes:
   stuff:
     world: world
@@ -76,3 +76,10 @@ ban:
   reason: 'Banned: The Ban Hammer has spoken!'
 muted: false
 nickname: WJWD
+logoutlocation:
+  world: realm
+  x: 1222.9810361338816
+  y: 202.0
+  z: 227.58015495905485
+  yaw: -311.23962
+  pitch: 10.349976

@@ -1,14 +1,14 @@
 lastlocation:
-  world: world_nether
-  x: -41.69999998807907
-  y: 43.0
-  z: -395.09006446155365
-  yaw: 79.49741
-  pitch: 6.149961
+  world: arena
+  x: 95.99581774670514
+  y: 49.0
+  z: -30.81835410625782
+  yaw: -0.2991333
+  pitch: 47.84994
 timestamps:
-  login: 1361567713689
-  lastteleport: 1361568293381
-  logout: 1361568579740
+  login: 1361744086971
+  lastteleport: 1361737465729
+  logout: 1361744169778
 ipAddress: 50.150.21.224
 money: 11792.332093023942
 homes:
@@ -26,3 +26,17 @@ homes:
     z: -101.53487828741609
     yaw: 293.71616
     pitch: 25.685982
+  shop:
+    world: world
+    x: 929.3000000119209
+    y: 64.0
+    z: 74.23750001192089
+    yaw: -74.852104
+    pitch: 36.750015
+logoutlocation:
+  world: world
+  x: 972.6957368718619
+  y: 59.0
+  z: 65.51835663214743
+  yaw: -316.04944
+  pitch: 12.599991

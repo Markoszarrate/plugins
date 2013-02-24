@@ -1,20 +1,27 @@
 lastlocation:
-  world: skyworld
-  x: -27.23368805844307
-  y: 125.0
-  z: 220.96578329414686
-  yaw: -118.805664
-  pitch: 6.150002
+  world: world
+  x: 188.58369654896993
+  y: 64.0
+  z: -195.86825053021136
+  yaw: 119.8501
+  pitch: 41.850018
 timestamps:
-  login: 1361584410415
-  lastteleport: 1361588137060
-  logout: 1361588705071
+  login: 1361656753026
+  lastteleport: 1361658714071
+  logout: 1361658952404
 ipAddress: 75.44.53.238
 homes:
   home:
-    world: skyworld
-    x: 0.0
-    y: 125.875
-    z: 222.0
-    yaw: -219.44995
-    pitch: 42.000015
+    world: world
+    x: 180.45099617083622
+    y: 66.0
+    z: -164.30000001192093
+    yaw: 228.15152
+    pitch: 28.650124
+logoutlocation:
+  world: world
+  x: 191.69999998807907
+  y: 30.0
+  z: -132.69999998807904
+  yaw: 54.151337
+  pitch: -76.79997

@@ -1,16 +1,16 @@
 timestamps:
-  login: 1360288923478
-  lastteleport: 1360290562970
-  logout: 1360290578448
+  login: 1361681143469
+  lastteleport: 1361683926122
+  logout: 1361684385231
 ipAddress: 174.54.213.5
 afk: false
 lastlocation:
-  world: world_nether
-  x: 163.8107753392997
-  y: 67.0
-  z: 422.27232594346424
-  yaw: -249.59975
-  pitch: -34.650017
+  world: Ellesmera
+  x: -564.1180228241702
+  y: 72.0
+  z: -1243.5256595955402
+  yaw: -53.549652
+  pitch: 32.55008
 godmode: false
 socialspy: true
 money: 352512.8688652829
@@ -176,3 +176,10 @@ powertools:
   - compass
 ban:
   reason: 'Banned: FUCK YOU'
+logoutlocation:
+  world: Ellesmera
+  x: -1636.272535660682
+  y: 127.0
+  z: 287.77573099272047
+  yaw: -178.65125
+  pitch: 45.600018
