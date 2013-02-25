@@ -508,3 +508,6 @@ users:
   oldsoldier2003:
     group: player
     worlds: {}
+  miningoshawott:
+    group: player
+    worlds: {}

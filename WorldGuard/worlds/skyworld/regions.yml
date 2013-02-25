@@ -87,6 +87,17 @@ regions:
         owners:
             players: [markoszarrate]
         members: {}
+    miningoshawottisland:
+        type: cuboid
+        min: {x: -50.0, y: 0.0, z: -270.0}
+        max: {x: 50.0, y: 255.0, z: -170.0}
+        priority: 100
+        flags: {pvp: deny, farewell: You are leaving a protected island area. (miningoshawott),
+            greeting: You are entering a protected island area. (miningoshawott),
+            chest-access: deny, use: deny}
+        owners:
+            players: [miningoshawott]
+        members: {}
     monkeypuddlesisland:
         type: cuboid
         min: {x: -50.0, y: 0.0, z: 60.0}

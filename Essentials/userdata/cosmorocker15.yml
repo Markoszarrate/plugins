@@ -6,10 +6,17 @@ lastlocation:
   yaw: -191.99994
   pitch: 3.4499922
 timestamps:
-  login: 1361298352313
+  login: 1361818863268
   lastteleport: 1360627266031
-  logout: 1361298362640
+  logout: 1361818869142
   lastheal: 1356182330803
 ipAddress: 146.90.15.163
 nickname: §6GregRWhite
 money: 1500.0
+logoutlocation:
+  world: realm
+  x: 1843.4854738791003
+  y: 75.0
+  z: -3185.4113497367725
+  yaw: -189.14993
+  pitch: 4.4999924
