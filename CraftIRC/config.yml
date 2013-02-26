@@ -133,7 +133,7 @@ settings:
 # Every channel is a communication endpoint.
 bots:
 
-  - nickname: 'pcsbot'
+  - nickname: 'aerommo'
     server: 'irc.esper.net'           # Change this to the IRC server you wish to connect to
     port: 6667
     userident: 'monkeypuddles'              #Username/ident, anything you want
