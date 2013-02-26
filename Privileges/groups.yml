@@ -193,3 +193,4 @@ groups:
     - essentials.thru
     - essentials.suicide
     - essentials.back
+    - essentials.spawn

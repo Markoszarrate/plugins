@@ -136,7 +136,7 @@ bots:
   - nickname: 'pcsbot'
     server: 'irc.esper.net'           # Change this to the IRC server you wish to connect to
     port: 6667
-    userident: 'pcsbot'              #Username/ident, anything you want
+    userident: 'monkeypuddles'              #Username/ident, anything you want
     serverpass: ''                #This isn't the nickserv password
     ssl: false
     
@@ -153,8 +153,8 @@ bots:
     #If the bot's nickname is registered, put the authentication info here.
     auth:
       method: 'nickserv' #Available methods: 'none', 'nickserv', 'gamesurge', 'quakenet'
-      username: 'pcsbot'
-      password: 'Supd@wg'
+      username: 'monkeypuddles'
+      password: 'lordlev'
     
     #Send raw IRC commands to the server every time I connect.  
     on-connect:

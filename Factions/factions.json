@@ -57,6 +57,19 @@
     "money": 0.0,
     "powerBoost": 20.0
   },
+  "0": {
+    "relationWish": {},
+    "claimOwnership": {},
+    "invites": [],
+    "open": false,
+    "peaceful": false,
+    "peacefulExplosionsEnabled": false,
+    "permanent": false,
+    "tag": "§2Wilderness",
+    "description": "",
+    "money": 0.0,
+    "powerBoost": 0.0
+  },
   "68": {
     "relationWish": {
       "69": "ALLY",
@@ -73,19 +86,6 @@
     "permanent": false,
     "tag": "bamfsburg",
     "description": "BAMFS FO LIFE YO",
-    "money": 0.0,
-    "powerBoost": 0.0
-  },
-  "0": {
-    "relationWish": {},
-    "claimOwnership": {},
-    "invites": [],
-    "open": false,
-    "peaceful": false,
-    "peacefulExplosionsEnabled": false,
-    "permanent": false,
-    "tag": "§2Wilderness",
-    "description": "",
     "money": 0.0,
     "powerBoost": 0.0
   },

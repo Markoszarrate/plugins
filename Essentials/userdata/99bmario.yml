@@ -1,15 +1,15 @@
 timestamps:
-  login: 1361812415168
-  logout: 1361814300559
-  lastteleport: 1361813853550
-ipAddress: 66.110.221.162
+  login: 1361843420828
+  logout: 1361843428242
+  lastteleport: 1361840966579
+ipAddress: 74.166.70.232
 lastlocation:
   world: Ellesmera
-  x: -822.667133070014
-  y: 58.0
-  z: -1438.7064113659471
-  yaw: -358.1579
-  pitch: 19.03199
+  x: -825.6258547983865
+  y: 17.0
+  z: -1403.240168542613
+  yaw: -258.7884
+  pitch: -5.2450886
 homes:
   home:
     world: world
@@ -20,9 +20,9 @@ homes:
     pitch: 14.951972
 money: 1623.7168996374007
 logoutlocation:
-  world: world
-  x: 961.6999999880791
-  y: 63.0
-  z: 133.5893753519458
-  yaw: 54.927002
-  pitch: 13.65
+  world: Ellesmera
+  x: -682.3721801494895
+  y: 7.0
+  z: -1428.377372167306
+  yaw: -90.9613
+  pitch: 8.700001

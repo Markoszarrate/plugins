@@ -1,6 +1,6 @@
 timestamps:
-  login: 1361740240512
-  logout: 1361740493803
+  login: 1361839607275
+  logout: 1361839677947
   lastteleport: 1361740408347
   mute: 0
   jail: 0
@@ -163,8 +163,8 @@ jailed: false
 nickname: MonkeysBitch
 logoutlocation:
   world: Ellesmera
-  x: -479.9150465800232
-  y: 65.0
-  z: -546.478444197053
-  yaw: 5.0989075
-  pitch: 6.8999624
+  x: -589.4459455594528
+  y: 68.0
+  z: -579.7979565025516
+  yaw: 165.59886
+  pitch: 35.69996
