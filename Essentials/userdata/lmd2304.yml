@@ -1,7 +1,7 @@
 timestamps:
-  login: 1361839413896
-  logout: 1361839428730
-  lastteleport: 1361754484550
+  login: 1361914755579
+  logout: 1361916499187
+  lastteleport: 1361916452836
   mute: 0
 ipAddress: 24.245.243.166
 afk: false
@@ -9,18 +9,18 @@ ban:
   reason: Temporarily banned from server for  10 minutes
   timeout: 0
 lastlocation:
-  world: arena
-  x: 83.43260931999548
-  y: 32.0
-  z: -14.393684271232384
-  yaw: -324.70294
-  pitch: 9.142733
+  world: world
+  x: 876.779230892738
+  y: 63.0
+  z: 21.25065063760495
+  yaw: -267.18994
+  pitch: 17.500828
 muted: false
 money: 146336.41531240297
 logoutlocation:
   world: world
-  x: 910.6991388423043
+  x: 874.3000000119209
   y: 64.0
-  z: 1328.0812776370824
-  yaw: -97.006035
-  pitch: 17.500813
+  z: 1345.487500011921
+  yaw: -199.10406
+  pitch: 65.423996

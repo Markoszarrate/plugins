@@ -1,5 +1,5 @@
 timestamps:
-  login: 1361710847790
+  login: 1361922756565
   lastteleport: 1361710158564
   lastheal: 1356058326757
   logout: 1361711140730
@@ -91,8 +91,8 @@ jailed: false
 nickname: §5Markoszarrate
 logoutlocation:
   world: arena
-  x: 161.07426383992552
-  y: 38.0
-  z: 8.09160327708258
-  yaw: -247.7111
-  pitch: 28.500029
+  x: 154.84234398033314
+  y: 40.75741884742997
+  z: 18.3757556300342
+  yaw: -175.85352
+  pitch: -0.7500459

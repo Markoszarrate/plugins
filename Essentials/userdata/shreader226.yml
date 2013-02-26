@@ -1,14 +1,14 @@
 lastlocation:
-  world: Ellesmera
-  x: -758.5
-  y: 12.0
-  z: -1435.5
-  yaw: -115.0421
-  pitch: 33.35091
+  world: world_nether
+  x: 874.6938965122389
+  y: 74.0
+  z: -100.27364511465045
+  yaw: 35.716164
+  pitch: 18.45
 timestamps:
-  login: 1361836851529
-  lastteleport: 1361841578418
-  logout: 1361843621422
+  login: 1361921861633
+  lastteleport: 1361917128554
+  logout: 1361921895211
 ipAddress: 50.150.21.224
 money: 11792.332093023942
 homes:
@@ -34,9 +34,9 @@ homes:
     yaw: -74.852104
     pitch: 36.750015
 logoutlocation:
-  world: Ellesmera
-  x: -668.6999999880791
-  y: 6.0
-  z: -1479.5392780051554
-  yaw: 199.77957
-  pitch: -1.3958265
+  world: world
+  x: 924.3000000119209
+  y: 62.0
+  z: 124.36203430958817
+  yaw: -190.65154
+  pitch: -1.2000008

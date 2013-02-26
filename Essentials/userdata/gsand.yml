@@ -1,8 +1,8 @@
 timestamps:
-  login: 1359876849676
+  login: 1361902232957
   lastteleport: 1359618782917
-  logout: 1359876954907
-ipAddress: 96.229.128.245
+  logout: 1361902263475
+ipAddress: 71.92.67.95
 lastlocation:
   world: arena
   x: 800.7405383058648
@@ -10,3 +10,10 @@ lastlocation:
   z: -1183.717319314586
   yaw: 10.540405
   pitch: 15.278482
+logoutlocation:
+  world: arena
+  x: 798.7384436845098
+  y: 33.5
+  z: -1219.4612185179953
+  yaw: 167.54584
+  pitch: 0.16441092

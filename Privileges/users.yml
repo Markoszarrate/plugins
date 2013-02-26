@@ -517,3 +517,6 @@ users:
   rickyle00:
     group: player
     worlds: {}
+  xbox360kicksbutt:
+    group: player
+    worlds: {}

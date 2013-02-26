@@ -43,10 +43,10 @@
     "factionId": "67",
     "role": "NORMAL",
     "title": "",
-    "power": 4.1212300000000015,
+    "power": 8.968423333333334,
     "powerBoost": 0.0,
-    "lastPowerUpdateTime": 1361841846451,
-    "lastLoginTime": 1361841846451,
+    "lastPowerUpdateTime": 1361922297106,
+    "lastLoginTime": 1361922297106,
     "chatMode": "PUBLIC"
   },
   "cosmodude15": {
@@ -179,6 +179,16 @@
     "lastLoginTime": 1361638770422,
     "chatMode": "PUBLIC"
   },
+  "coolemmanuel1": {
+    "factionId": "0",
+    "role": "NORMAL",
+    "title": "",
+    "power": 2.575636666666667,
+    "powerBoost": 0.0,
+    "lastPowerUpdateTime": 1361917180935,
+    "lastLoginTime": 1361917180935,
+    "chatMode": "PUBLIC"
+  },
   "Megamew2": {
     "factionId": "0",
     "role": "NORMAL",
@@ -197,16 +207,6 @@
     "powerBoost": 0.0,
     "lastPowerUpdateTime": 1361604003646,
     "lastLoginTime": 1361604003646,
-    "chatMode": "PUBLIC"
-  },
-  "Markoszarrate": {
-    "factionId": "0",
-    "role": "NORMAL",
-    "title": "",
-    "power": 7.827616666666666,
-    "powerBoost": 0.0,
-    "lastPowerUpdateTime": 1361711141804,
-    "lastLoginTime": 1361711141804,
     "chatMode": "PUBLIC"
   },
   "MrTwister22": {
@@ -263,20 +263,20 @@
     "factionId": "0",
     "role": "NORMAL",
     "title": "",
-    "power": -9.338053333333333,
+    "power": -9.291333333333334,
     "powerBoost": 0.0,
-    "lastPowerUpdateTime": 1361839428785,
-    "lastLoginTime": 1361839428785,
+    "lastPowerUpdateTime": 1361916500262,
+    "lastLoginTime": 1361916500262,
     "chatMode": "PUBLIC"
   },
   "RickyLe00": {
     "factionId": "0",
     "role": "NORMAL",
     "title": "",
-    "power": 1.0965500000000001,
+    "power": -8.620786666666667,
     "powerBoost": 0.0,
-    "lastPowerUpdateTime": 1361846206585,
-    "lastLoginTime": 1361846206585,
+    "lastPowerUpdateTime": 1361921765714,
+    "lastLoginTime": 1361921765714,
     "chatMode": "PUBLIC"
   },
   "genofawesome": {
@@ -353,10 +353,10 @@
     "factionId": "0",
     "role": "NORMAL",
     "title": "",
-    "power": 2.6613700000000016,
+    "power": -7.187586666666666,
     "powerBoost": 0.0,
-    "lastPowerUpdateTime": 1361843622256,
-    "lastLoginTime": 1361843622256,
+    "lastPowerUpdateTime": 1361921898615,
+    "lastLoginTime": 1361921898615,
     "chatMode": "PUBLIC"
   },
   "BrAv03260": {
