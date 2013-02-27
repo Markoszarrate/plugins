@@ -2,7 +2,7 @@ timestamps:
   login: 1361922756565
   lastteleport: 1361710158564
   lastheal: 1356058326757
-  logout: 1361711140730
+  logout: 1361926653494
   mute: 0
   jail: 0
 ipAddress: 200.26.183.34
@@ -91,8 +91,8 @@ jailed: false
 nickname: §5Markoszarrate
 logoutlocation:
   world: arena
-  x: 154.84234398033314
-  y: 40.75741884742997
-  z: 18.3757556300342
-  yaw: -175.85352
-  pitch: -0.7500459
+  x: 17.714988887188202
+  y: 63.0
+  z: -81.76134252488491
+  yaw: 48.840088
+  pitch: 48.299995

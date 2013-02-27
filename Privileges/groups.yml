@@ -194,3 +194,8 @@ groups:
     - essentials.suicide
     - essentials.back
     - essentials.spawn
+    - essentials.msg
+    - essentials.me
+    - essentials.tpdeny
+    - essentials.tpaccept
+    - essentials.tpa
