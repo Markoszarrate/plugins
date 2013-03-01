@@ -1,7 +1,7 @@
 timestamps:
-  login: 1361927950401
+  login: 1362004878426
   lastteleport: 1361928158066
-  logout: 1361929164334
+  logout: 1362004950156
 ipAddress: 76.97.121.5
 lastlocation:
   world: arena
@@ -12,16 +12,21 @@ lastlocation:
   pitch: 38.57932
 logoutlocation:
   world: world
-  x: 952.9524401011727
+  x: 938.8718921357994
   y: 64.0
-  z: 124.43138339712796
-  yaw: -173.92053
-  pitch: 21.439178
+  z: 75.13652685151945
+  yaw: 87.869644
+  pitch: 19.660448
 homes:
   home:
     world: world
-    x: 948.7508037270859
+    x: 938.2252901068057
     y: 64.0
-    z: 125.50967388577462
-    yaw: -205.99529
-    pitch: 22.73273
+    z: 106.61022808411802
+    yaw: -1.5508728
+    pitch: 22.894438
+ban:
+  reason: '§4Banned:
+
+    §rGrief'
+  timeout: 0

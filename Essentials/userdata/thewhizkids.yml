@@ -1,6 +1,6 @@
 timestamps:
-  login: 1361458852450
-  logout: 1361458946844
+  login: 1362049656368
+  logout: 1362049762328
 ipAddress: 94.210.16.143
 lastlocation:
   world: world_nether
@@ -10,3 +10,10 @@ lastlocation:
   yaw: 257.87424
   pitch: 13.620673
 money: 1500.0
+logoutlocation:
+  world: arena
+  x: 799.5
+  y: 32.0
+  z: -1178.5
+  yaw: -123.924225
+  pitch: 3.2706661

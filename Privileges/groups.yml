@@ -131,6 +131,15 @@ groups:
     rank: 5
     permissions:
     - group.vip
+    - essentials.spawn
+    - essentials.fly
+    - essentials.feed
+    - essentials.home
+    - essentials.back
+    - essentials.backondeath
+    - essentials.msg
+    - essentials.rules
+    - essentials.help
   mod:
     rank: 10
     permissions:

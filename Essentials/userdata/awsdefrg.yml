@@ -1,16 +1,16 @@
 lastlocation:
-  world: realm
-  x: 1558.300000011921
-  y: 58.0
-  z: 224.81797883784287
-  yaw: 175.40082
-  pitch: 27.605658
+  world: skyworld
+  x: -109.11145511132499
+  y: 125.0
+  z: -220.56306285730025
+  yaw: -58.34997
+  pitch: 47.7
 timestamps:
-  login: 1354725244935
-  logout: 1354726960499
-  lastteleport: 1354726521187
+  login: 1362092785660
+  logout: 1362093049670
+  lastteleport: 1361982899104
   mute: 0
-ipAddress: 166.254.78.209
+ipAddress: 208.102.102.155
 afk: false
 muted: false
 homes:
@@ -21,5 +21,12 @@ homes:
     z: 230.98630748097372
     yaw: -348.48224
     pitch: 14.549932
-godmode: true
+godmode: false
 money: 1037860.5418116549
+logoutlocation:
+  world: realm
+  x: 1557.574999988079
+  y: 58.3125
+  z: 221.42500001192093
+  yaw: 239.50542
+  pitch: 29.399994

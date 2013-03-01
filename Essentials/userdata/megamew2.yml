@@ -1,17 +1,17 @@
 timestamps:
-  login: 1361667590970
-  lastteleport: 1361666450366
-  logout: 1361668223316
+  login: 1362093930716
+  lastteleport: 1362094048608
+  logout: 1362094231430
   mute: 0
   jail: 0
 ipAddress: 64.250.174.149
 lastlocation:
-  world: realm
-  x: 1408.300000011921
-  y: 54.0
-  z: -212.37423010880363
-  yaw: 57.5997
-  pitch: -47.99993
+  world: Ellesmera
+  x: -1109.5350877604383
+  y: 128.0
+  z: -1168.8743054909187
+  yaw: 135.60002
+  pitch: 37.49998
 afk: false
 homes:
   hotels:
@@ -190,8 +190,8 @@ ban:
   timeout: 0
 logoutlocation:
   world: world
-  x: 896.3318957981927
-  y: 63.7531999805212
-  z: 1091.8506303283252
-  yaw: -275.188
-  pitch: 46.94993
+  x: 857.9743987459298
+  y: 40.0
+  z: 1403.2040552521853
+  yaw: -11.550064
+  pitch: 16.200022
