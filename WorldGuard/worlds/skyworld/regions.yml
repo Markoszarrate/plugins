@@ -15,8 +15,8 @@ regions:
         min: {x: -160.0, y: 0.0, z: -270.0}
         max: {x: -60.0, y: 255.0, z: -170.0}
         priority: 100
-        flags: {pvp: deny, greeting: You are entering a protected island area. (awsdefrg),
-            farewell: You are leaving a protected island area. (awsdefrg), chest-access: deny,
+        flags: {pvp: deny, farewell: You are leaving a protected island area. (awsdefrg),
+            greeting: You are entering a protected island area. (awsdefrg), chest-access: deny,
             use: deny}
         owners:
             players: [awsdefrg]
@@ -26,19 +26,30 @@ regions:
         min: {x: 60.0, y: 0.0, z: -50.0}
         max: {x: 160.0, y: 255.0, z: 50.0}
         priority: 100
-        flags: {pvp: deny, greeting: You are entering a protected island area. (bluehulk4),
-            farewell: You are leaving a protected island area. (bluehulk4), chest-access: deny,
+        flags: {pvp: deny, farewell: You are leaving a protected island area. (bluehulk4),
+            greeting: You are entering a protected island area. (bluehulk4), chest-access: deny,
             use: deny}
         owners:
             players: [bluehulk4]
+        members: {}
+    bobmarkerisland:
+        type: cuboid
+        min: {x: -270.0, y: 0.0, z: -160.0}
+        max: {x: -170.0, y: 255.0, z: -60.0}
+        priority: 100
+        flags: {pvp: deny, farewell: You are leaving a protected island area. (BobMarker),
+            greeting: You are entering a protected island area. (BobMarker), chest-access: deny,
+            use: deny}
+        owners:
+            players: [bobmarker]
         members: {}
     brav03260island:
         type: cuboid
         min: {x: 170.0, y: 0.0, z: 60.0}
         max: {x: 270.0, y: 255.0, z: 160.0}
         priority: 100
-        flags: {pvp: deny, greeting: You are entering a protected island area. (BrAv03260),
-            farewell: You are leaving a protected island area. (BrAv03260), chest-access: deny,
+        flags: {pvp: deny, farewell: You are leaving a protected island area. (BrAv03260),
+            greeting: You are entering a protected island area. (BrAv03260), chest-access: deny,
             use: deny}
         owners:
             players: [brav03260]
@@ -48,8 +59,8 @@ regions:
         min: {x: 170.0, y: 0.0, z: -270.0}
         max: {x: 270.0, y: 255.0, z: -170.0}
         priority: 100
-        flags: {pvp: deny, greeting: You are entering a protected island area. (coolemmanuel1),
-            farewell: You are leaving a protected island area. (coolemmanuel1), chest-access: deny,
+        flags: {pvp: deny, farewell: You are leaving a protected island area. (coolemmanuel1),
+            greeting: You are entering a protected island area. (coolemmanuel1), chest-access: deny,
             use: deny}
         owners:
             players: [coolemmanuel1]
@@ -59,8 +70,8 @@ regions:
         min: {x: -160.0, y: 0.0, z: -160.0}
         max: {x: -60.0, y: 255.0, z: -60.0}
         priority: 100
-        flags: {pvp: deny, greeting: You are entering a protected island area. (Gboy1726),
-            farewell: You are leaving a protected island area. (Gboy1726), chest-access: deny,
+        flags: {pvp: deny, farewell: You are leaving a protected island area. (Gboy1726),
+            greeting: You are entering a protected island area. (Gboy1726), chest-access: deny,
             use: deny}
         owners:
             players: [gboy1726]
@@ -70,8 +81,8 @@ regions:
         min: {x: -160.0, y: 0.0, z: 170.0}
         max: {x: -60.0, y: 255.0, z: 270.0}
         priority: 100
-        flags: {pvp: deny, greeting: You are entering a protected island area. (genofawesome),
-            farewell: You are leaving a protected island area. (genofawesome), chest-access: deny,
+        flags: {pvp: deny, farewell: You are leaving a protected island area. (genofawesome),
+            greeting: You are entering a protected island area. (genofawesome), chest-access: deny,
             use: deny}
         owners:
             players: [genofawesome]
@@ -81,8 +92,8 @@ regions:
         min: {x: -50.0, y: 0.0, z: 170.0}
         max: {x: 50.0, y: 255.0, z: 270.0}
         priority: 100
-        flags: {pvp: deny, greeting: You are entering a protected island area. (jenyah),
-            farewell: You are leaving a protected island area. (jenyah), chest-access: deny,
+        flags: {pvp: deny, farewell: You are leaving a protected island area. (jenyah),
+            greeting: You are entering a protected island area. (jenyah), chest-access: deny,
             use: deny}
         owners:
             players: [jenyah]
@@ -92,8 +103,8 @@ regions:
         min: {x: 60.0, y: 0.0, z: 60.0}
         max: {x: 160.0, y: 255.0, z: 160.0}
         priority: 100
-        flags: {pvp: deny, greeting: You are entering a protected island area. (Markoszarrate),
-            farewell: You are leaving a protected island area. (Markoszarrate), chest-access: deny,
+        flags: {pvp: deny, farewell: You are leaving a protected island area. (Markoszarrate),
+            greeting: You are entering a protected island area. (Markoszarrate), chest-access: deny,
             use: deny}
         owners:
             players: [markoszarrate]
@@ -103,19 +114,30 @@ regions:
         min: {x: -50.0, y: 0.0, z: -270.0}
         max: {x: 50.0, y: 255.0, z: -170.0}
         priority: 100
-        flags: {pvp: deny, greeting: You are entering a protected island area. (miningoshawott),
-            farewell: You are leaving a protected island area. (miningoshawott), chest-access: deny,
-            use: deny}
+        flags: {pvp: deny, farewell: You are leaving a protected island area. (miningoshawott),
+            greeting: You are entering a protected island area. (miningoshawott),
+            chest-access: deny, use: deny}
         owners:
             players: [miningoshawott]
+        members: {}
+    mistykittenisland:
+        type: cuboid
+        min: {x: -270.0, y: 0.0, z: -270.0}
+        max: {x: -170.0, y: 255.0, z: -170.0}
+        priority: 100
+        flags: {pvp: deny, farewell: You are leaving a protected island area. (mistykitten),
+            greeting: You are entering a protected island area. (mistykitten), chest-access: deny,
+            use: deny}
+        owners:
+            players: [mistykitten]
         members: {}
     monkeypuddlesisland:
         type: cuboid
         min: {x: -50.0, y: 0.0, z: 60.0}
         max: {x: 50.0, y: 255.0, z: 160.0}
         priority: 100
-        flags: {pvp: deny, greeting: You are entering a protected island area. (monkeypuddles),
-            farewell: You are leaving a protected island area. (monkeypuddles), chest-access: deny,
+        flags: {pvp: deny, farewell: You are leaving a protected island area. (monkeypuddles),
+            greeting: You are entering a protected island area. (monkeypuddles), chest-access: deny,
             use: deny}
         owners:
             players: [monkeypuddles]
@@ -125,8 +147,8 @@ regions:
         min: {x: -160.0, y: 0.0, z: -50.0}
         max: {x: -60.0, y: 255.0, z: 50.0}
         priority: 100
-        flags: {pvp: deny, greeting: You are entering a protected island area. (nadija10),
-            farewell: You are leaving a protected island area. (nadija10), chest-access: deny,
+        flags: {pvp: deny, farewell: You are leaving a protected island area. (nadija10),
+            greeting: You are entering a protected island area. (nadija10), chest-access: deny,
             use: deny}
         owners:
             players: [nadija10]
@@ -136,8 +158,8 @@ regions:
         min: {x: -160.0, y: 0.0, z: 60.0}
         max: {x: -60.0, y: 255.0, z: 160.0}
         priority: 100
-        flags: {pvp: deny, greeting: You are entering a protected island area. (naynghast),
-            farewell: You are leaving a protected island area. (naynghast), chest-access: deny,
+        flags: {pvp: deny, farewell: You are leaving a protected island area. (naynghast),
+            greeting: You are entering a protected island area. (naynghast), chest-access: deny,
             use: deny}
         owners:
             players: [naynghast]
@@ -147,8 +169,8 @@ regions:
         min: {x: 170.0, y: 0.0, z: 170.0}
         max: {x: 270.0, y: 255.0, z: 270.0}
         priority: 100
-        flags: {pvp: deny, greeting: You are entering a protected island area. (RKOBRO),
-            farewell: You are leaving a protected island area. (RKOBRO), chest-access: deny,
+        flags: {pvp: deny, farewell: You are leaving a protected island area. (RKOBRO),
+            greeting: You are entering a protected island area. (RKOBRO), chest-access: deny,
             use: deny}
         owners:
             players: [oldsoldier2003, rkobro]
@@ -158,8 +180,8 @@ regions:
         min: {x: 170.0, y: 0.0, z: -50.0}
         max: {x: 270.0, y: 255.0, z: 50.0}
         priority: 100
-        flags: {pvp: deny, greeting: You are entering a protected island area. (shreader226),
-            farewell: You are leaving a protected island area. (shreader226), chest-access: deny,
+        flags: {pvp: deny, farewell: You are leaving a protected island area. (shreader226),
+            greeting: You are entering a protected island area. (shreader226), chest-access: deny,
             use: deny}
         owners:
             players: [shreader226]
@@ -169,9 +191,9 @@ regions:
         min: {x: 60.0, y: 0.0, z: 170.0}
         max: {x: 160.0, y: 255.0, z: 270.0}
         priority: 100
-        flags: {pvp: deny, greeting: You are entering a protected island area. (whasuppeeps123),
-            farewell: You are leaving a protected island area. (whasuppeeps123), chest-access: deny,
-            use: deny}
+        flags: {pvp: deny, farewell: You are leaving a protected island area. (whasuppeeps123),
+            greeting: You are entering a protected island area. (whasuppeeps123),
+            chest-access: deny, use: deny}
         owners:
             players: [whasuppeeps123]
         members: {}

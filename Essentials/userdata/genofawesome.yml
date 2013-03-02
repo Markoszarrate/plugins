@@ -1,6 +1,6 @@
 timestamps:
-  login: 1361923464142
-  logout: 1361928193434
+  login: 1362173611329
+  logout: 1362174402762
   lastteleport: 1361928145256
   mute: 0
   jail: 0
@@ -10,11 +10,11 @@ money: 398999.70734070416
 afk: false
 lastlocation:
   world: realm
-  x: 4049.500629106302
-  y: 75.0
-  z: -4024.549911276669
-  yaw: 87.681625
-  pitch: 54.000023
+  x: 4071.2553751744736
+  y: 65.74287423381075
+  z: -4052.5383371552384
+  yaw: -267.21838
+  pitch: 23.099993
 muted: false
 homes:
   castle:
@@ -93,9 +93,9 @@ godmode: false
 nickname: §3captainofawesomeness
 logoutlocation:
   world: world
-  x: 880.0672808086094
-  y: 71.0
-  z: 122.45926805824817
-  yaw: 85.22733
-  pitch: 24.851992
+  x: 758.5931582429223
+  y: 75.0
+  z: 228.10842529623415
+  yaw: 107.62366
+  pitch: 20.849985
 socialspy: true

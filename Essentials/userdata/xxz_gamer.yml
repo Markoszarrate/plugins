@@ -1,15 +1,15 @@
 timestamps:
-  login: 1361588776769
-  logout: 1361588832152
-  lastteleport: 1361588819640
+  login: 1362193790933
+  logout: 1362193907307
+  lastteleport: 1362193796023
 ipAddress: 75.42.212.91
 lastlocation:
   world: world
-  x: 1023.6287917936427
-  y: 71.875
-  z: -79.47206420641407
-  yaw: -102.00129
-  pitch: 53.099953
+  x: 749.5511768230151
+  y: 64.0
+  z: 224.96088349998158
+  yaw: -288.2071
+  pitch: 13.350038
 homes:
   xxz:
     world: world
@@ -63,3 +63,10 @@ homes:
 afk: false
 money: 84096.31117776768
 nickname: XXz
+logoutlocation:
+  world: world
+  x: 1050.3736770067562
+  y: 78.0
+  z: -78.99710675864682
+  yaw: -151.65125
+  pitch: 35.849976
