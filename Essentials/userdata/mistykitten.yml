@@ -1,15 +1,15 @@
 timestamps:
-  login: 1362193988457
-  lastteleport: 1362193717624
-  logout: 1362195148209
+  login: 1362254773886
+  lastteleport: 1362259205240
+  logout: 1362259444830
 ipAddress: 68.2.183.83
 lastlocation:
-  world: world
-  x: 788.4394569870345
-  y: 64.0
-  z: 1554.8590535389988
-  yaw: 333.88748
-  pitch: 9.663139
+  world: world_nether
+  x: 112.55380363636151
+  y: 59.0
+  z: 146.13647053005684
+  yaw: -263.26202
+  pitch: 27.96311
 homes:
   home:
     world: skyworld
@@ -20,8 +20,8 @@ homes:
     pitch: 63.75
 logoutlocation:
   world: skyworld
-  x: -220.48884534095518
-  y: 123.0
-  z: -220.57430289122084
-  yaw: 17.553131
-  pitch: 14.400019
+  x: -220.35609658434902
+  y: 125.0
+  z: -216.22280560736056
+  yaw: 17.405731
+  pitch: 42.00001

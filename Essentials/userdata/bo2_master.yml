@@ -1,0 +1,19 @@
+lastlocation:
+  world: skyworld
+  x: -219.15496618302453
+  y: 125.0
+  z: 229.14246453126427
+  yaw: 332.39453
+  pitch: 31.199863
+timestamps:
+  login: 1362519345047
+  lastteleport: 1362520073631
+  logout: 1362520086507
+ipAddress: 173.17.14.182
+logoutlocation:
+  world: arena
+  x: 799.3257973423439
+  y: 33.5
+  z: -1210.1662654297825
+  yaw: 76.200195
+  pitch: 1.0499536

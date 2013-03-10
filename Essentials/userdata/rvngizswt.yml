@@ -1,6 +1,6 @@
 timestamps:
-  login: 1360437181391
-  logout: 1360440103648
+  login: 1362790687875
+  logout: 1362790708462
   lastteleport: 1360439419309
   mute: 0
 ipAddress: 67.166.179.166
@@ -57,3 +57,10 @@ homes:
 money: 90909.61475976364
 afk: false
 muted: false
+logoutlocation:
+  world: world
+  x: 259.30000001192093
+  y: 68.0
+  z: -67.07499998807907
+  yaw: -87.75897
+  pitch: 28.650007

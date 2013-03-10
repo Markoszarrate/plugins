@@ -6,7 +6,14 @@ lastlocation:
   yaw: 82.33454
   pitch: 10.95005
 timestamps:
-  login: 1350247428619
-  logout: 1350247612057
-ipAddress: 75.139.148.201
+  login: 1362939510634
+  logout: 1362939976944
+ipAddress: 96.32.70.114
 money: 1500.0
+logoutlocation:
+  world: world
+  x: 761.6841178748926
+  y: 63.0
+  z: 1035.589440921288
+  yaw: -324.61572
+  pitch: 1.0499997

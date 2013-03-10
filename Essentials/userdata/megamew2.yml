@@ -1,7 +1,7 @@
 timestamps:
-  login: 1362093930716
+  login: 1362593946653
   lastteleport: 1362094048608
-  logout: 1362094231430
+  logout: 1362593947247
   mute: 0
   jail: 0
 ipAddress: 64.250.174.149
@@ -189,9 +189,9 @@ ban:
   reason: Temporarily banned from server for 5 minutes
   timeout: 0
 logoutlocation:
-  world: world
-  x: 857.9743987459298
-  y: 40.0
-  z: 1403.2040552521853
-  yaw: -11.550064
-  pitch: 16.200022
+  world: Ellesmera
+  x: -596.3533814040883
+  y: 68.0
+  z: -623.7254286530248
+  yaw: -52.651646
+  pitch: 32.550003

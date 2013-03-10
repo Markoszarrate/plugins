@@ -1,18 +1,18 @@
 timestamps:
-  login: 1361683782169
-  lastteleport: 1361684234179
-  logout: 1361684448977
+  login: 1362621223587
+  lastteleport: 1362621568568
+  logout: 1362621608554
   jail: 0
   lastheal: 1360425120864
   mute: 0
 ipAddress: 68.44.17.109
 lastlocation:
-  world: arena
-  x: 96.8403504715903
-  y: 49.5
-  z: -29.001989654265344
-  yaw: -0.2991333
-  pitch: 47.84994
+  world: world
+  x: 1222.7952915202175
+  y: 61.125
+  z: 138.6085163586213
+  yaw: -77.763916
+  pitch: -5.1
 homes:
   stuff:
     world: world
@@ -63,6 +63,13 @@ homes:
     z: 390.712572050736
     yaw: -165.70049
     pitch: 13.768587
+  markos:
+    world: world
+    x: 303.38432673256534
+    y: 71.0
+    z: -44.14557777577054
+    yaw: -278.255
+    pitch: 21.15001
 afk: false
 money: 1.160603830505981E7
 socialspy: true
@@ -77,9 +84,9 @@ ban:
 muted: false
 nickname: WJWD
 logoutlocation:
-  world: realm
-  x: 1222.9810361338816
-  y: 202.0
-  z: 227.58015495905485
-  yaw: -311.23962
-  pitch: 10.349976
+  world: world
+  x: 1219.1561014899153
+  y: 68.80374448667206
+  z: 141.4015106423295
+  yaw: -82.56396
+  pitch: 66.45003

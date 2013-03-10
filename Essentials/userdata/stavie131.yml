@@ -1,14 +1,21 @@
 timestamps:
-  login: 1354842739286
-  lastteleport: 1340499920530
-  logout: 1351092505444
-ipAddress: 24.177.57.179
+  login: 1362281623986
+  lastteleport: 1362281747106
+  logout: 1362282117937
+ipAddress: 71.184.133.101
 lastlocation:
-  world: Pern
-  x: -988.5489127121754
-  y: 63.0
-  z: 1304.5534498361303
-  yaw: -100.623375
-  pitch: -0.5999938
+  world: realm
+  x: 226.95889411843277
+  y: 60.0
+  z: -82.94181143727984
+  yaw: -195.93951
+  pitch: 21.67721
 money: 2831.0
 afk: false
+logoutlocation:
+  world: world_nether
+  x: 39.119748570342026
+  y: 74.0
+  z: -25.498472061118033
+  yaw: -333.66937
+  pitch: 24.023994

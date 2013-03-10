@@ -1,17 +1,17 @@
 timestamps:
-  login: 1361511266311
-  lastteleport: 1361511330272
-  logout: 1361511355491
+  login: 1362953470770
+  lastteleport: 1362953514324
+  logout: 1362953528566
   mute: 0
   jail: 0
 ipAddress: 71.80.219.81
 lastlocation:
   world: world
-  x: 787.4369912509902
-  y: 64.0
-  z: 1578.8227253694606
-  yaw: 275.087
-  pitch: 5.1631265
+  x: 786.2441438025234
+  y: 67.16610926093821
+  z: 1452.192609905228
+  yaw: 101.3802
+  pitch: 6.750129
 ban:
   reason: 'Banned: EFER'
   timeout: 0
@@ -118,3 +118,10 @@ homes:
 muted: false
 afk: false
 jailed: false
+logoutlocation:
+  world: world
+  x: -66.35236579151959
+  y: 71.0
+  z: 1560.1002512733771
+  yaw: -171.84148
+  pitch: 17.759853

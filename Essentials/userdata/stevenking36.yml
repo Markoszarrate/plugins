@@ -1,15 +1,15 @@
 timestamps:
-  login: 1354928111971
-  lastteleport: 1354841155424
-  logout: 1354928389737
+  login: 1362263606464
+  lastteleport: 1362264213485
+  logout: 1362264297552
 ipAddress: 72.70.133.63
 lastlocation:
   world: realm
-  x: 4206.413647110416
-  y: 62.0
-  z: -4347.873908183698
-  yaw: -261.03577
-  pitch: 15.14999
+  x: 4174.0
+  y: 61.0
+  z: -4385.0
+  yaw: 0.0
+  pitch: 0.0
 homes:
   home:
     world: world
@@ -35,3 +35,10 @@ homes:
 afk: false
 nickname: Stevic
 money: 24218.1671954633
+logoutlocation:
+  world: realm
+  x: 4187.06726767309
+  y: 60.0
+  z: -4385.051092047552
+  yaw: 184.16425
+  pitch: 19.649988

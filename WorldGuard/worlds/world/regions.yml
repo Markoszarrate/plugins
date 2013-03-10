@@ -45,7 +45,7 @@ regions:
         owners: {}
         members:
             players: [minecraftfan2243, yousuckcreepers, team_bous, person129, mcnugget09,
-                minecraftfan224, genofawesome, flyingpig02, megamew2, herpderp182,
+                minecraftfan224, genofawesome, flyingpig02, megamew2, naynghast, herpderp182,
                 vocalism, mrtwister22, lutenateasterix, 10667t, deathstar9000]
     spawn:
         type: cuboid

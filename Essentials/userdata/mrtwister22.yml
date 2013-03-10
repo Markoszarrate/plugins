@@ -1,16 +1,16 @@
 timestamps:
-  login: 1361681143469
-  lastteleport: 1361683926122
-  logout: 1361684385231
+  login: 1362712617720
+  lastteleport: 1362716364494
+  logout: 1362719557469
 ipAddress: 174.54.213.5
 afk: false
 lastlocation:
-  world: Ellesmera
-  x: -564.1180228241702
-  y: 72.0
-  z: -1243.5256595955402
-  yaw: -53.549652
-  pitch: 32.55008
+  world: arena
+  x: 804.4882526294999
+  y: 34.0
+  z: -1222.552800731035
+  yaw: 269.8502
+  pitch: 18.29995
 godmode: false
 socialspy: true
 money: 352512.8688652829
@@ -171,15 +171,19 @@ homes:
     pitch: -11.549965
 powertools:
   '369':
+  - lightning
+  '280':
   - kittycannon
+  '385':
+  - fireball
   '352':
-  - compass
+  - heal
 ban:
   reason: 'Banned: FUCK YOU'
 logoutlocation:
-  world: Ellesmera
-  x: -1636.272535660682
-  y: 127.0
-  z: 287.77573099272047
-  yaw: -178.65125
-  pitch: 45.600018
+  world: arena
+  x: -145.30323595862143
+  y: 35.0
+  z: -58.93956342159035
+  yaw: -129.76172
+  pitch: 35.100227

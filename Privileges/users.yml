@@ -62,7 +62,7 @@ users:
     group: owner
     worlds: {}
   cosmorocker15:
-    group: player
+    group: admin
     worlds: {}
   mrtwister:
     group: owner
@@ -539,5 +539,110 @@ users:
     group: player
     worlds: {}
   ravinjc:
+    group: player
+    worlds: {}
+  thebloodline:
+    group: player
+    worlds: {}
+  redboy7788:
+    group: player
+    worlds: {}
+  jonte254:
+    group: player
+    worlds: {}
+  legoman6497:
+    group: player
+    worlds: {}
+  mathamatical13:
+    group: player
+    worlds: {}
+  bo2_master:
+    group: player
+    worlds: {}
+  stevenking36:
+    group: player
+    worlds: {}
+  stavie131:
+    group: player
+    worlds: {}
+  icejockeylord:
+    group: player
+    worlds: {}
+  1camspike1:
+    group: player
+    worlds: {}
+  shad4w:
+    group: mod
+    worlds: {}
+  vocalism:
+    group: player
+    worlds: {}
+  leodon2:
+    group: player
+    worlds: {}
+  cyelis1224:
+    group: player
+    worlds: {}
+  dez04:
+    group: player
+    worlds: {}
+  brandieluv16:
+    group: player
+    worlds: {}
+  lunchbox1946:
+    group: player
+    worlds: {}
+  maxomaxi:
+    group: player
+    worlds: {}
+  itbckya23:
+    group: player
+    worlds: {}
+  dirtman1122:
+    group: player
+    worlds: {}
+  mr:
+    group: player
+    worlds: {}
+  tlap777:
+    group: player
+    worlds: {}
+  maxschell:
+    group: player
+    worlds: {}
+  siczor123:
+    group: player
+    worlds: {}
+  kevpkos:
+    group: player
+    worlds: {}
+  blastar:
+    group: player
+    worlds: {}
+  hiddentalent2k11:
+    group: player
+    worlds: {}
+  technobot84:
+    group: player
+    worlds: {}
+  zeldastar22:
+    group: player
+    worlds: {}
+  kingkong215:
+    group: player
+    worlds: {}
+  orageskillzo:
+    group: player
+    worlds: {}
+  rsanders4:
+    group: player
+    worlds: {}
+  cakelover78:
+    group: player
+    worlds: {}
+  herschyboy72:
+    group: player
+    worlds: {}
+  99noob:
     group: player
     worlds: {}

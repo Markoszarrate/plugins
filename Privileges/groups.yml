@@ -175,7 +175,6 @@ groups:
     - essentials.ban.offline
     - essentials.invsee
     - essentials.invsee.modify
-    - essentials.socialspy
     - essentials.tempban
     - essentials.unban
     - essentials.sethome.multiple.unlimited

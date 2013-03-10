@@ -1,20 +1,20 @@
 timestamps:
-  login: 1361737567104
-  logout: 1361737603254
-  lastteleport: 1361588747740
+  login: 1362610062372
+  logout: 1362610137019
+  lastteleport: 1362262048855
 ipAddress: 75.23.207.173
 money: 1500.0
 lastlocation:
   world: skyworld
-  x: 220.15973035079463
+  x: 219.32602812025118
   y: 125.0
-  z: 218.60084873199585
-  yaw: -277.3499
-  pitch: 32.85
+  z: 223.1151251243019
+  yaw: -68.85
+  pitch: 44.85
 logoutlocation:
   world: skyworld
-  x: 221.80849876239654
+  x: 218.98700171868379
   y: 125.0
-  z: 219.57322408315827
-  yaw: 45.000935
-  pitch: 24.900015
+  z: 222.72134848328125
+  yaw: 146.24998
+  pitch: 28.499996

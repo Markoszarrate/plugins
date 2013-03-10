@@ -6,6 +6,13 @@ lastlocation:
   yaw: -226.65001
   pitch: 30.9
 timestamps:
-  login: 1357952192659
-  logout: 1357952257212
-ipAddress: 184.36.243.121
+  login: 1362433128705
+  logout: 1362433140645
+ipAddress: 184.37.51.67
+logoutlocation:
+  world: Ellesmera
+  x: -501.78729928861395
+  y: 67.0
+  z: -649.8432285583667
+  yaw: 99.6
+  pitch: 4.1999993

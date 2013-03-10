@@ -1,11 +1,11 @@
 timestamps:
-  login: 1361612267591
+  login: 1362326695744
   lastteleport: 1361394431580
-  logout: 1361612495206
+  logout: 1362326710154
   lastheal: 1361026098280
   mute: 0
   jail: 0
-ipAddress: 81.157.182.94
+ipAddress: 87.114.41.9
 lastlocation:
   world: arena
   x: 787.0369839107688
@@ -265,3 +265,10 @@ muted: false
 godmode: false
 jailed: false
 nickname: §cCosmodude15
+logoutlocation:
+  world: arena
+  x: 787.0369839107688
+  y: 33.5
+  z: -1221.9631346141277
+  yaw: -4.049487
+  pitch: -5.9999986

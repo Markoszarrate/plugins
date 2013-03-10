@@ -1,6 +1,6 @@
 timestamps:
-  login: 1360102490106
-  logout: 1360106084939
+  login: 1362353445425
+  logout: 1362353489127
   lastteleport: 1360102552475
 ipAddress: 72.182.98.210
 lastlocation:
@@ -12,3 +12,10 @@ lastlocation:
   pitch: 0.900037
 afk: false
 money: 30.0
+logoutlocation:
+  world: arena
+  x: 786.9318782041975
+  y: 33.5
+  z: -1224.4182845772432
+  yaw: 109.20392
+  pitch: -31.649988

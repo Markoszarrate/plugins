@@ -1,7 +1,7 @@
 timestamps:
-  login: 1362015271830
-  lastteleport: 1362015478831
-  logout: 1362016279511
+  login: 1362350729275
+  lastteleport: 1362350737862
+  logout: 1362351770243
   mute: 0
   lastheal: 1360426938059
   kits:
@@ -38,12 +38,12 @@ homes:
     yaw: -244.35507
     pitch: 22.950005
 lastlocation:
-  world: Ellesmera
-  x: -512.4601721522872
-  y: 76.375
-  z: -640.2558645365684
-  yaw: 178.65002
-  pitch: 12.300004
+  world: world
+  x: 302.0
+  y: 76.5625
+  z: -40.58541533291454
+  yaw: 0.0
+  pitch: 0.0
 afk: false
 muted: false
 socialspy: true
@@ -53,9 +53,9 @@ powertools:
   '369':
   - /paste
 logoutlocation:
-  world: arena
-  x: 804.0100364176716
-  y: 35.0
-  z: -1221.631450215885
-  yaw: 154.50006
-  pitch: 29.84996
+  world: Ellesmera
+  x: -1652.120683986437
+  y: 65.0
+  z: -1631.3003866157226
+  yaw: 358.80194
+  pitch: 18.45

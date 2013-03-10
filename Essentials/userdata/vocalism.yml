@@ -1,17 +1,17 @@
 timestamps:
-  login: 1353278152328
-  lastteleport: 1353278590457
-  logout: 1353278598330
+  login: 1362515420110
+  lastteleport: 1362516718687
+  logout: 1362517014612
   jail: 0
   mute: 0
-ipAddress: 192.12.88.65
+ipAddress: 192.12.88.74
 lastlocation:
   world: world
-  x: 340.5
-  y: 63.0
-  z: 565.5
-  yaw: 196.35486
-  pitch: 19.649937
+  x: 338.30000001192093
+  y: 58.0
+  z: 555.3000000119209
+  yaw: 339.75122
+  pitch: -68.69997
 jailed: false
 muted: false
 homes:
@@ -80,3 +80,10 @@ homes:
     pitch: -1.4999537
 money: 9265.479721159076
 afk: false
+logoutlocation:
+  world: world
+  x: 341.6251537044488
+  y: 63.0
+  z: 562.4852980697511
+  yaw: 345.3053
+  pitch: 12.300044
