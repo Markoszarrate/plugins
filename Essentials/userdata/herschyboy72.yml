@@ -7,13 +7,13 @@ lastlocation:
   pitch: 39.450073
 timestamps:
   login: 1362957373526
-  logout: 1362956877881
+  logout: 1362958182149
   lastteleport: 1362957390219
 ipAddress: 99.172.32.48
 logoutlocation:
-  world: Ellesmera
-  x: -610.5207147257573
-  y: 64.0
-  z: -570.6371247524171
-  yaw: 202.50085
-  pitch: -88.65
+  world: skyworld
+  x: 329.30000001192093
+  y: -277.5351231740553
+  z: 329.30000001192093
+  yaw: 119.69978
+  pitch: 31.350002
