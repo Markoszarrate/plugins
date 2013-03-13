@@ -1,6 +1,6 @@
 timestamps:
   login: 1362957915209
-  logout: 1362691157592
+  logout: 1362958466773
   lastteleport: 1362691135727
   mute: 0
   jail: 0
@@ -93,9 +93,9 @@ godmode: false
 nickname: §3captainofawesomeness
 logoutlocation:
   world: world
-  x: 363.0223774144037
+  x: 378.5825496400737
   y: 57.0
-  z: -110.28382736799794
-  yaw: 79.650116
-  pitch: 15.900002
+  z: -111.35708452527754
+  yaw: 29.550255
+  pitch: 63.749996
 socialspy: true

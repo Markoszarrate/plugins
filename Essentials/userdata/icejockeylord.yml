@@ -8,12 +8,12 @@ lastlocation:
 timestamps:
   login: 1362958159166
   lastteleport: 1362938668938
-  logout: 1362938727082
+  logout: 1362959762889
 ipAddress: 107.8.178.198
 logoutlocation:
   world: skyworld
-  x: -220.93854012486926
-  y: 125.0
-  z: 112.11609280710049
-  yaw: -118.76849
-  pitch: 25.52567
+  x: -220.9377554107476
+  y: 124.0
+  z: 110.23815898771059
+  yaw: 90.71753
+  pitch: 11.952135

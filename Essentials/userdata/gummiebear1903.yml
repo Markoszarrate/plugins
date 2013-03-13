@@ -19,3 +19,10 @@ homes:
     yaw: -4.771479
     pitch: 4.975113
 money: 1500.0
+logoutlocation:
+  world: world
+  x: 1187.699999988079
+  y: 64.0
+  z: 161.90087441396562
+  yaw: 304.05038
+  pitch: -18.708094

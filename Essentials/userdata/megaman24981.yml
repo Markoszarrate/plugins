@@ -1,14 +1,14 @@
 lastlocation:
-  world: world
-  x: 726.3767914676669
-  y: 30.0
-  z: -570.3360607844155
-  yaw: 36.18458
-  pitch: 32.10007
+  world: arena
+  x: 113.95915242850396
+  y: 32.0
+  z: -2.683812981295259
+  yaw: -287.1902
+  pitch: 12.300004
 timestamps:
-  login: 1359410302545
-  lastteleport: 1359147004651
-  logout: 1359410398861
+  login: 1363049892464
+  lastteleport: 1363049901862
+  logout: 1363050090978
   mute: 0
 ipAddress: 98.253.135.4
 homes:
@@ -23,3 +23,10 @@ afk: false
 nickname: §0M§1e§2g§3a§4m§5a§6n§92§a4§b9§c8§e1
 money: 10880.083558094535
 muted: false
+logoutlocation:
+  world: arena
+  x: 660.9553865045584
+  y: 32.0
+  z: -1257.6132988721145
+  yaw: 194.99973
+  pitch: 3.5999649

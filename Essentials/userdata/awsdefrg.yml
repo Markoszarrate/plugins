@@ -6,11 +6,11 @@ lastlocation:
   yaw: 230.51855
   pitch: 29.699997
 timestamps:
-  login: 1362762791543
-  logout: 1362768291995
+  login: 1363041263973
+  logout: 1363041322354
   lastteleport: 1362767882067
   mute: 0
-ipAddress: 166.252.39.196
+ipAddress: 70.220.35.176
 afk: false
 muted: false
 homes:
@@ -25,8 +25,8 @@ godmode: false
 money: 1038844.6001683146
 logoutlocation:
   world: realm
-  x: 1553.2487390367837
-  y: 60.0
-  z: 245.5703344141494
-  yaw: 49.467865
-  pitch: -54.14999
+  x: 1577.4306579915433
+  y: 58.0
+  z: 237.92489044096365
+  yaw: 204.8679
+  pitch: 24.750021

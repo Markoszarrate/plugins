@@ -1,17 +1,17 @@
 timestamps:
-  login: 1358204925089
-  lastteleport: 1358205789847
-  logout: 1358205915521
+  login: 1362958331413
+  lastteleport: 1362959068708
+  logout: 1362959092616
   mute: 0
   jail: 0
-ipAddress: 72.94.192.196
+ipAddress: 71.246.17.149
 lastlocation:
   world: realm
-  x: 1605.3821636730838
-  y: 60.0
-  z: 115.53643299985603
-  yaw: 55.43266
-  pitch: 28.950058
+  x: 5577.587743741494
+  y: 78.0
+  z: -3277.204065991698
+  yaw: 267.57916
+  pitch: 20.849962
 afk: false
 homes:
   home:
@@ -140,13 +140,6 @@ homes:
     z: 219.11795512938093
     yaw: 183.38025
     pitch: 81.15
-  sonofabitch:
-    world: realm
-    x: 1223.4543955867296
-    y: 202.0
-    z: 228.3860208341126
-    yaw: 246.68262
-    pitch: 20.099993
   top:
     world: realm
     x: 1223.844763212814
@@ -154,13 +147,6 @@ homes:
     z: 232.2758901346949
     yaw: 219.08173
     pitch: 21.299973
-  fuckme:
-    world: realm
-    x: 1168.752763654891
-    y: 181.0
-    z: 168.56321331219783
-    yaw: 277.43176
-    pitch: 4.950015
   nerdpole:
     world: world_the_end
     x: 106.64824933985074
@@ -186,3 +172,10 @@ money: 5.2007427814472437E8
 muted: false
 jailed: false
 godmode: false
+logoutlocation:
+  world: world_the_end
+  x: 50.325262010761065
+  y: 1.0
+  z: -1021.4532352260469
+  yaw: 70.61047
+  pitch: 16.499893

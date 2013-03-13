@@ -6,19 +6,19 @@ lastlocation:
   yaw: 91.59405
   pitch: 32.48774
 timestamps:
-  login: 1362957446023
-  logout: 1362957936785
+  login: 1362963697962
+  logout: 1362963716860
   lastteleport: 1362949064657
-ipAddress: 96.245.199.193
+ipAddress: 71.246.17.149
 afk: false
 money: 1500.0
 logoutlocation:
   world: world
-  x: -45.92663653537399
+  x: -51.75414040538327
   y: 71.0
-  z: 1507.2627918873568
-  yaw: -19.290527
-  pitch: 90.0
+  z: 1507.8565927544946
+  yaw: -126.213776
+  pitch: 1.9523426
 homes:
   home:
     world: world
