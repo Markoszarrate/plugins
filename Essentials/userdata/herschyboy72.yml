@@ -6,14 +6,14 @@ lastlocation:
   yaw: 127.20014
   pitch: 9.5999565
 timestamps:
-  login: 1363012753536
-  logout: 1363012776477
+  login: 1363187884341
+  logout: 1363187933592
   lastteleport: 1362957390219
 ipAddress: 99.172.32.48
 logoutlocation:
-  world: skyworld
-  x: 326.6825635348568
-  y: -277.4235075155697
-  z: 333.1405391180589
-  yaw: -196.06622
-  pitch: -90.0
+  world: arena
+  x: 800.4006710879015
+  y: 33.5
+  z: -1221.699999988079
+  yaw: 169.9501
+  pitch: 8.100003
