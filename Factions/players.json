@@ -159,16 +159,6 @@
     "lastLoginTime": 1363041322460,
     "chatMode": "PUBLIC"
   },
-  "monkeypuddles": {
-    "factionId": "0",
-    "role": "NORMAL",
-    "title": "",
-    "power": 9.248000000000001,
-    "powerBoost": 0.0,
-    "lastPowerUpdateTime": 1362719141926,
-    "lastLoginTime": 1362719141926,
-    "chatMode": "PUBLIC"
-  },
   "ITBCKYA23": {
     "factionId": "0",
     "role": "NORMAL",
@@ -229,16 +219,6 @@
     "lastLoginTime": 1362530427328,
     "chatMode": "PUBLIC"
   },
-  "maxomaxi": {
-    "factionId": "0",
-    "role": "NORMAL",
-    "title": "",
-    "power": 0.6153033333333334,
-    "powerBoost": 0.0,
-    "lastPowerUpdateTime": 1362518831214,
-    "lastLoginTime": 1362518831214,
-    "chatMode": "PUBLIC"
-  },
   "siczor123": {
     "factionId": "0",
     "role": "NORMAL",
@@ -257,6 +237,16 @@
     "powerBoost": 0.0,
     "lastPowerUpdateTime": 1363126844524,
     "lastLoginTime": 1363126844524,
+    "chatMode": "PUBLIC"
+  },
+  "maxomaxi": {
+    "factionId": "0",
+    "role": "NORMAL",
+    "title": "",
+    "power": 0.6153033333333334,
+    "powerBoost": 0.0,
+    "lastPowerUpdateTime": 1362518831214,
+    "lastLoginTime": 1362518831214,
     "chatMode": "PUBLIC"
   },
   "Markoszarrate": {
