@@ -1,7 +1,7 @@
 timestamps:
-  login: 1362593946653
+  login: 1363311372463
   lastteleport: 1362094048608
-  logout: 1362593947247
+  logout: 1363311397333
   mute: 0
   jail: 0
 ipAddress: 64.250.174.149
@@ -190,8 +190,8 @@ ban:
   timeout: 0
 logoutlocation:
   world: Ellesmera
-  x: -596.3533814040883
+  x: -574.0552216224946
   y: 68.0
-  z: -623.7254286530248
-  yaw: -52.651646
-  pitch: 32.550003
+  z: -592.991678385288
+  yaw: -88.3517
+  pitch: 15.900004

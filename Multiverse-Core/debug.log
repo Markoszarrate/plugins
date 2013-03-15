@@ -9025,3 +9025,7 @@
 2013-03-14 10:45:14 [WARNING] [Multiverse-Core] Original Location: X: 845 Y: 4 Z: -389 P: 0 Y: 0 
 2013-03-14 10:45:15 [SEVERE] [Multiverse-Core] New safe spawn NOT found!!!
 2013-03-14 10:45:15 [INFO] [Multiverse-Core] 8 - World(s) loaded.
+2013-03-14 10:54:33 [INFO] [Multiverse-Core] Loading World & Settings - 'bastion' - Env: NORMAL - Type: NORMAL & generator: PlotMe
+2013-03-14 10:54:35 [WARNING] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2013-03-14 10:54:35 [WARNING] [Multiverse-Core] Original Location: X: 0 Y: 66 Z: 0 P: 0 Y: 0 
+2013-03-14 10:54:35 [INFO] [Multiverse-Core] New Spawn for 'bastion' is Located at: bastion:3.50,66.00,3.50:0.00:0.00

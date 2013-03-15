@@ -1,6 +1,6 @@
 timestamps:
-  login: 1362939062353
-  logout: 1362939394350
+  login: 1363299490168
+  logout: 1363299765775
   lastteleport: 1362777981892
 ipAddress: 2.123.251.92
 lastlocation:
@@ -23,8 +23,8 @@ homes:
 nickname: §cShad4w
 logoutlocation:
   world: world
-  x: -284.81982957965664
+  x: -285.84849629389873
   y: 89.0
-  z: 66.72924940956638
-  yaw: -89.39584
-  pitch: 14.399968
+  z: 77.69999998807909
+  yaw: 278.70422
+  pitch: 40.799877

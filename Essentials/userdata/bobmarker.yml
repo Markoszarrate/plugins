@@ -1,7 +1,7 @@
 timestamps:
-  login: 1363057269100
-  lastteleport: 1363057502493
-  logout: 1363057670174
+  login: 1363299378013
+  lastteleport: 1363299396300
+  logout: 1363309521316
   mute: 0
   kits:
     tools: 1343199223693
@@ -176,12 +176,12 @@ homes:
     yaw: -3.1416016
     pitch: 1.7999809
 lastlocation:
-  world: world
-  x: 1156.5134875425138
-  y: 63.0
-  z: 133.05797999413264
-  yaw: -1.8632812
-  pitch: 15.150002
+  world: bastion
+  x: 0.4935874930924745
+  y: 2.0
+  z: 0.36492920698174935
+  yaw: -4.500174
+  pitch: 11.099949
 afk: false
 muted: false
 money: 1013741.8653637511
@@ -199,10 +199,10 @@ powertoolsenabled: true
 teleportenabled: false
 godmode: false
 logoutlocation:
-  world: world
-  x: 2593.7455378739724
-  y: 96.02545737419887
-  z: -450.5305782491555
-  yaw: -340.3088
-  pitch: 56.099995
+  world: bastion
+  x: -140.2574242897572
+  y: 66.03759099551446
+  z: -71.57649443344232
+  yaw: -262.64844
+  pitch: 22.950005
 nickname: §2Robert§8D§3Marker

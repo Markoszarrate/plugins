@@ -1,11 +1,11 @@
 timestamps:
-  login: 1363242482208
-  lastteleport: 1363242942585
-  logout: 1363243044850
+  login: 1363299323049
+  lastteleport: 1363245130815
+  logout: 1363299781023
   kits:
     dtools: 1342461143739
   mute: 0
-ipAddress: 97.113.31.160
+ipAddress: 64.95.183.1
 money: 228174.49070947
 afk: false
 homes:
@@ -47,11 +47,11 @@ homes:
 socialspy: true
 lastlocation:
   world: bastion
-  x: 0.0
-  y: 42.0
-  z: 0.0
-  yaw: -5.7
-  pitch: 14.100007
+  x: 20.81102731131771
+  y: 76.86484574367572
+  z: 17.586582481504326
+  yaw: -275.9997
+  pitch: 24.450014
 godmode: false
 muted: false
 nickname: §2Monkey
@@ -59,9 +59,9 @@ ban:
   reason: Temporarily banned from server for 5 seconds
   timeout: 0
 logoutlocation:
-  world: arena
-  x: -142.5835324163491
-  y: 42.0
-  z: -31.0962016883549
-  yaw: -208.81104
-  pitch: 25.799969
+  world: bastion
+  x: -103.57408643077613
+  y: 65.0
+  z: -70.08070891384558
+  yaw: -95.5509
+  pitch: 14.250002

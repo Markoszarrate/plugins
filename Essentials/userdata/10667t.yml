@@ -1,6 +1,6 @@
 timestamps:
-  login: 1359991400123
-  logout: 1359992079839
+  login: 1363293422614
+  logout: 1363293457014
   lastteleport: 1359991761262
 ipAddress: 71.46.69.91
 lastlocation:
@@ -28,3 +28,10 @@ homes:
     pitch: 25.350002
 money: 453.90424216756105
 nickname: Tyler
+logoutlocation:
+  world: world
+  x: 823.0749999880791
+  y: 20.0
+  z: 1442.4247470659666
+  yaw: -252.64626
+  pitch: 78.450005

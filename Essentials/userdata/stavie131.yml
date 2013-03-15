@@ -1,8 +1,8 @@
 timestamps:
-  login: 1362281623986
+  login: 1363306541190
   lastteleport: 1362281747106
-  logout: 1362282117937
-ipAddress: 71.184.133.101
+  logout: 1363306647577
+ipAddress: 24.177.57.179
 lastlocation:
   world: realm
   x: 226.95889411843277
@@ -13,9 +13,9 @@ lastlocation:
 money: 2831.0
 afk: false
 logoutlocation:
-  world: world_nether
-  x: 39.119748570342026
-  y: 74.0
-  z: -25.498472061118033
-  yaw: -333.66937
-  pitch: 24.023994
+  world: arena
+  x: 677.0869575985406
+  y: 32.0
+  z: -1253.116505393626
+  yaw: -92.55019
+  pitch: -29.85004

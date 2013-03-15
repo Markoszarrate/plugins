@@ -1,7 +1,7 @@
 timestamps:
-  login: 1362957915209
-  logout: 1362958466773
-  lastteleport: 1362691135727
+  login: 1363299906525
+  logout: 1363300441660
+  lastteleport: 1363299453450
   mute: 0
   jail: 0
   lastheal: 1360426591124
@@ -9,12 +9,12 @@ ipAddress: 99.101.98.35
 money: 398999.70734070416
 afk: false
 lastlocation:
-  world: arena
-  x: 372.7103747977055
-  y: 52.20796029940866
-  z: -263.8890247839063
-  yaw: 339.00037
-  pitch: 11.400005
+  world: world
+  x: 361.8028499427664
+  y: 51.875
+  z: -115.68971684083226
+  yaw: 295.79996
+  pitch: 16.64998
 muted: false
 homes:
   castle:
@@ -81,8 +81,8 @@ homes:
     yaw: 358.64938
     pitch: 88.350006
 ban:
-  reason: Temporarily banned from server for 1 year 11 months 1 day
-  timeout: 1420905725383
+  reason: Temporarily banned from server for 15 minutes.
+  timeout: 0
 mail:
 - 'Megamew2: if u ever can get to my server, say this code: Generationawesome'
 - 'Megamew2: only talk in mail about this'
@@ -92,10 +92,10 @@ jailed: false
 godmode: false
 nickname: §3captainofawesomeness
 logoutlocation:
-  world: world
-  x: 378.5825496400737
-  y: 57.0
-  z: -111.35708452527754
-  yaw: 29.550255
-  pitch: 63.749996
+  world: bastion
+  x: 27.351379261826438
+  y: 67.74848791821934
+  z: 19.754663532415805
+  yaw: 348.748
+  pitch: 0.8999986
 socialspy: true

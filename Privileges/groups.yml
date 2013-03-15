@@ -7,7 +7,7 @@
 groups:
   player:
     data:
-      promotion: mod
+      promotion: vip
     rank: 1
     permissions:
     - essentials.me
@@ -109,6 +109,8 @@ groups:
     - usb.party.makeleader
     - usb.party.join
     - usb.island.challenges
+    - plotme.use
+    - plotme.limit.5
     inheritance: []
   owner:
     rank: 100
@@ -149,6 +151,7 @@ groups:
     - essentials.jail
     - essentials.jails
     - essentials.togglejail
+    - plotme.limit.8
   admin:
     rank: 50
     permissions:
@@ -207,3 +210,6 @@ groups:
     - essentials.tpdeny
     - essentials.tpaccept
     - essentials.tpa
+    - plotme.limit.10
+    - -plotme.user
+    - plotme.user

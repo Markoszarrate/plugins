@@ -1,0 +1,3 @@
+bastion:3,3,1::0:1:270.0:2,5,1:small.gate:spawn12:aero:monkeypuddles:false:true:false:bastion:false:true:false:false:false:false
+Bastion1:-8,3,-1::0:-1:90.0:-7,5,-1:small.gate:Bastion2:aero:monkeypuddles:false:true:false:bastion:false:true:false:false:false:false
+bastion2:-4,62,-1::0:-1:90.0:-3,64,-1:small.gate:bastion1:aero:monkeypuddles:false:true:false:bastion:false:true:false:false:false:false

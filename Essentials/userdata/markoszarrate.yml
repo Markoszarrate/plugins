@@ -1,8 +1,8 @@
 timestamps:
-  login: 1363046152264
+  login: 1363295087065
   lastteleport: 1362612685338
   lastheal: 1356058326757
-  logout: 1363046566249
+  logout: 1363295102348
   mute: 0
   jail: 0
 ipAddress: 200.26.183.34
@@ -91,8 +91,8 @@ jailed: false
 nickname: §5Markoszarrate
 logoutlocation:
   world: world_nether
-  x: 24.567743579373104
+  x: 24.871636931048197
   y: 73.0
-  z: -188.79735345940784
-  yaw: -163.93402
-  pitch: 33.899914
+  z: -187.86028299973887
+  yaw: -1.7841492
+  pitch: 3.15
