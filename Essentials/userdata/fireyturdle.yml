@@ -1,0 +1,27 @@
+lastlocation:
+  world: Ellesmera
+  x: -512.31382048456
+  y: 67.0
+  z: -646.6623670714517
+  yaw: -74.49237
+  pitch: 18.232553
+timestamps:
+  login: 1363465898449
+  lastteleport: 1363466451729
+  logout: 1363467375186
+ipAddress: 24.185.3.99
+homes:
+  home:
+    world: world
+    x: 872.2254843055695
+    y: 64.0
+    z: 1359.6658134010395
+    yaw: -92.97656
+    pitch: 32.06277
+logoutlocation:
+  world: world
+  x: 872.7036371503502
+  y: 64.0
+  z: 1361.9813367495046
+  yaw: -330.4729
+  pitch: 3.4679399

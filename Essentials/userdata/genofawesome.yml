@@ -1,7 +1,7 @@
 timestamps:
-  login: 1363299906525
-  logout: 1363300441660
-  lastteleport: 1363299453450
+  login: 1363481557128
+  logout: 1363484472594
+  lastteleport: 1363449987086
   mute: 0
   jail: 0
   lastheal: 1360426591124
@@ -9,12 +9,12 @@ ipAddress: 99.101.98.35
 money: 398999.70734070416
 afk: false
 lastlocation:
-  world: world
-  x: 361.8028499427664
-  y: 51.875
-  z: -115.68971684083226
-  yaw: 295.79996
-  pitch: 16.64998
+  world: bastion
+  x: 75.85015804252149
+  y: 65.0
+  z: -70.6274093111456
+  yaw: 49.049988
+  pitch: 19.649996
 muted: false
 homes:
   castle:
@@ -93,9 +93,9 @@ godmode: false
 nickname: §3captainofawesomeness
 logoutlocation:
   world: bastion
-  x: 27.351379261826438
-  y: 67.74848791821934
-  z: 19.754663532415805
-  yaw: 348.748
-  pitch: 0.8999986
+  x: 133.49402471719867
+  y: 68.0
+  z: -54.002633738810275
+  yaw: 177.44965
+  pitch: 19.199984
 socialspy: true

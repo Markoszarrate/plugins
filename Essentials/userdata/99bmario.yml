@@ -1,15 +1,15 @@
 timestamps:
-  login: 1363271474070
-  logout: 1363271559118
-  lastteleport: 1363190989206
-ipAddress: 66.110.221.162
+  login: 1363547018151
+  logout: 1363547644086
+  lastteleport: 1363547181025
+ipAddress: 74.166.70.232
 lastlocation:
-  world: world
-  x: 842.0482308056619
-  y: 64.0
-  z: 1430.5141831638757
-  yaw: -198.16278
-  pitch: 13.113129
+  world: bastion
+  x: -323.9587123542266
+  y: 80.6143559654765
+  z: -102.90956635795494
+  yaw: 198.59999
+  pitch: 90.0
 homes:
   home:
     world: world
@@ -21,8 +21,8 @@ homes:
 money: 1623.7168996374007
 logoutlocation:
   world: world
-  x: 960.1901088179947
-  y: 63.0
-  z: 133.56038157117007
-  yaw: 8.727286
-  pitch: 15.551967
+  x: 896.8228352837527
+  y: 59.151524455183065
+  z: 94.82626624922744
+  yaw: 212.66518
+  pitch: 8.907227

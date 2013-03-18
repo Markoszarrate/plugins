@@ -1,18 +1,18 @@
 timestamps:
-  login: 1362621223587
-  lastteleport: 1362621568568
-  logout: 1362621608554
+  login: 1363533752741
+  lastteleport: 1363535330662
+  logout: 1363535564617
   jail: 0
   lastheal: 1360425120864
   mute: 0
 ipAddress: 68.44.17.109
 lastlocation:
   world: world
-  x: 1222.7952915202175
-  y: 61.125
-  z: 138.6085163586213
-  yaw: -77.763916
-  pitch: -5.1
+  x: 300.0
+  y: 77.0
+  z: -40.0
+  yaw: 0.0
+  pitch: 0.0
 homes:
   stuff:
     world: world
@@ -84,9 +84,9 @@ ban:
 muted: false
 nickname: WJWD
 logoutlocation:
-  world: world
-  x: 1219.1561014899153
-  y: 68.80374448667206
-  z: 141.4015106423295
-  yaw: -82.56396
-  pitch: 66.45003
+  world: bastion
+  x: -24.30000001192093
+  y: 65.125
+  z: -23.678032447672564
+  yaw: -314.26038
+  pitch: 28.353598

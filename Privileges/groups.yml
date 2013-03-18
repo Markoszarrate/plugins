@@ -213,3 +213,4 @@ groups:
     - plotme.limit.10
     - -plotme.user
     - plotme.user
+    - plotme.use

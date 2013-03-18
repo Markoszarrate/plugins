@@ -1,17 +1,17 @@
 timestamps:
-  login: 1361839607275
-  logout: 1361839677947
-  lastteleport: 1361740408347
+  login: 1363561362237
+  logout: 1363561531230
+  lastteleport: 1363547858401
   mute: 0
   jail: 0
 ipAddress: 71.80.219.81
 lastlocation:
   world: world
-  x: 798.9846006983972
-  y: 66.0
-  z: 1533.9265304683
-  yaw: -69.86899
-  pitch: 28.349907
+  x: 152.5
+  y: 64.0
+  z: 222.5
+  yaw: -87.29883
+  pitch: -4.950019
 money: 198087.11807654786
 homes:
   home2:
@@ -70,13 +70,6 @@ homes:
     z: 612.4963083247997
     yaw: 92.397316
     pitch: 2.8499901
-  underwater:
-    world: world
-    x: 775.2807101822239
-    y: 50.0
-    z: 117.69999998807907
-    yaw: -121.94998
-    pitch: -5.8499923
   mine:
     world: world
     x: 301.16692692228986
@@ -91,20 +84,6 @@ homes:
     z: -13.53995464470829
     yaw: -90.900055
     pitch: -7.6500034
-  home3:
-    world: world
-    x: 155.02643504149012
-    y: 64.0
-    z: 222.29213663560284
-    yaw: -93.00273
-    pitch: 5.9999733
-  darkattack:
-    world: world
-    x: -267.30000001192093
-    y: 72.0
-    z: 561.7036930409973
-    yaw: -89.75575
-    pitch: 5.249994
   dark:
     world: world
     x: -204.66444778615895
@@ -112,20 +91,6 @@ homes:
     z: 618.3714337562388
     yaw: 188.75996
     pitch: 7.3500075
-  dungeon:
-    world: Dungeon
-    x: -501.1478244984362
-    y: 22.0
-    z: -122.0151907189186
-    yaw: 126.024994
-    pitch: 34.05003
-  survivalisland:
-    world: world
-    x: -1909.7605641723403
-    y: 67.0
-    z: -1046.4080081040208
-    yaw: 1.1977234
-    pitch: -4.0500245
   home:
     world: world
     x: 152.1765043214321
@@ -133,13 +98,6 @@ homes:
     z: 222.1493673666183
     yaw: -87.29883
     pitch: -4.950019
-  home4:
-    world: Pern
-    x: 113.03978193220875
-    y: 64.0
-    z: 581.3512141786388
-    yaw: -358.02612
-    pitch: 2.6999938
   parkour:
     world: world
     x: 1131.5288505985036
@@ -160,11 +118,10 @@ ban:
   reason: 'Banned: Monkey doesn''t want you in here as well'
   timeout: 0
 jailed: false
-nickname: MonkeysBitch
 logoutlocation:
-  world: Ellesmera
-  x: -589.4459455594528
-  y: 68.0
-  z: -579.7979565025516
-  yaw: 165.59886
-  pitch: 35.69996
+  world: world
+  x: 151.22004566182196
+  y: 60.0
+  z: 219.69999998807907
+  yaw: 2.2515259
+  pitch: 21.30001

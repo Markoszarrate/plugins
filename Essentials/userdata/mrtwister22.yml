@@ -1,16 +1,16 @@
 timestamps:
-  login: 1362712617720
-  lastteleport: 1362716364494
-  logout: 1362719557469
+  login: 1363486533609
+  lastteleport: 1363453553689
+  logout: 1363486557426
 ipAddress: 174.54.213.5
 afk: false
 lastlocation:
-  world: arena
-  x: 804.4882526294999
-  y: 34.0
-  z: -1222.552800731035
-  yaw: 269.8502
-  pitch: 18.29995
+  world: bastion
+  x: 30.898571524687345
+  y: 75.9972799084176
+  z: -56.970034008547316
+  yaw: -5.2499695
+  pitch: 5.550014
 godmode: false
 socialspy: true
 money: 352512.8688652829
@@ -181,9 +181,9 @@ powertools:
 ban:
   reason: 'Banned: FUCK YOU'
 logoutlocation:
-  world: arena
-  x: -145.30323595862143
-  y: 35.0
-  z: -58.93956342159035
-  yaw: -129.76172
-  pitch: 35.100227
+  world: bastion
+  x: 14.476354035026736
+  y: 65.0
+  z: -93.97560514403949
+  yaw: -224.45282
+  pitch: 20.250006

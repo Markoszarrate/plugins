@@ -1,17 +1,17 @@
 timestamps:
-  login: 1363311372463
-  lastteleport: 1362094048608
-  logout: 1363311397333
+  login: 1363537023954
+  lastteleport: 1363537816944
+  logout: 1363539275880
   mute: 0
   jail: 0
 ipAddress: 64.250.174.149
 lastlocation:
-  world: Ellesmera
-  x: -1109.5350877604383
-  y: 128.0
-  z: -1168.8743054909187
-  yaw: 135.60002
-  pitch: 37.49998
+  world: bastion
+  x: 37.796694994849226
+  y: 65.0
+  z: 79.18150026785864
+  yaw: -34.499996
+  pitch: 52.199997
 afk: false
 homes:
   hotels:
@@ -189,9 +189,9 @@ ban:
   reason: Temporarily banned from server for 5 minutes
   timeout: 0
 logoutlocation:
-  world: Ellesmera
-  x: -574.0552216224946
-  y: 68.0
-  z: -592.991678385288
-  yaw: -88.3517
-  pitch: 15.900004
+  world: bastion
+  x: 10.221751912220867
+  y: 67.90419127620926
+  z: 100.64755431442485
+  yaw: -238.19849
+  pitch: 17.399977

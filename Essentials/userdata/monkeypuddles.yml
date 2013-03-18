@@ -1,7 +1,7 @@
 timestamps:
-  login: 1363447284715
-  lastteleport: 1363245130815
-  logout: 1363447627018
+  login: 1363533719044
+  lastteleport: 1363538865668
+  logout: 1363539067130
   kits:
     dtools: 1342461143739
   mute: 0
@@ -47,11 +47,11 @@ homes:
 socialspy: true
 lastlocation:
   world: bastion
-  x: -34.300931840173874
-  y: 75.09519580640061
-  z: -35.303583240539474
-  yaw: -281.5504
-  pitch: -80.25002
+  x: -29.098815831890978
+  y: 69.40386382022513
+  z: -17.97592458121186
+  yaw: 278.9966
+  pitch: 13.649961
 godmode: false
 muted: false
 nickname: §2Monkey
@@ -60,8 +60,8 @@ ban:
   timeout: 0
 logoutlocation:
   world: bastion
-  x: -54.6886542201364
-  y: 3.1116330269738883
-  z: -54.809898580277746
-  yaw: -164.99994
-  pitch: 5.400019
+  x: -98.28517131513613
+  y: 80.98000822122613
+  z: -16.586766337092413
+  yaw: -18.450958
+  pitch: 11.699972
