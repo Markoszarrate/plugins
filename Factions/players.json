@@ -19,16 +19,6 @@
     "lastLoginTime": 1362926610004,
     "chatMode": "PUBLIC"
   },
-  "99noob": {
-    "factionId": "0",
-    "role": "NORMAL",
-    "title": "",
-    "power": 0.5861700000000001,
-    "powerBoost": 0.0,
-    "lastPowerUpdateTime": 1362957348451,
-    "lastLoginTime": 1362957348451,
-    "chatMode": "PUBLIC"
-  },
   "oRaGeSkiLLzo": {
     "factionId": "0",
     "role": "NORMAL",
@@ -37,6 +27,16 @@
     "powerBoost": 0.0,
     "lastPowerUpdateTime": 1363049604116,
     "lastLoginTime": 1363049604116,
+    "chatMode": "PUBLIC"
+  },
+  "99noob": {
+    "factionId": "0",
+    "role": "NORMAL",
+    "title": "",
+    "power": 0.5861700000000001,
+    "powerBoost": 0.0,
+    "lastPowerUpdateTime": 1362957348451,
+    "lastLoginTime": 1362957348451,
     "chatMode": "PUBLIC"
   },
   "burnsybhoy67": {
@@ -49,16 +49,6 @@
     "lastLoginTime": 1363458967887,
     "chatMode": "PUBLIC"
   },
-  "BLASTAR": {
-    "factionId": "0",
-    "role": "NORMAL",
-    "title": "",
-    "power": -1.3802366666666668,
-    "powerBoost": 0.0,
-    "lastPowerUpdateTime": 1362931384401,
-    "lastLoginTime": 1362931384401,
-    "chatMode": "PUBLIC"
-  },
   "LukeAlexRobe": {
     "factionId": "0",
     "role": "NORMAL",
@@ -69,14 +59,24 @@
     "lastLoginTime": 1363308530689,
     "chatMode": "PUBLIC"
   },
+  "BLASTAR": {
+    "factionId": "0",
+    "role": "NORMAL",
+    "title": "",
+    "power": -1.3802366666666668,
+    "powerBoost": 0.0,
+    "lastPowerUpdateTime": 1362931384401,
+    "lastLoginTime": 1362931384401,
+    "chatMode": "PUBLIC"
+  },
   "Gboy1726": {
     "factionId": "0",
     "role": "NORMAL",
     "title": "",
-    "power": 1.2766233333333334,
+    "power": 1.3995366666666669,
     "powerBoost": 0.0,
-    "lastPowerUpdateTime": 1363638954575,
-    "lastLoginTime": 1363638954575,
+    "lastPowerUpdateTime": 1363652537500,
+    "lastLoginTime": 1363652537500,
     "chatMode": "PUBLIC"
   },
   "Cosmorocker15": {
@@ -99,16 +99,6 @@
     "lastLoginTime": 1363299770050,
     "chatMode": "PUBLIC"
   },
-  "rsanders4": {
-    "factionId": "0",
-    "role": "NORMAL",
-    "title": "",
-    "power": 2.8799633333333334,
-    "powerBoost": 0.0,
-    "lastPowerUpdateTime": 1362939979239,
-    "lastLoginTime": 1362939979239,
-    "chatMode": "PUBLIC"
-  },
   "Megaman24981": {
     "factionId": "67",
     "role": "NORMAL",
@@ -117,6 +107,16 @@
     "powerBoost": 0.0,
     "lastPowerUpdateTime": 1363050091779,
     "lastLoginTime": 1363050091779,
+    "chatMode": "PUBLIC"
+  },
+  "rsanders4": {
+    "factionId": "0",
+    "role": "NORMAL",
+    "title": "",
+    "power": 2.8799633333333334,
+    "powerBoost": 0.0,
+    "lastPowerUpdateTime": 1362939979239,
+    "lastLoginTime": 1362939979239,
     "chatMode": "PUBLIC"
   },
   "theonlyfart": {
@@ -133,10 +133,10 @@
     "factionId": "0",
     "role": "NORMAL",
     "title": "",
-    "power": 1.5789466666666667,
+    "power": 3.7117533333333332,
     "powerBoost": 0.0,
-    "lastPowerUpdateTime": 1362789782099,
-    "lastLoginTime": 1362789782099,
+    "lastPowerUpdateTime": 1363652589352,
+    "lastLoginTime": 1363652589352,
     "chatMode": "PUBLIC"
   },
   "rambo215": {
@@ -155,8 +155,8 @@
     "title": "",
     "power": 10.0,
     "powerBoost": 0.0,
-    "lastPowerUpdateTime": 1363309523864,
-    "lastLoginTime": 1363309523864,
+    "lastPowerUpdateTime": 1363671953152,
+    "lastLoginTime": 1363671953152,
     "chatMode": "PUBLIC"
   },
   "awsdefrg": {
@@ -189,16 +189,6 @@
     "lastLoginTime": 1363292796033,
     "chatMode": "PUBLIC"
   },
-  "Dez04": {
-    "factionId": "0",
-    "role": "NORMAL",
-    "title": "",
-    "power": -9.009406666666667,
-    "powerBoost": 0.0,
-    "lastPowerUpdateTime": 1362817181506,
-    "lastLoginTime": 1362817181506,
-    "chatMode": "PUBLIC"
-  },
   "technobot84": {
     "factionId": "0",
     "role": "NORMAL",
@@ -229,14 +219,14 @@
     "lastLoginTime": 1362952137341,
     "chatMode": "PUBLIC"
   },
-  "siczor123": {
+  "CheerGirl453": {
     "factionId": "0",
     "role": "NORMAL",
     "title": "",
-    "power": 9.391919999999999,
+    "power": 2.3293666666666666,
     "powerBoost": 0.0,
-    "lastPowerUpdateTime": 1363104557799,
-    "lastLoginTime": 1363104557799,
+    "lastPowerUpdateTime": 1363652604337,
+    "lastLoginTime": 1363652604337,
     "chatMode": "PUBLIC"
   },
   "Megamew2": {
@@ -247,6 +237,16 @@
     "powerBoost": 0.0,
     "lastPowerUpdateTime": 1363539279694,
     "lastLoginTime": 1363539279694,
+    "chatMode": "PUBLIC"
+  },
+  "siczor123": {
+    "factionId": "0",
+    "role": "NORMAL",
+    "title": "",
+    "power": 9.391919999999999,
+    "powerBoost": 0.0,
+    "lastPowerUpdateTime": 1363104557799,
+    "lastLoginTime": 1363104557799,
     "chatMode": "PUBLIC"
   },
   "Markoszarrate": {
@@ -269,16 +269,6 @@
     "lastLoginTime": 1363486560099,
     "chatMode": "PUBLIC"
   },
-  "person129": {
-    "factionId": "0",
-    "role": "NORMAL",
-    "title": "",
-    "power": 7.314,
-    "powerBoost": 0.0,
-    "lastPowerUpdateTime": 1362953531770,
-    "lastLoginTime": 1362953531770,
-    "chatMode": "PUBLIC"
-  },
   "naga943": {
     "factionId": "0",
     "role": "NORMAL",
@@ -287,6 +277,16 @@
     "powerBoost": 0.0,
     "lastPowerUpdateTime": 1363085541164,
     "lastLoginTime": 1363085541164,
+    "chatMode": "PUBLIC"
+  },
+  "person129": {
+    "factionId": "0",
+    "role": "NORMAL",
+    "title": "",
+    "power": 7.314,
+    "powerBoost": 0.0,
+    "lastPowerUpdateTime": 1362953531770,
+    "lastLoginTime": 1362953531770,
     "chatMode": "PUBLIC"
   },
   "Vocalism": {
@@ -299,16 +299,6 @@
     "lastLoginTime": 1363037311598,
     "chatMode": "PUBLIC"
   },
-  "herschyboy72": {
-    "factionId": "0",
-    "role": "NORMAL",
-    "title": "",
-    "power": -4.602863333333333,
-    "powerBoost": 0.0,
-    "lastPowerUpdateTime": 1363187936263,
-    "lastLoginTime": 1363187936263,
-    "chatMode": "PUBLIC"
-  },
   "mcnugget09": {
     "factionId": "0",
     "role": "NORMAL",
@@ -317,6 +307,16 @@
     "powerBoost": 0.0,
     "lastPowerUpdateTime": 1363535568699,
     "lastLoginTime": 1363535568699,
+    "chatMode": "PUBLIC"
+  },
+  "herschyboy72": {
+    "factionId": "0",
+    "role": "NORMAL",
+    "title": "",
+    "power": -4.602863333333333,
+    "powerBoost": 0.0,
+    "lastPowerUpdateTime": 1363187936263,
+    "lastLoginTime": 1363187936263,
     "chatMode": "PUBLIC"
   },
   "stavie131": {
@@ -329,14 +329,14 @@
     "lastLoginTime": 1363483950734,
     "chatMode": "PUBLIC"
   },
-  "davasquez805": {
+  "flyingpig02": {
     "factionId": "0",
     "role": "NORMAL",
     "title": "",
-    "power": 2.3754133333333334,
+    "power": 0.5682833333333334,
     "powerBoost": 0.0,
-    "lastPowerUpdateTime": 1362970603056,
-    "lastLoginTime": 1362970603056,
+    "lastPowerUpdateTime": 1363561531946,
+    "lastLoginTime": 1363561531946,
     "chatMode": "PUBLIC"
   },
   "genofawesome": {
@@ -349,14 +349,14 @@
     "lastLoginTime": 1363484472598,
     "chatMode": "PUBLIC"
   },
-  "flyingpig02": {
+  "davasquez805": {
     "factionId": "0",
     "role": "NORMAL",
     "title": "",
-    "power": 0.5682833333333334,
+    "power": 2.3754133333333334,
     "powerBoost": 0.0,
-    "lastPowerUpdateTime": 1363561531946,
-    "lastLoginTime": 1363561531946,
+    "lastPowerUpdateTime": 1362970603056,
+    "lastLoginTime": 1362970603056,
     "chatMode": "PUBLIC"
   },
   "MotzApplesauce": {
@@ -369,6 +369,16 @@
     "lastLoginTime": 1363098586701,
     "chatMode": "PUBLIC"
   },
+  "wisepanda": {
+    "factionId": "0",
+    "role": "NORMAL",
+    "title": "",
+    "power": 3.964170000000003,
+    "powerBoost": 0.0,
+    "lastPowerUpdateTime": 1363549401777,
+    "lastLoginTime": 1363549401777,
+    "chatMode": "PUBLIC"
+  },
   "dirtman1122": {
     "factionId": "0",
     "role": "NORMAL",
@@ -379,14 +389,14 @@
     "lastLoginTime": 1362946922926,
     "chatMode": "PUBLIC"
   },
-  "wisepanda": {
+  "shreader226": {
     "factionId": "0",
     "role": "NORMAL",
     "title": "",
-    "power": 3.964170000000003,
+    "power": -6.265983333333333,
     "powerBoost": 0.0,
-    "lastPowerUpdateTime": 1363549401777,
-    "lastLoginTime": 1363549401777,
+    "lastPowerUpdateTime": 1363654324020,
+    "lastLoginTime": 1363654324020,
     "chatMode": "PUBLIC"
   },
   "pink__bubble_gum": {
@@ -399,26 +409,6 @@
     "lastLoginTime": 1363052101550,
     "chatMode": "PUBLIC"
   },
-  "shreader226": {
-    "factionId": "0",
-    "role": "NORMAL",
-    "title": "",
-    "power": -7.585813333333332,
-    "powerBoost": 0.0,
-    "lastPowerUpdateTime": 1363549382913,
-    "lastLoginTime": 1363549382913,
-    "chatMode": "PUBLIC"
-  },
-  "hiddentalent2k11": {
-    "factionId": "0",
-    "role": "NORMAL",
-    "title": "",
-    "power": 5.034376666666668,
-    "powerBoost": 0.0,
-    "lastPowerUpdateTime": 1362874977669,
-    "lastLoginTime": 1362874977669,
-    "chatMode": "PUBLIC"
-  },
   "thewmatt": {
     "factionId": "0",
     "role": "NORMAL",
@@ -429,16 +419,6 @@
     "lastLoginTime": 1363310486805,
     "chatMode": "PUBLIC"
   },
-  "Zulpherkit": {
-    "factionId": "67",
-    "role": "ADMIN",
-    "title": "",
-    "power": -9.870993333333333,
-    "powerBoost": 0.0,
-    "lastPowerUpdateTime": 1363048280988,
-    "lastLoginTime": 1363048280988,
-    "chatMode": "PUBLIC"
-  },
   "FireyTurdle": {
     "factionId": "0",
     "role": "NORMAL",
@@ -447,6 +427,16 @@
     "powerBoost": 0.0,
     "lastPowerUpdateTime": 1363467378527,
     "lastLoginTime": 1363467378527,
+    "chatMode": "PUBLIC"
+  },
+  "Zulpherkit": {
+    "factionId": "67",
+    "role": "ADMIN",
+    "title": "",
+    "power": -9.870993333333333,
+    "powerBoost": 0.0,
+    "lastPowerUpdateTime": 1363048280988,
+    "lastLoginTime": 1363048280988,
     "chatMode": "PUBLIC"
   }
 }

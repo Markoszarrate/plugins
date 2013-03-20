@@ -1,15 +1,15 @@
 timestamps:
-  login: 1362789308638
-  logout: 1362789781483
-  lastteleport: 1362789461470
+  login: 1363651949819
+  logout: 1363652588386
+  lastteleport: 1363652575060
 ipAddress: 75.136.223.153
 lastlocation:
-  world: world
-  x: 646.103748889785
-  y: 14.0
-  z: -721.9814033354655
-  yaw: 0.020501768
-  pitch: 1.4999757
+  world: arena
+  x: 677.3833763388839
+  y: 33.0
+  z: -1256.0136875085093
+  yaw: 5.2497354
+  pitch: 25.04999
 homes:
   home:
     world: world
@@ -22,9 +22,9 @@ afk: false
 nickname: §4Herobrine
 money: 435251.19138977927
 logoutlocation:
-  world: world
-  x: 984.0749999880791
-  y: 66.0
-  z: 48.08245335234529
-  yaw: 199.74054
-  pitch: -1.3500172
+  world: arena
+  x: 689.2571439167648
+  y: 32.0
+  z: -1236.4437842273173
+  yaw: -196.50026
+  pitch: 24.89999

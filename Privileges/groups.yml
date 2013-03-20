@@ -110,7 +110,7 @@ groups:
     - usb.party.join
     - usb.island.challenges
     - plotme.use
-    - plotme.limit.5
+    - plotme.limit.1
     inheritance: []
   owner:
     rank: 100
@@ -142,6 +142,7 @@ groups:
     - essentials.msg
     - essentials.rules
     - essentials.help
+    - plotme.limit.2
   mod:
     rank: 10
     permissions:

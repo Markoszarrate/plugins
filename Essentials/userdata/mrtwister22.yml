@@ -187,3 +187,5 @@ logoutlocation:
   z: -93.97560514403949
   yaw: -224.45282
   pitch: 20.250006
+mail:
+- 'Server: yo testing mail bitch'

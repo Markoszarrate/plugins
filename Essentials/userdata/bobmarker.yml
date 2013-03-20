@@ -1,7 +1,7 @@
 timestamps:
-  login: 1363299378013
+  login: 1363671947482
   lastteleport: 1363299396300
-  logout: 1363309521316
+  logout: 1363671951210
   mute: 0
   kits:
     tools: 1343199223693
@@ -200,9 +200,9 @@ teleportenabled: false
 godmode: false
 logoutlocation:
   world: bastion
-  x: -140.2574242897572
-  y: 66.03759099551446
-  z: -71.57649443344232
-  yaw: -262.64844
-  pitch: 22.950005
+  x: -135.82710220954908
+  y: 67.08021911540257
+  z: -82.08979921779604
+  yaw: -21.910917
+  pitch: 25.949913
 nickname: §2Robert§8D§3Marker
