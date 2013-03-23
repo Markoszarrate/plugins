@@ -17,3 +17,8 @@ logoutlocation:
   z: 1509.367068308048
   yaw: -151.63678
   pitch: 20.883652
+ban:
+  reason: '§4Banned:
+
+    §rGrief'
+  timeout: 0

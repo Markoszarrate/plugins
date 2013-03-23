@@ -1,8 +1,8 @@
 timestamps:
-  login: 1363458730139
-  logout: 1363458967724
+  login: 1363813082187
+  logout: 1363813616913
   lastteleport: 1363292710076
-ipAddress: 92.16.245.118
+ipAddress: 92.22.54.26
 lastlocation:
   world: realm
   x: 5531.699999988079
@@ -21,9 +21,9 @@ homes:
     yaw: 232.79834
     pitch: 15.750022
 logoutlocation:
-  world: realm
-  x: 4090.6999999880777
-  y: 58.875
-  z: -4090.6757761537533
-  yaw: 122.31911
-  pitch: 69.1104
+  world: Ellesmera
+  x: -473.703934269691
+  y: 26.5
+  z: 142.76073642392493
+  yaw: 51.816902
+  pitch: 5.827203

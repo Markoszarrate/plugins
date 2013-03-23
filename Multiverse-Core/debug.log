@@ -9227,3 +9227,153 @@
 2013-03-20 05:05:32 [SEVERE] [Multiverse-Core] New safe spawn NOT found!!!
 2013-03-20 05:05:32 [INFO] [Multiverse-Core] Loading World & Settings - 'bastion' - Env: NORMAL - Type: NORMAL & seed: -5375595114614141334 & generator: PlotMe
 2013-03-20 05:05:33 [INFO] [Multiverse-Core] 9 - World(s) loaded.
+2013-03-20 10:06:56 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2013-03-20 10:06:56 [INFO] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -491218957
+2013-03-20 10:06:56 [INFO] [Multiverse-Core] Loading World & Settings - 'world_nether' - Env: NETHER - Type: NORMAL & seed: -491218957
+2013-03-20 10:06:57 [INFO] [Multiverse-Core] Loading World & Settings - 'world_the_end' - Env: THE_END - Type: NORMAL & seed: -491218957
+2013-03-20 10:06:57 [INFO] [Multiverse-Core] Loading World & Settings - 'realm' - Env: NORMAL - Type: NORMAL & seed: -1293552798 & generator: Nordic
+2013-03-20 10:06:58 [INFO] [Multiverse-Core] Loading World & Settings - 'Archive' - Env: NORMAL - Type: NORMAL & seed: -4654017168672859490 & generator: CleanroomGenerator:60,stone,1,grass
+2013-03-20 10:06:59 [INFO] [Multiverse-Core] Loading World & Settings - 'Ellesmera' - Env: NORMAL - Type: NORMAL & seed: 6710768802477716586 & generator: TerrainControl
+2013-03-20 10:07:01 [INFO] [Multiverse-Core] Loading World & Settings - 'arena' - Env: NORMAL - Type: NORMAL & seed: 1023393856952242801 & generator: CleanroomGenerator:10,stone,20,dirt,1,grass
+2013-03-20 10:07:03 [INFO] [Multiverse-Core] Loading World & Settings - 'skyworld' - Env: NORMAL - Type: FLAT & seed: 4702853648677194963 & generator: uSkyBlock
+2013-03-20 10:07:04 [WARNING] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2013-03-20 10:07:04 [WARNING] [Multiverse-Core] Original Location: X: 845 Y: 4 Z: -389 P: 0 Y: 0 
+2013-03-20 10:07:04 [SEVERE] [Multiverse-Core] New safe spawn NOT found!!!
+2013-03-20 10:07:04 [INFO] [Multiverse-Core] Loading World & Settings - 'bastion' - Env: NORMAL - Type: NORMAL & seed: -5375595114614141334 & generator: PlotMe
+2013-03-20 10:07:05 [INFO] [Multiverse-Core] 9 - World(s) loaded.
+2013-03-20 10:38:37 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2013-03-20 10:38:38 [INFO] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -491218957
+2013-03-20 10:38:38 [INFO] [Multiverse-Core] Loading World & Settings - 'world_nether' - Env: NETHER - Type: NORMAL & seed: -491218957
+2013-03-20 10:38:38 [INFO] [Multiverse-Core] Loading World & Settings - 'world_the_end' - Env: THE_END - Type: NORMAL & seed: -491218957
+2013-03-20 10:38:38 [INFO] [Multiverse-Core] Loading World & Settings - 'realm' - Env: NORMAL - Type: NORMAL & seed: -1293552798 & generator: Nordic
+2013-03-20 10:38:39 [INFO] [Multiverse-Core] Loading World & Settings - 'Archive' - Env: NORMAL - Type: NORMAL & seed: -4654017168672859490 & generator: CleanroomGenerator:60,stone,1,grass
+2013-03-20 10:38:51 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2013-03-20 10:38:51 [INFO] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -491218957
+2013-03-20 10:38:51 [INFO] [Multiverse-Core] Loading World & Settings - 'world_nether' - Env: NETHER - Type: NORMAL & seed: -491218957
+2013-03-20 10:38:51 [INFO] [Multiverse-Core] Loading World & Settings - 'world_the_end' - Env: THE_END - Type: NORMAL & seed: -491218957
+2013-03-20 10:38:51 [INFO] [Multiverse-Core] Loading World & Settings - 'realm' - Env: NORMAL - Type: NORMAL & seed: -1293552798 & generator: Nordic
+2013-03-20 10:38:52 [INFO] [Multiverse-Core] Loading World & Settings - 'Archive' - Env: NORMAL - Type: NORMAL & seed: -4654017168672859490 & generator: CleanroomGenerator:60,stone,1,grass
+2013-03-20 10:39:06 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2013-03-20 10:39:07 [INFO] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -491218957
+2013-03-20 10:39:07 [INFO] [Multiverse-Core] Loading World & Settings - 'world_nether' - Env: NETHER - Type: NORMAL & seed: -491218957
+2013-03-20 10:39:07 [INFO] [Multiverse-Core] Loading World & Settings - 'world_the_end' - Env: THE_END - Type: NORMAL & seed: -491218957
+2013-03-20 10:39:07 [INFO] [Multiverse-Core] Loading World & Settings - 'realm' - Env: NORMAL - Type: NORMAL & seed: -1293552798 & generator: Nordic
+2013-03-20 10:39:08 [INFO] [Multiverse-Core] Loading World & Settings - 'Archive' - Env: NORMAL - Type: NORMAL & seed: -4654017168672859490 & generator: CleanroomGenerator:60,stone,1,grass
+2013-03-20 10:39:08 [INFO] [Multiverse-Core] Loading World & Settings - 'Ellesmera' - Env: NORMAL - Type: NORMAL & seed: 6710768802477716586 & generator: TerrainControl
+2013-03-20 10:39:13 [INFO] [Multiverse-Core] Loading World & Settings - 'skyworld' - Env: NORMAL - Type: null & generator: uSkyBlock
+2013-03-20 10:39:13 [WARNING] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2013-03-20 10:39:13 [WARNING] [Multiverse-Core] Original Location: X: 845 Y: 4 Z: -389 P: 0 Y: 0 
+2013-03-20 10:39:14 [SEVERE] [Multiverse-Core] New safe spawn NOT found!!!
+2013-03-20 10:40:50 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2013-03-20 10:40:50 [INFO] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -491218957
+2013-03-20 10:40:50 [INFO] [Multiverse-Core] Loading World & Settings - 'world_nether' - Env: NETHER - Type: NORMAL & seed: -491218957
+2013-03-20 10:40:50 [INFO] [Multiverse-Core] Loading World & Settings - 'world_the_end' - Env: THE_END - Type: NORMAL & seed: -491218957
+2013-03-20 10:40:51 [INFO] [Multiverse-Core] Loading World & Settings - 'realm' - Env: NORMAL - Type: NORMAL & seed: -1293552798 & generator: Nordic
+2013-03-20 10:40:54 [INFO] [Multiverse-Core] Loading World & Settings - 'Archive' - Env: NORMAL - Type: NORMAL & seed: -4654017168672859490 & generator: CleanroomGenerator:60,stone,1,grass
+2013-03-20 10:40:56 [INFO] [Multiverse-Core] Loading World & Settings - 'Ellesmera' - Env: NORMAL - Type: NORMAL & seed: 6710768802477716586 & generator: TerrainControl
+2013-03-20 10:40:59 [INFO] [Multiverse-Core] Loading World & Settings - 'arena' - Env: NORMAL - Type: NORMAL & seed: 1023393856952242801 & generator: CleanroomGenerator:10,stone,20,dirt,1,grass
+2013-03-20 10:41:00 [INFO] [Multiverse-Core] Loading World & Settings - 'skyworld' - Env: NORMAL - Type: FLAT & seed: 4702853648677194963 & generator: uSkyBlock
+2013-03-20 10:41:00 [WARNING] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2013-03-20 10:41:00 [WARNING] [Multiverse-Core] Original Location: X: 845 Y: 4 Z: -389 P: 0 Y: 0 
+2013-03-20 10:41:01 [SEVERE] [Multiverse-Core] New safe spawn NOT found!!!
+2013-03-20 10:41:01 [INFO] [Multiverse-Core] Loading World & Settings - 'bastion' - Env: NORMAL - Type: NORMAL & seed: -5375595114614141334 & generator: PlotMe
+2013-03-20 10:41:03 [INFO] [Multiverse-Core] 9 - World(s) loaded.
+2013-03-20 10:50:30 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2013-03-20 10:50:31 [INFO] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -491218957
+2013-03-20 10:50:31 [INFO] [Multiverse-Core] Loading World & Settings - 'world_nether' - Env: NETHER - Type: NORMAL & seed: -491218957
+2013-03-20 10:50:31 [INFO] [Multiverse-Core] Loading World & Settings - 'world_the_end' - Env: THE_END - Type: NORMAL & seed: -491218957
+2013-03-20 10:50:31 [INFO] [Multiverse-Core] Loading World & Settings - 'realm' - Env: NORMAL - Type: NORMAL & seed: -1293552798 & generator: Nordic
+2013-03-20 10:50:33 [INFO] [Multiverse-Core] Loading World & Settings - 'Archive' - Env: NORMAL - Type: NORMAL & seed: -4654017168672859490 & generator: CleanroomGenerator:60,stone,1,grass
+2013-03-20 10:50:36 [INFO] [Multiverse-Core] Loading World & Settings - 'Ellesmera' - Env: NORMAL - Type: NORMAL & seed: 6710768802477716586 & generator: TerrainControl
+2013-03-20 10:50:38 [INFO] [Multiverse-Core] Loading World & Settings - 'arena' - Env: NORMAL - Type: NORMAL & seed: 1023393856952242801 & generator: CleanroomGenerator:10,stone,20,dirt,1,grass
+2013-03-20 10:50:39 [INFO] [Multiverse-Core] Loading World & Settings - 'skyworld' - Env: NORMAL - Type: FLAT & seed: 4702853648677194963 & generator: uSkyBlock
+2013-03-20 10:50:39 [WARNING] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2013-03-20 10:50:39 [WARNING] [Multiverse-Core] Original Location: X: 845 Y: 4 Z: -389 P: 0 Y: 0 
+2013-03-20 10:50:39 [SEVERE] [Multiverse-Core] New safe spawn NOT found!!!
+2013-03-20 10:50:39 [INFO] [Multiverse-Core] Loading World & Settings - 'bastion' - Env: NORMAL - Type: NORMAL & seed: -5375595114614141334 & generator: PlotMe
+2013-03-20 10:50:41 [INFO] [Multiverse-Core] 9 - World(s) loaded.
+2013-03-20 11:28:48 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2013-03-20 11:28:48 [INFO] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -491218957
+2013-03-20 11:28:48 [INFO] [Multiverse-Core] Loading World & Settings - 'world_nether' - Env: NETHER - Type: NORMAL & seed: -491218957
+2013-03-20 11:28:48 [INFO] [Multiverse-Core] Loading World & Settings - 'world_the_end' - Env: THE_END - Type: NORMAL & seed: -491218957
+2013-03-20 11:28:49 [INFO] [Multiverse-Core] Loading World & Settings - 'realm' - Env: NORMAL - Type: NORMAL & seed: -1293552798 & generator: Nordic
+2013-03-20 11:28:50 [INFO] [Multiverse-Core] Loading World & Settings - 'Archive' - Env: NORMAL - Type: NORMAL & seed: -4654017168672859490 & generator: CleanroomGenerator:60,stone,1,grass
+2013-03-20 11:28:54 [INFO] [Multiverse-Core] Loading World & Settings - 'Ellesmera' - Env: NORMAL - Type: NORMAL & seed: 6710768802477716586 & generator: TerrainControl
+2013-03-20 11:28:55 [INFO] [Multiverse-Core] Loading World & Settings - 'arena' - Env: NORMAL - Type: NORMAL & seed: 1023393856952242801 & generator: CleanroomGenerator:10,stone,20,dirt,1,grass
+2013-03-20 11:28:56 [INFO] [Multiverse-Core] Loading World & Settings - 'skyworld' - Env: NORMAL - Type: FLAT & seed: 4702853648677194963 & generator: uSkyBlock
+2013-03-20 11:28:56 [WARNING] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2013-03-20 11:28:56 [WARNING] [Multiverse-Core] Original Location: X: 845 Y: 4 Z: -389 P: 0 Y: 0 
+2013-03-20 11:28:56 [SEVERE] [Multiverse-Core] New safe spawn NOT found!!!
+2013-03-20 11:28:56 [INFO] [Multiverse-Core] Loading World & Settings - 'bastion' - Env: NORMAL - Type: NORMAL & seed: -5375595114614141334 & generator: PlotMe
+2013-03-20 11:28:58 [INFO] [Multiverse-Core] 9 - World(s) loaded.
+2013-03-21 10:01:27 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2013-03-21 10:01:28 [INFO] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -491218957
+2013-03-21 10:01:28 [INFO] [Multiverse-Core] Loading World & Settings - 'world_nether' - Env: NETHER - Type: NORMAL & seed: -491218957
+2013-03-21 10:01:28 [INFO] [Multiverse-Core] Loading World & Settings - 'world_the_end' - Env: THE_END - Type: NORMAL & seed: -491218957
+2013-03-21 10:01:28 [INFO] [Multiverse-Core] Loading World & Settings - 'realm' - Env: NORMAL - Type: NORMAL & seed: -1293552798 & generator: Nordic
+2013-03-21 10:01:32 [INFO] [Multiverse-Core] Loading World & Settings - 'Archive' - Env: NORMAL - Type: NORMAL & seed: -4654017168672859490 & generator: CleanroomGenerator:60,stone,1,grass
+2013-03-21 10:01:36 [INFO] [Multiverse-Core] Loading World & Settings - 'Ellesmera' - Env: NORMAL - Type: NORMAL & seed: 6710768802477716586 & generator: TerrainControl
+2013-03-21 10:01:39 [INFO] [Multiverse-Core] Loading World & Settings - 'arena' - Env: NORMAL - Type: NORMAL & seed: 1023393856952242801 & generator: CleanroomGenerator:10,stone,20,dirt,1,grass
+2013-03-21 10:01:41 [INFO] [Multiverse-Core] Loading World & Settings - 'skyworld' - Env: NORMAL - Type: FLAT & seed: 4702853648677194963 & generator: uSkyBlock
+2013-03-21 10:01:41 [WARNING] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2013-03-21 10:01:41 [WARNING] [Multiverse-Core] Original Location: X: 845 Y: 4 Z: -389 P: 0 Y: 0 
+2013-03-21 10:01:41 [SEVERE] [Multiverse-Core] New safe spawn NOT found!!!
+2013-03-21 10:01:41 [INFO] [Multiverse-Core] Loading World & Settings - 'bastion' - Env: NORMAL - Type: NORMAL & seed: -5375595114614141334 & generator: PlotMe
+2013-03-21 10:01:43 [INFO] [Multiverse-Core] 9 - World(s) loaded.
+2013-03-22 10:01:13 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2013-03-22 10:01:13 [INFO] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -491218957
+2013-03-22 10:01:13 [INFO] [Multiverse-Core] Loading World & Settings - 'world_nether' - Env: NETHER - Type: NORMAL & seed: -491218957
+2013-03-22 10:01:13 [INFO] [Multiverse-Core] Loading World & Settings - 'world_the_end' - Env: THE_END - Type: NORMAL & seed: -491218957
+2013-03-22 10:01:14 [INFO] [Multiverse-Core] Loading World & Settings - 'realm' - Env: NORMAL - Type: NORMAL & seed: -1293552798 & generator: Nordic
+2013-03-22 10:01:16 [INFO] [Multiverse-Core] Loading World & Settings - 'Archive' - Env: NORMAL - Type: NORMAL & seed: -4654017168672859490 & generator: CleanroomGenerator:60,stone,1,grass
+2013-03-22 10:01:19 [INFO] [Multiverse-Core] Loading World & Settings - 'Ellesmera' - Env: NORMAL - Type: NORMAL & seed: 6710768802477716586 & generator: TerrainControl
+2013-03-22 10:01:22 [INFO] [Multiverse-Core] Loading World & Settings - 'arena' - Env: NORMAL - Type: NORMAL & seed: 1023393856952242801 & generator: CleanroomGenerator:10,stone,20,dirt,1,grass
+2013-03-22 10:01:23 [INFO] [Multiverse-Core] Loading World & Settings - 'skyworld' - Env: NORMAL - Type: FLAT & seed: 4702853648677194963 & generator: uSkyBlock
+2013-03-22 10:01:24 [WARNING] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2013-03-22 10:01:24 [WARNING] [Multiverse-Core] Original Location: X: 845 Y: 4 Z: -389 P: 0 Y: 0 
+2013-03-22 10:01:24 [SEVERE] [Multiverse-Core] New safe spawn NOT found!!!
+2013-03-22 10:01:24 [INFO] [Multiverse-Core] Loading World & Settings - 'bastion' - Env: NORMAL - Type: NORMAL & seed: -5375595114614141334 & generator: PlotMe
+2013-03-22 10:01:26 [INFO] [Multiverse-Core] 9 - World(s) loaded.
+2013-03-22 23:41:08 [INFO] [MVCore-Debug] Multiverse Debug ENABLED
+2013-03-23 03:50:23 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2013-03-23 03:50:24 [INFO] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -491218957
+2013-03-23 03:50:24 [INFO] [Multiverse-Core] Loading World & Settings - 'world_nether' - Env: NETHER - Type: NORMAL & seed: -491218957
+2013-03-23 03:50:24 [INFO] [Multiverse-Core] Loading World & Settings - 'world_the_end' - Env: THE_END - Type: NORMAL & seed: -491218957
+2013-03-23 03:50:24 [INFO] [Multiverse-Core] Loading World & Settings - 'realm' - Env: NORMAL - Type: NORMAL & seed: -1293552798 & generator: Nordic
+2013-03-23 03:50:27 [INFO] [Multiverse-Core] Loading World & Settings - 'Archive' - Env: NORMAL - Type: NORMAL & seed: -4654017168672859490 & generator: CleanroomGenerator:60,stone,1,grass
+2013-03-23 03:50:28 [INFO] [Multiverse-Core] Loading World & Settings - 'Ellesmera' - Env: NORMAL - Type: NORMAL & seed: 6710768802477716586 & generator: TerrainControl
+2013-03-23 03:50:30 [INFO] [Multiverse-Core] Loading World & Settings - 'arena' - Env: NORMAL - Type: NORMAL & seed: 1023393856952242801 & generator: CleanroomGenerator:10,stone,20,dirt,1,grass
+2013-03-23 03:50:32 [INFO] [Multiverse-Core] Loading World & Settings - 'skyworld' - Env: NORMAL - Type: FLAT & seed: 4702853648677194963 & generator: uSkyBlock
+2013-03-23 03:50:32 [WARNING] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2013-03-23 03:50:32 [WARNING] [Multiverse-Core] Original Location: X: 845 Y: 4 Z: -389 P: 0 Y: 0 
+2013-03-23 03:50:32 [SEVERE] [Multiverse-Core] New safe spawn NOT found!!!
+2013-03-23 03:50:32 [INFO] [Multiverse-Core] Loading World & Settings - 'bastion' - Env: NORMAL - Type: NORMAL & seed: -5375595114614141334 & generator: PlotMe
+2013-03-23 03:50:34 [INFO] [Multiverse-Core] 9 - World(s) loaded.
+2013-03-23 04:11:42 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2013-03-23 04:11:43 [INFO] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -491218957
+2013-03-23 04:11:43 [INFO] [Multiverse-Core] Loading World & Settings - 'world_nether' - Env: NETHER - Type: NORMAL & seed: -491218957
+2013-03-23 04:11:43 [INFO] [Multiverse-Core] Loading World & Settings - 'world_the_end' - Env: THE_END - Type: NORMAL & seed: -491218957
+2013-03-23 04:11:43 [INFO] [Multiverse-Core] Loading World & Settings - 'realm' - Env: NORMAL - Type: NORMAL & seed: -1293552798 & generator: Nordic
+2013-03-23 04:11:44 [INFO] [Multiverse-Core] Loading World & Settings - 'Archive' - Env: NORMAL - Type: NORMAL & seed: -4654017168672859490 & generator: CleanroomGenerator:60,stone,1,grass
+2013-03-23 04:11:45 [INFO] [Multiverse-Core] Loading World & Settings - 'Ellesmera' - Env: NORMAL - Type: NORMAL & seed: 6710768802477716586 & generator: TerrainControl
+2013-03-23 04:11:46 [INFO] [Multiverse-Core] Loading World & Settings - 'arena' - Env: NORMAL - Type: NORMAL & seed: 1023393856952242801 & generator: CleanroomGenerator:10,stone,20,dirt,1,grass
+2013-03-23 04:11:47 [INFO] [Multiverse-Core] Loading World & Settings - 'skyworld' - Env: NORMAL - Type: FLAT & seed: 4702853648677194963 & generator: uSkyBlock
+2013-03-23 04:11:47 [WARNING] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2013-03-23 04:11:47 [WARNING] [Multiverse-Core] Original Location: X: 845 Y: 4 Z: -389 P: 0 Y: 0 
+2013-03-23 04:11:47 [SEVERE] [Multiverse-Core] New safe spawn NOT found!!!
+2013-03-23 04:11:47 [INFO] [Multiverse-Core] Loading World & Settings - 'bastion' - Env: NORMAL - Type: NORMAL & seed: -5375595114614141334 & generator: PlotMe
+2013-03-23 04:11:48 [INFO] [Multiverse-Core] 9 - World(s) loaded.
+2013-03-23 04:20:46 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2013-03-23 04:20:46 [INFO] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -491218957
+2013-03-23 04:20:46 [INFO] [Multiverse-Core] Loading World & Settings - 'world_nether' - Env: NETHER - Type: NORMAL & seed: -491218957
+2013-03-23 04:20:46 [INFO] [Multiverse-Core] Loading World & Settings - 'world_the_end' - Env: THE_END - Type: NORMAL & seed: -491218957
+2013-03-23 04:20:46 [INFO] [Multiverse-Core] Loading World & Settings - 'realm' - Env: NORMAL - Type: NORMAL & seed: -1293552798 & generator: Nordic
+2013-03-23 04:20:47 [INFO] [Multiverse-Core] Loading World & Settings - 'Archive' - Env: NORMAL - Type: NORMAL & seed: -4654017168672859490 & generator: CleanroomGenerator:60,stone,1,grass
+2013-03-23 04:20:47 [INFO] [Multiverse-Core] Loading World & Settings - 'Ellesmera' - Env: NORMAL - Type: NORMAL & seed: 6710768802477716586 & generator: TerrainControl
+2013-03-23 04:20:48 [INFO] [Multiverse-Core] Loading World & Settings - 'arena' - Env: NORMAL - Type: NORMAL & seed: 1023393856952242801 & generator: CleanroomGenerator:10,stone,20,dirt,1,grass
+2013-03-23 04:20:48 [INFO] [Multiverse-Core] Loading World & Settings - 'skyworld' - Env: NORMAL - Type: FLAT & seed: 4702853648677194963 & generator: uSkyBlock
+2013-03-23 04:20:48 [WARNING] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2013-03-23 04:20:48 [WARNING] [Multiverse-Core] Original Location: X: 845 Y: 4 Z: -389 P: 0 Y: 0 
+2013-03-23 04:20:49 [SEVERE] [Multiverse-Core] New safe spawn NOT found!!!
+2013-03-23 04:20:49 [INFO] [Multiverse-Core] Loading World & Settings - 'bastion' - Env: NORMAL - Type: NORMAL & seed: -5375595114614141334 & generator: PlotMe
+2013-03-23 04:20:49 [INFO] [Multiverse-Core] 9 - World(s) loaded.

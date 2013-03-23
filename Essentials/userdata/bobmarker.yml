@@ -1,7 +1,7 @@
 timestamps:
-  login: 1363671947482
-  lastteleport: 1363299396300
-  logout: 1363671951210
+  login: 1364004338148
+  lastteleport: 1364004242244
+  logout: 1364004648282
   mute: 0
   kits:
     tools: 1343199223693
@@ -175,13 +175,27 @@ homes:
     z: -80.12398557098788
     yaw: -3.1416016
     pitch: 1.7999809
+  bastcorner:
+    world: bastion
+    x: -141.5795690978177
+    y: 70.0
+    z: -70.67154114761416
+    yaw: -84.9
+    pitch: 31.799992
+  apartment:
+    world: world
+    x: 866.5269657437723
+    y: 73.0
+    z: 1350.7924851867017
+    yaw: 39.21347
+    pitch: 24.149954
 lastlocation:
   world: bastion
-  x: 0.4935874930924745
-  y: 2.0
-  z: 0.36492920698174935
-  yaw: -4.500174
-  pitch: 11.099949
+  x: -102.67121280399549
+  y: 65.16343938594817
+  z: -90.9301549940559
+  yaw: -33.299774
+  pitch: 52.649994
 afk: false
 muted: false
 money: 1013741.8653637511
@@ -200,9 +214,9 @@ teleportenabled: false
 godmode: false
 logoutlocation:
   world: bastion
-  x: -135.82710220954908
-  y: 67.08021911540257
-  z: -82.08979921779604
-  yaw: -21.910917
-  pitch: 25.949913
+  x: -121.70403061826369
+  y: 65.99897820457392
+  z: -61.384324456816096
+  yaw: -323.84882
+  pitch: 5.7000313
 nickname: §2Robert§8D§3Marker

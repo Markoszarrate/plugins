@@ -1,8 +1,0 @@
-Ellesmera:
-  -532,67,-596:
-    CoolDown: 0
-    Script:
-    - '@PLAYER Transported!'
-    - '@SOUND CLICK2 -532,66,-596'
-    - '@SOUND CLICK2 <triggerloc>'
-    - '@POOF 2 <playerloc>'

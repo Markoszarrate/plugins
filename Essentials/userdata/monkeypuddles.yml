@@ -1,11 +1,11 @@
 timestamps:
-  login: 1363533719044
-  lastteleport: 1363538865668
-  logout: 1363539067130
+  login: 1363836986962
+  lastteleport: 1363838693385
+  logout: 1363840218355
   kits:
     dtools: 1342461143739
   mute: 0
-ipAddress: 64.95.183.1
+ipAddress: 174.21.210.199
 money: 228174.49070947
 afk: false
 homes:
@@ -44,14 +44,21 @@ homes:
     z: 49.14151157115809
     yaw: -135.29984
     pitch: 7.499998
+  house:
+    world: arena
+    x: -118.65836273931954
+    y: 32.0
+    z: -303.1205682697477
+    yaw: -18.300037
+    pitch: 14.700004
 socialspy: true
 lastlocation:
-  world: bastion
-  x: -29.098815831890978
-  y: 69.40386382022513
-  z: -17.97592458121186
-  yaw: 278.9966
-  pitch: 13.649961
+  world: Ellesmera
+  x: -203.4161099974533
+  y: 80.0
+  z: 195.40300692262744
+  yaw: 175.9541
+  pitch: 43.04992
 godmode: false
 muted: false
 nickname: §2Monkey
@@ -59,11 +66,9 @@ ban:
   reason: Temporarily banned from server for 5 seconds
   timeout: 0
 logoutlocation:
-  world: bastion
-  x: -98.28517131513613
-  y: 80.98000822122613
-  z: -16.586766337092413
-  yaw: -18.450958
-  pitch: 11.699972
-mail:
-- 'Server: balhasdflj'
+  world: arena
+  x: 11.629263353929673
+  y: 60.73935596545436
+  z: -304.23604102275243
+  yaw: 35.699158
+  pitch: 46.949978

@@ -1,18 +1,18 @@
 timestamps:
-  login: 1363534328309
-  lastteleport: 1363535018893
+  login: 1363821425044
+  lastteleport: 1363821496330
   lastheal: 1356058326757
-  logout: 1363535523841
+  logout: 1363821500209
   mute: 0
   jail: 0
 ipAddress: 200.26.183.34
 lastlocation:
-  world: bastion
-  x: -12.37741673301663
-  y: 67.36933695946747
-  z: -12.820270708378317
-  yaw: -49.5011
-  pitch: 7.499985
+  world: world_nether
+  x: 25.999726015863246
+  y: 73.46440920527127
+  z: -30.658437922733363
+  yaw: 3.8975348
+  pitch: 14.24998
 homes:
   home:
     world: world
@@ -90,9 +90,9 @@ godmode: false
 jailed: false
 nickname: §5Markoszarrate
 logoutlocation:
-  world: bastion
-  x: -25.887844508584642
-  y: 65.0
-  z: -16.666906447556322
-  yaw: 182.25067
-  pitch: 12.900017
+  world: world
+  x: 299.4284620213656
+  y: 71.0
+  z: -44.66476863353618
+  yaw: -107.252426
+  pitch: 4.0499716

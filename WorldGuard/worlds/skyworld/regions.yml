@@ -10,6 +10,17 @@
 # REMEMBER TO KEEP PERIODICAL BACKUPS.
 #
 regions:
+    1shadow7island:
+        type: cuboid
+        min: {x: 280.0, y: 0.0, z: -380.0}
+        max: {x: 380.0, y: 255.0, z: -280.0}
+        priority: 100
+        flags: {pvp: deny, farewell: You are leaving a protected island area. (1shadow7),
+            greeting: You are entering a protected island area. (1shadow7), chest-access: deny,
+            use: deny}
+        owners:
+            players: [1shadow7]
+        members: {}
     awsdefrgisland:
         type: cuboid
         min: {x: -160.0, y: 0.0, z: -270.0}

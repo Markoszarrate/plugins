@@ -6,10 +6,10 @@ lastlocation:
   yaw: 103.77295
   pitch: 45.763268
 timestamps:
-  login: 1363291901197
-  logout: 1363292791242
+  login: 1363800676906
+  logout: 1363800679610
   lastteleport: 1363292710544
-ipAddress: 92.22.35.143
+ipAddress: 92.22.54.113
 money: 1500.0
 homes:
   home:
@@ -21,8 +21,8 @@ homes:
     pitch: 45.76327
 logoutlocation:
   world: realm
-  x: 5474.900318575292
+  x: 5476.699999988079
   y: 54.0
-  z: -3120.0589385724948
-  yaw: -218.17252
-  pitch: -53.136005
+  z: -3119.300000011921
+  yaw: -163.49095
+  pitch: 42.095993

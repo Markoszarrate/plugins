@@ -1,23 +1,23 @@
 timestamps:
-  login: 1363549052429
-  lastteleport: 1363549356268
-  logout: 1363549398432
+  login: 1364004707162
+  lastteleport: 1364003246365
+  logout: 1364004877116
 ipAddress: 71.229.127.109
 lastlocation:
-  world: world
-  x: 838.2785604667777
-  y: 55.0
-  z: 1346.0661314057397
-  yaw: 262.41345
-  pitch: -60.45
+  world: Ellesmera
+  x: -1652.081975076689
+  y: 70.0
+  z: -1568.074999988079
+  yaw: 172.35202
+  pitch: -8.4221365E-6
 homes:
   home:
     world: world
-    x: 863.034104419287
+    x: 861.888694824544
     y: 63.0
-    z: 1342.0075811925383
-    yaw: 177.06339
-    pitch: 38.69996
+    z: 1349.6289848612532
+    yaw: 6.6634083
+    pitch: 27.599964
 afk: false
 money: 104332.25674531609
 nickname: PandaAssassin
@@ -25,9 +25,9 @@ ban:
   reason: Temporarily banned from server for 7 days
   timeout: 0
 logoutlocation:
-  world: world
-  x: 862.2814141660929
-  y: 63.00133597911215
-  z: 1340.6937769362703
-  yaw: 108.51338
-  pitch: 45.44996
+  world: bastion
+  x: -28.272464738558945
+  y: 69.38048053162872
+  z: -157.69999998807907
+  yaw: 287.25034
+  pitch: 90.0

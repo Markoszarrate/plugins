@@ -1,13 +1,20 @@
 lastlocation:
-  world: world
-  x: 819.3162428281661
-  y: 71.0
-  z: 1483.699999988079
-  yaw: -182.2248
-  pitch: 45.74993
+  world: bastion
+  x: -52.20404380627932
+  y: 65.0
+  z: -164.26723300370676
+  yaw: -297.74988
+  pitch: 8.99993
 timestamps:
-  login: 1358037176123
-  logout: 1358037409078
-  lastteleport: 1358034712722
+  login: 1363992453230
+  logout: 1363992156221
+  lastteleport: 1363985005089
 ipAddress: 50.150.166.51
 money: 1500.0
+logoutlocation:
+  world: world
+  x: 1178.2614191195762
+  y: 64.0
+  z: -11.057172745762143
+  yaw: -25.799988
+  pitch: 6.300026
