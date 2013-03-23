@@ -1,0 +1,61 @@
+armour:
+- ==: org.bukkit.inventory.ItemStack
+  type: DIAMOND_BOOTS
+  damage: 26
+- ==: org.bukkit.inventory.ItemStack
+  type: DIAMOND_LEGGINGS
+  damage: 26
+- ==: org.bukkit.inventory.ItemStack
+  type: DIAMOND_CHESTPLATE
+  damage: 26
+- ==: org.bukkit.inventory.ItemStack
+  type: DIAMOND_HELMET
+  damage: 26
+inventory:
+- ==: org.bukkit.inventory.ItemStack
+  type: IRON_SWORD
+  damage: 63
+- ==: org.bukkit.inventory.ItemStack
+  type: POTION
+  damage: 8229
+- ==: org.bukkit.inventory.ItemStack
+  type: BOW
+  damage: 320
+- ==: org.bukkit.inventory.ItemStack
+  type: BOW
+  damage: 325
+- ==: org.bukkit.inventory.ItemStack
+  type: BOW
+  damage: 310
+- ==: org.bukkit.inventory.ItemStack
+  type: GLASS_BOTTLE
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
