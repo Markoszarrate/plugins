@@ -55,7 +55,7 @@ dogamemodeswitch: false
 donotifications: true
 domiimport: false
 miimportmode: 0
-dostats: false
+dostats: true
 outputtimertoconsole: true
 saveinterval: 0
 loadinvonlogin: true
@@ -64,3 +64,19 @@ do141import: false
 dovanillaimport: false
 do15import: false
 auto15updated: true
+groups:
+  creativegroup:
+  - bastion
+  survivalgroup:
+  - world
+  - Ellesmera
+  - realm
+  - world_nether
+  - world_the_end
+  survivalgroup2:
+  - IslandWorld
+gamemodes:
+  default: SURVIVAL
+  creativegroup: CREATIVE
+  survivalgroup: SURVIVAL
+  survivalgroup2: SURVIVAL
