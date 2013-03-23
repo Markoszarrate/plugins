@@ -1,0 +1,66 @@
+# A "group" is a collection of worlds which will share an inventory.
+#  In this example there are two groups, a creative and a survival group
+#  Each group has an overworld and a nether, which will share an inventory
+# 
+# groups:
+#    creativegroup:
+#    - creative_overworld
+#    - creative_nether
+#    survivalgroup:
+#    - survival_overworld
+#    - survival_nether
+#    - survival_end
+# 
+# Add a player to the "exempt" collection to make this plugin ignore them completely
+#  No saves, loads or anything else done by this plugin will apply to them until you remove them from the list
+# 
+# exempt:
+#   - exampleplayer
+#   - exampleplayer2
+# 
+# Inventory switching examples
+# Scenarios when the inventory will not switch:
+#  creative_overworld to creative_nether
+#  survival_nether to survival_overworld
+#  survival_end to survival_overworld
+# Scenarios when the inventory will switch:
+#   creative_overworld to survival_end
+#   survival_nether to creative_nether
+# 
+# If "donotifications" is set to false you won't get inventory switching notifications in the console
+# Set "domiimport" to true to make WorldInventories attempt to import MultiInv data
+#  Automatically sets itself to false when an attempt is made
+# Set "miimportmode" to the integer identifier of the mode WI should import from (eg, 0 for MI survival)
+# Set "dostats" to true to make hearts, food level, experience and such track with inventory
+# If a save interval is specified, set "outputtimertoconsole" to false to stop it from outputting to the console
+# Set "saveinterval" to anything above 30 to make inventories/stats save automatically every x seconds
+# Set "loadinvonlogin" to true to make the plugin load the player's inventory on login no matter where they spawn
+# Set "do78import" to true to force a conversion of the pre build 78 files for use in newer versions
+#  Automatically resets itself to false on an attempt
+# Set "do141import" to true to force a conversion of the pre version 1.4.1 files for use in newer versions
+#  Automatically resets itself to false on an attempt
+# When this plugin loads it will automatically try to convert pre build 78 files and add "auto78updated: true" to this file if successful
+# When this plugin loads it will automatically try to convert pre version 1.4.1 files and add "auto141updated: true" to this file if successful
+# Set "dovanillaimport" to true to attempt an import of the items and stats stored in players player.dat file
+#  Set "vanillatogroup" to the group you want to import to. If blank it will use the default group.
+# Set "dogamemodeswitch" to true and add groups to gamemodes as per the example to enforce gamemodes
+#  SURVIVAL, CREATIVE or HARDCORE at the time of writing (follows Bukkit's names)
+# 
+# gamemodes:
+#   default: SURVIVAL
+#   creativegroup: CREATIVE
+#   survivalgroup: SURVIVAL
+
+dogamemodeswitch: false
+donotifications: true
+domiimport: false
+miimportmode: 0
+dostats: false
+outputtimertoconsole: true
+saveinterval: 0
+loadinvonlogin: true
+do78import: false
+do141import: false
+dovanillaimport: false
+do15import: false
+auto15updated: true
