@@ -58,7 +58,7 @@ arenas:
             player-time-in-arena: world
             auto-ignite-tnt: false
             auto-start-timer: 0
-            clear-wave-before-boss: false
+            clear-wave-before-boss: true
             use-class-chests: false
         waves:
             recurrent:
@@ -136,15 +136,15 @@ arenas:
             enabled: true
             protect: true
             entry-fee: ''
-            clear-wave-before-next: false
-            clear-boss-before-next: false
+            clear-wave-before-next: true
+            clear-boss-before-next: true
             lightning: true
             auto-equip-armor: true
             soft-restore: false
             soft-restore-drops: false
             require-empty-inv-join: false
             require-empty-inv-spec: false
-            hellhounds: false
+            hellhounds: true
             pvp-enabled: false
             monster-infight: false
             allow-teleporting: false
@@ -155,10 +155,10 @@ arenas:
             max-players: 0
             max-join-distance: 0
             first-wave-delay: 5
-            wave-interval: 15
+            wave-interval: 25
             final-wave: 0
             monster-limit: 100
-            monster-exp: false
+            monster-exp: true
             keep-exp: true
             food-regen: false
             lock-food-level: true
@@ -176,31 +176,48 @@ arenas:
                     frequency: 1
                     monsters:
                         zombies: 10
-                        skeletons: 10
-                        spiders: 10
-                        creepers: 10
-                        wolves: 10
+                        spiders: 5
+                        creepers: 2
+                        wolves: 4
+                def2:
+                    type: default
+                    priority: 5
+                    frequency: 1
+                    wave: 4
+                    monsters:
+                        zombies: 10
+                        skeletons: 6
+                        exploding_sheep: 5
                 spec1:
                     type: special
-                    priority: 2
+                    priority: 3
                     frequency: 4
                     monsters:
                         powered-creepers: 10
-                        zombie-pigmen: 10
-                        angry-wolves: 10
-                        blazes: 10
+                        zombie-pigmen: 4
+                        angry-wolves: 30
+                        blazes: 4
+                upgrade1:
+                    type: upgrade
+                    priority: 7
+                    frequency: 10
+                    wave: 10
+                    upgrades:
+                        All: potion:8197:4
+                        Archer: arrow:64
+                        Oddjob: tnt:4, netherrack
             single:
                 swarm1:
                     type: swarm
                     wave: 6
                     monster: slime
-                    amount: low
+                    amount: medium
                 boss1:
                     type: boss
                     wave: 10
-                    monster: cave_spider
+                    monster: wolf
                     health: high
-                    abilities: arrows, root-target, throw-nearby
+                    abilities: arrows, fire-aura, throw-nearby
         rewards:
             waves:
                 every:
