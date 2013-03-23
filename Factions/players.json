@@ -43,10 +43,20 @@
     "factionId": "0",
     "role": "NORMAL",
     "title": "",
-    "power": -0.8409366666666664,
+    "power": -8.523286666666667,
     "powerBoost": 0.0,
-    "lastPowerUpdateTime": 1364002966993,
-    "lastLoginTime": 1364002966993,
+    "lastPowerUpdateTime": 1364057968996,
+    "lastLoginTime": 1364057968996,
+    "chatMode": "PUBLIC"
+  },
+  "sunseeds": {
+    "factionId": "0",
+    "role": "NORMAL",
+    "title": "",
+    "power": 1.1533266666666668,
+    "powerBoost": 0.0,
+    "lastPowerUpdateTime": 1364053906743,
+    "lastLoginTime": 1364053906743,
     "chatMode": "PUBLIC"
   },
   "nadija10": {
@@ -89,6 +99,16 @@
     "lastLoginTime": 1364004651237,
     "chatMode": "PUBLIC"
   },
+  "Str4tic": {
+    "factionId": "0",
+    "role": "NORMAL",
+    "title": "",
+    "power": 2.1921833333333334,
+    "powerBoost": 0.0,
+    "lastPowerUpdateTime": 1364060085615,
+    "lastLoginTime": 1364060085615,
+    "chatMode": "PUBLIC"
+  },
   "1shadow7": {
     "factionId": "0",
     "role": "NORMAL",
@@ -107,6 +127,16 @@
     "powerBoost": 0.0,
     "lastPowerUpdateTime": 1363297450496,
     "lastLoginTime": 1363297450496,
+    "chatMode": "PUBLIC"
+  },
+  "monkeypuddles": {
+    "factionId": "0",
+    "role": "NORMAL",
+    "title": "",
+    "power": 7.033136666666666,
+    "powerBoost": 0.0,
+    "lastPowerUpdateTime": 1364060320573,
+    "lastLoginTime": 1364060320573,
     "chatMode": "PUBLIC"
   },
   "deathstar9000": {
@@ -143,10 +173,10 @@
     "factionId": "0",
     "role": "NORMAL",
     "title": "",
-    "power": 7.661610000000001,
+    "power": 1.5789800000000003,
     "powerBoost": 0.0,
-    "lastPowerUpdateTime": 1363992486697,
-    "lastLoginTime": 1363992460661,
+    "lastPowerUpdateTime": 1364059062233,
+    "lastLoginTime": 1364059062233,
     "chatMode": "PUBLIC"
   },
   "Megamew2": {
@@ -189,16 +219,6 @@
     "lastLoginTime": 1363535568699,
     "chatMode": "PUBLIC"
   },
-  "herschyboy72": {
-    "factionId": "0",
-    "role": "NORMAL",
-    "title": "",
-    "power": -4.602863333333333,
-    "powerBoost": 0.0,
-    "lastPowerUpdateTime": 1363187936263,
-    "lastLoginTime": 1363187936263,
-    "chatMode": "PUBLIC"
-  },
   "lmd2304": {
     "factionId": "0",
     "role": "NORMAL",
@@ -235,8 +255,8 @@
     "title": "",
     "power": 10.0,
     "powerBoost": 0.0,
-    "lastPowerUpdateTime": 1363484472598,
-    "lastLoginTime": 1363484472598,
+    "lastPowerUpdateTime": 1364049196898,
+    "lastLoginTime": 1364049196898,
     "chatMode": "PUBLIC"
   },
   "boomdoom14": {
@@ -253,20 +273,30 @@
     "factionId": "0",
     "role": "NORMAL",
     "title": "",
-    "power": -8.852556666666667,
+    "power": 2.1887333333333334,
     "powerBoost": 0.0,
-    "lastPowerUpdateTime": 1364002969470,
-    "lastLoginTime": 1364002969470,
+    "lastPowerUpdateTime": 1364051898788,
+    "lastLoginTime": 1364051898788,
+    "chatMode": "PUBLIC"
+  },
+  "wisepanda": {
+    "factionId": "0",
+    "role": "NORMAL",
+    "title": "",
+    "power": 0.7873533333333343,
+    "powerBoost": 0.0,
+    "lastPowerUpdateTime": 1364060348755,
+    "lastLoginTime": 1364060348755,
     "chatMode": "PUBLIC"
   },
   "shreader226": {
     "factionId": "0",
     "role": "NORMAL",
     "title": "",
-    "power": -9.871696666666667,
+    "power": -6.40859,
     "powerBoost": 0.0,
-    "lastPowerUpdateTime": 1363991477579,
-    "lastLoginTime": 1363991477579,
+    "lastPowerUpdateTime": 1364058241387,
+    "lastLoginTime": 1364058241387,
     "chatMode": "PUBLIC"
   },
   "thewmatt": {
@@ -287,6 +317,16 @@
     "powerBoost": 0.0,
     "lastPowerUpdateTime": 1363900240787,
     "lastLoginTime": 1363900240787,
+    "chatMode": "PUBLIC"
+  },
+  "Zulpherkit": {
+    "factionId": "0",
+    "role": "NORMAL",
+    "title": "",
+    "power": -3.0808833333333334,
+    "powerBoost": 0.0,
+    "lastPowerUpdateTime": 1364015927700,
+    "lastLoginTime": 1364015927700,
     "chatMode": "PUBLIC"
   }
 }

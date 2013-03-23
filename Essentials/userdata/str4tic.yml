@@ -1,15 +1,15 @@
 timestamps:
-  login: 1362757944042
-  lastteleport: 1360415150057
-  logout: 1362757987302
-ipAddress: 122.179.89.90
+  login: 1364059428070
+  lastteleport: 1364060069067
+  logout: 1364060084219
+ipAddress: 122.172.187.212
 lastlocation:
-  world: Archive
-  x: 244.3559497480184
-  y: 62.0
-  z: 81.87356688898458
-  yaw: -350.09677
-  pitch: 7.9500155
+  world: arena
+  x: 37.73328252783329
+  y: 35.62709259735153
+  z: 66.3670974403222
+  yaw: -88.674805
+  pitch: 19.34992
 homes:
   home:
     world: Archive
@@ -23,8 +23,8 @@ money: 2201.75
 godmode: false
 logoutlocation:
   world: Archive
-  x: 217.7429109155895
+  x: 232.156515973182
   y: 62.0
-  z: 81.05256459815881
-  yaw: -128.99554
-  pitch: 15.750029
+  z: 71.99943329238796
+  yaw: -188.24544
+  pitch: 30.300014

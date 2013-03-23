@@ -111,8 +111,8 @@ arenas:
             Tank: -1
             Knight: -1
         coords:
-            p1: -9,30,-2098,211.19672,57.59999
-            p2: 1064,82,-109,41.54674,62.699997
+            p1: 20,58,-109,223.9552,89.55014
+            p2: 1064,82,70,41.54674,62.699997
             lobby: 926,64,-2052,95.6981,1.5000243
             spectator: 946,65,-2057,267.4487,1.500047
             arena: 1025,65,-2067,94.34878,6.4500766
@@ -331,3 +331,106 @@ arenas:
                 s6: 16,63,-98,-183.90356,67.65001
                 s7: 34,63,-80,-92.10315,47.4
                 s8: 15,63,-64,-0.30371094,54.449993
+    haunted:
+        settings:
+            world: arena
+            enabled: true
+            protect: true
+            entry-fee: ''
+            clear-wave-before-next: false
+            clear-boss-before-next: false
+            clear-wave-before-boss: false
+            lightning: true
+            auto-equip-armor: true
+            soft-restore: false
+            soft-restore-drops: false
+            require-empty-inv-join: false
+            require-empty-inv-spec: false
+            hellhounds: false
+            pvp-enabled: false
+            monster-infight: false
+            allow-teleporting: false
+            spectate-on-death: true
+            auto-respawn: true
+            share-items-in-arena: true
+            min-players: 0
+            max-players: 0
+            max-join-distance: 0
+            first-wave-delay: 5
+            wave-interval: 15
+            final-wave: 0
+            monster-limit: 100
+            monster-exp: false
+            keep-exp: true
+            food-regen: false
+            lock-food-level: true
+            spout-class-select: false
+            player-time-in-arena: world
+            auto-ignite-tnt: false
+            auto-start-timer: 0
+            use-class-chests: false
+        waves:
+            recurrent:
+                def1:
+                    type: default
+                    priority: 1
+                    frequency: 1
+                    monsters:
+                        zombies: 10
+                        skeletons: 10
+                        spiders: 10
+                        creepers: 10
+                        wolves: 10
+                spec1:
+                    type: special
+                    priority: 2
+                    frequency: 4
+                    monsters:
+                        powered-creepers: 10
+                        zombie-pigmen: 10
+                        angry-wolves: 10
+                        blazes: 10
+            single:
+                swarm1:
+                    type: swarm
+                    wave: 6
+                    monster: slime
+                    amount: low
+                boss1:
+                    type: boss
+                    wave: 10
+                    monster: cave_spider
+                    health: high
+                    abilities: arrows, root-target, throw-nearby
+        rewards:
+            waves:
+                every:
+                    '3': feather, bone, stick
+                    '5': dirt:4, gravel:4, stone:4
+                    '10': iron_ingot:10, gold_ingot:8
+                after:
+                    '7': minecart, storage_minecart, powered_minecart
+                    '13': iron_sword, iron_pickaxe, iron_spade
+                    '16': diamond_sword
+        class-limits:
+            Archer: -1
+            Oddjob: -1
+            Chemist: -1
+            Tank: -1
+            Knight: -1
+        coords:
+            p1: 20,31,31,223.9552,89.55014
+            p2: 64,58,66,36.905254,90.0
+            lobby: 44,55,51,-91.19653,19.500061
+            spectator: 42,55,40,-8.847046,59.400055
+            arena: 44,32,49,-271.04993,10.349937
+            containers:
+                con1: 49,36,46,0.0,0.0
+                con2: 44,36,44,0.0,0.0
+            spawnpoints:
+                h1: 57,32,57,-174.00952,37.499947
+                h2: 43,32,64,-255.46289,54.599964
+                h3: 26,32,54,-188.71313,51.749992
+                h4: 35,32,36,-67.81201,41.400032
+                h5: 51,32,37,-86.11267,39.600048
+                h6: 34,39,48,-85.059814,59.100033
