@@ -1,7 +1,7 @@
 timestamps:
-  login: 1364059062414
+  login: 1364068108128
   lastteleport: 1364059252202
-  logout: 1364059057149
+  logout: 1364068319927
 ipAddress: 71.229.127.109
 lastlocation:
   world: arena
@@ -25,8 +25,8 @@ ban:
   timeout: 0
 logoutlocation:
   world: bastion
-  x: -44.98532231188125
-  y: 72.3956711426074
-  z: -174.84076696731069
-  yaw: -246.15042
-  pitch: 12.900012
+  x: -45.48425814033007
+  y: 84.35385836744572
+  z: -193.30439160105135
+  yaw: 130.4997
+  pitch: 89.1

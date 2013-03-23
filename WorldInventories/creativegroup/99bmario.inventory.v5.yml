@@ -1,0 +1,62 @@
+armour:
+- ==: org.bukkit.inventory.ItemStack
+  type: AIR
+  damage: -1
+  amount: 0
+- ==: org.bukkit.inventory.ItemStack
+  type: AIR
+  damage: -1
+  amount: 0
+- ==: org.bukkit.inventory.ItemStack
+  type: AIR
+  damage: -1
+  amount: 0
+- ==: org.bukkit.inventory.ItemStack
+  type: AIR
+  damage: -1
+  amount: 0
+inventory:
+- ==: org.bukkit.inventory.ItemStack
+  type: PISTON_STICKY_BASE
+- ==: org.bukkit.inventory.ItemStack
+  type: PISTON_BASE
+- ==: org.bukkit.inventory.ItemStack
+  type: REDSTONE
+- ==: org.bukkit.inventory.ItemStack
+  type: DIODE
+- ==: org.bukkit.inventory.ItemStack
+  type: LAVA_BUCKET
+- ==: org.bukkit.inventory.ItemStack
+  type: WATER_BUCKET
+- ==: org.bukkit.inventory.ItemStack
+  type: REDSTONE_TORCH_ON
+- ==: org.bukkit.inventory.ItemStack
+  type: COBBLESTONE
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null

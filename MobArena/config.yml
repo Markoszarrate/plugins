@@ -7,13 +7,13 @@ global-settings:
     update-notification: true
 classes:
     Knight:
-        items: diamond_sword, potion:8197:3
+        items: diamond_sword, potion:8197:4
         armor: 306,307,308,309
     Tank:
-        items: iron_sword, potion:8229:2
+        items: iron_sword, potion:8229:3
         armor: 310,311,312,313
     Archer:
-        items: wood_sword, bow, arrow:256, potion:8197:3, bone
+        items: wood_sword, bow, arrow:256, potion:8197:3, bone:2
         armor: 298,299,300,301
     Chemist:
         items: stone_sword, potion:16428:30, potion:16388:8, potion:16389:20, potion:8197:3, potion:8226:1
@@ -221,13 +221,13 @@ arenas:
         rewards:
             waves:
                 every:
-                    '3': feather, bone, stick
-                    '5': dirt:4, gravel:4, stone:4
+                    '3': iron_sword, gold_ingot, iron_spade
+                    '5': gold_ingot:4, diamond_spade
                     '10': iron_ingot:10, gold_ingot:8
                 after:
                     '7': minecart, storage_minecart, powered_minecart
-                    '13': iron_sword, iron_pickaxe, iron_spade
-                    '16': diamond_sword
+                    '13': diamond_sword, diamond_spade,
+                    '16': diamond:9
         class-limits:
             Archer: -1
             Oddjob: -1
@@ -253,17 +253,17 @@ arenas:
             protect: true
             entry-fee: ''
             clear-wave-before-next: false
-            clear-boss-before-next: false
-            clear-wave-before-boss: false
+            clear-boss-before-next: true
+            clear-wave-before-boss: true
             lightning: true
             auto-equip-armor: true
             soft-restore: false
             soft-restore-drops: false
             require-empty-inv-join: false
             require-empty-inv-spec: false
-            hellhounds: false
+            hellhounds: true
             pvp-enabled: false
-            monster-infight: false
+            monster-infight: true
             allow-teleporting: false
             spectate-on-death: true
             auto-respawn: true
@@ -275,7 +275,7 @@ arenas:
             wave-interval: 15
             final-wave: 0
             monster-limit: 100
-            monster-exp: false
+            monster-exp: true
             keep-exp: true
             food-regen: false
             lock-food-level: true
@@ -293,7 +293,6 @@ arenas:
                     monsters:
                         zombies: 10
                         skeletons: 10
-                        spiders: 10
                         creepers: 10
                         wolves: 10
                 spec1:
@@ -302,29 +301,30 @@ arenas:
                     frequency: 4
                     monsters:
                         powered-creepers: 10
-                        zombie-pigmen: 10
-                        angry-wolves: 10
-                        blazes: 10
+                        zombie-pigmen: 5
+                        angry-wolves: 30
+                        blazes: 5
             single:
                 swarm1:
                     type: swarm
-                    wave: 6
-                    monster: slime
-                    amount: low
+                    wave: 5
+                    monster: angry-wolves
+                    amount: high
                 boss1:
                     type: boss
                     wave: 10
-                    monster: cave_spider
+                    monster: blaze
                     health: high
                     abilities: arrows, root-target, throw-nearby
         rewards:
             waves:
                 every:
-                    '3': feather, bone, stick
-                    '5': dirt:4, gravel:4, stone:4
-                    '10': iron_ingot:10, gold_ingot:8
+                    '3': iron_ingot, iron_sword
+                    '5': iron_ingot:2, gold_spade
+                    '10': iron_ingot:10, gold_ingot:8, diamond:3
                 after:
                     '7': minecart, storage_minecart, powered_minecart
+                    '11': diamond:9, gold_block:3, iron_block:9
                     '13': iron_sword, iron_pickaxe, iron_spade
                     '16': diamond_sword
         class-limits:
@@ -355,17 +355,17 @@ arenas:
             protect: true
             entry-fee: ''
             clear-wave-before-next: false
-            clear-boss-before-next: false
-            clear-wave-before-boss: false
+            clear-boss-before-next: true
+            clear-wave-before-boss: true
             lightning: true
             auto-equip-armor: true
             soft-restore: false
             soft-restore-drops: false
             require-empty-inv-join: false
             require-empty-inv-spec: false
-            hellhounds: false
+            hellhounds: true
             pvp-enabled: false
-            monster-infight: false
+            monster-infight: true
             allow-teleporting: false
             spectate-on-death: true
             auto-respawn: true
@@ -373,11 +373,11 @@ arenas:
             min-players: 0
             max-players: 0
             max-join-distance: 0
-            first-wave-delay: 5
-            wave-interval: 15
+            first-wave-delay: 60
+            wave-interval: 60
             final-wave: 0
             monster-limit: 100
-            monster-exp: false
+            monster-exp: true
             keep-exp: true
             food-regen: false
             lock-food-level: true
@@ -422,12 +422,12 @@ arenas:
         rewards:
             waves:
                 every:
-                    '3': feather, bone, stick
-                    '5': dirt:4, gravel:4, stone:4
-                    '10': iron_ingot:10, gold_ingot:8
+                    '3': gold_ingot:1, iron_ingot:2
+                    '5': iron_sword, gold_sword
+                    '10': iron_ingot:10, gold_ingot:8, diamond:2
                 after:
-                    '7': minecart, storage_minecart, powered_minecart
-                    '13': iron_sword, iron_pickaxe, iron_spade
+                    '7': minecart, storage_minecart, powered_minecart, gold_block:2
+                    '13': iron_sword, iron_pickaxe, iron_spade, diamond:9
                     '16': diamond_sword
         class-limits:
             Archer: -1
