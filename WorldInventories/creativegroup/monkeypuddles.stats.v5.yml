@@ -2,6 +2,6 @@ health: 20
 foodlevel: 20
 exhaustion: 0.0
 saturation: 0.0
-level: 32
-exp: 0.105263345
+level: 0
+exp: 0.0
 potioneffects: []

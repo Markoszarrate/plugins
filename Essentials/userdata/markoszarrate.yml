@@ -1,26 +1,19 @@
 timestamps:
-  login: 1363821425044
-  lastteleport: 1363821496330
+  login: 1364073092070
+  lastteleport: 1364073696887
   lastheal: 1356058326757
-  logout: 1363821500209
+  logout: 1364073951717
   mute: 0
   jail: 0
 ipAddress: 200.26.183.34
 lastlocation:
-  world: world_nether
-  x: 25.999726015863246
-  y: 73.46440920527127
-  z: -30.658437922733363
-  yaw: 3.8975348
-  pitch: 14.24998
+  world: world
+  x: 302.0802740204249
+  y: 71.5
+  z: -45.00068263993479
+  yaw: 185.24953
+  pitch: 17.699993
 homes:
-  home:
-    world: world
-    x: 303.88825042101206
-    y: 71.0
-    z: -42.71614351638112
-    yaw: -204.15248
-    pitch: 23.54997
   mooshroom:
     world: Ellesmera
     x: -437.2000113859279
@@ -70,6 +63,13 @@ homes:
     z: -61.67587298047734
     yaw: 271.33182
     pitch: 56.70006
+  home:
+    world: world
+    x: 301.97485878049474
+    y: 71.0
+    z: -42.48458189422629
+    yaw: 185.24953
+    pitch: 17.699993
 muted: false
 afk: false
 money: 2052839.8843461936
@@ -91,8 +91,8 @@ jailed: false
 nickname: §5Markoszarrate
 logoutlocation:
   world: world
-  x: 299.4284620213656
-  y: 71.0
-  z: -44.66476863353618
-  yaw: -107.252426
-  pitch: 4.0499716
+  x: 304.00403351247036
+  y: 76.0
+  z: -47.081810825819566
+  yaw: 44.399475
+  pitch: 7.6499667

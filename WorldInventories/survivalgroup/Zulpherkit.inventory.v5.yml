@@ -17,21 +17,23 @@ armour:
   amount: 0
 inventory:
 - ==: org.bukkit.inventory.ItemStack
-  type: SKULL_ITEM
+  type: SIGN
 - ==: org.bukkit.inventory.ItemStack
-  type: SKULL_ITEM
-  damage: 1
+  type: GLOWSTONE_DUST
+  amount: 31
 - ==: org.bukkit.inventory.ItemStack
-  type: SKULL_ITEM
-  damage: 2
+  type: SANDSTONE
+  amount: 11
 - ==: org.bukkit.inventory.ItemStack
-  type: SKULL_ITEM
-  damage: 3
+  type: SAND
+  amount: 17
 - ==: org.bukkit.inventory.ItemStack
-  type: SKULL_ITEM
-  damage: 4
-- null
-- null
+  type: SULPHUR
+- ==: org.bukkit.inventory.ItemStack
+  type: ARROW
+  amount: 2
+- ==: org.bukkit.inventory.ItemStack
+  type: BONE
 - null
 - null
 - null

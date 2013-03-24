@@ -1,14 +1,14 @@
 lastlocation:
-  world: arena
-  x: 44.43499857909521
-  y: 55.0
-  z: 52.136425837325284
-  yaw: -246.63974
-  pitch: -2.6183376
+  world: world
+  x: 880.6472154128132
+  y: 61.0
+  z: 1349.300000011921
+  yaw: 150.74918
+  pitch: 85.08479
 timestamps:
-  login: 1364067630805
-  logout: 1364059062229
-  lastteleport: 1364059004172
+  login: 1364073562534
+  logout: 1364073946626
+  lastteleport: 1364073478177
 ipAddress: 92.20.87.215
 homes:
   home:
@@ -19,9 +19,9 @@ homes:
     yaw: -104.87906
     pitch: 26.102446
 logoutlocation:
-  world: bastion
-  x: -85.78241467242425
-  y: 96.38549335568283
-  z: 9.676461947122272
-  yaw: -120.71664
-  pitch: 43.773617
+  world: arena
+  x: 17.83922910660562
+  y: 32.0
+  z: -375.5125395559849
+  yaw: 254.04222
+  pitch: 17.500795

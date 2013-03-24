@@ -1,6 +1,7 @@
 health: 20
-foodlevel: 20
-exhaustion: 0.0
+foodlevel: 19
+exhaustion: 0.90792644
 saturation: 0.0
-level: 0
-exp: 0.0
+level: 7
+exp: 0.88235325
+potioneffects: []

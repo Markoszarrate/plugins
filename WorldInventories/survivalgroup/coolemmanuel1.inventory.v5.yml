@@ -17,19 +17,12 @@ armour:
   amount: 0
 inventory:
 - ==: org.bukkit.inventory.ItemStack
-  type: SKULL_ITEM
-- ==: org.bukkit.inventory.ItemStack
-  type: SKULL_ITEM
-  damage: 1
-- ==: org.bukkit.inventory.ItemStack
-  type: SKULL_ITEM
-  damage: 2
-- ==: org.bukkit.inventory.ItemStack
-  type: SKULL_ITEM
-  damage: 3
-- ==: org.bukkit.inventory.ItemStack
-  type: SKULL_ITEM
-  damage: 4
+  type: DIRT
+  amount: 9
+- null
+- null
+- null
+- null
 - null
 - null
 - null

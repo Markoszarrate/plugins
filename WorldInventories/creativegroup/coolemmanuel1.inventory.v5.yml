@@ -1,21 +1,118 @@
 armour:
 - ==: org.bukkit.inventory.ItemStack
-  type: AIR
-  damage: -1
-  amount: 0
+  type: DIAMOND_BOOTS
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    enchants:
+      PROTECTION_FALL: 4
+    repair-cost: 2
 - ==: org.bukkit.inventory.ItemStack
-  type: AIR
-  damage: -1
-  amount: 0
+  type: DIAMOND_LEGGINGS
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    enchants:
+      DURABILITY: 3
+    repair-cost: 2
 - ==: org.bukkit.inventory.ItemStack
-  type: AIR
-  damage: -1
-  amount: 0
+  type: DIAMOND_CHESTPLATE
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    enchants:
+      PROTECTION_FIRE: 4
+      THORNS: 3
+    repair-cost: 4
 - ==: org.bukkit.inventory.ItemStack
-  type: AIR
-  damage: -1
-  amount: 0
+  type: DIAMOND_HELMET
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    enchants:
+      DURABILITY: 3
+      PROTECTION_FIRE: 4
+    repair-cost: 4
 inventory:
+- ==: org.bukkit.inventory.ItemStack
+  type: DIAMOND_SWORD
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    enchants:
+      DAMAGE_UNDEAD: 4
+      FIRE_ASPECT: 2
+      KNOCKBACK: 2
+    repair-cost: 6
+- ==: org.bukkit.inventory.ItemStack
+  type: DIAMOND_PICKAXE
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    enchants:
+      DIG_SPEED: 4
+      LOOT_BONUS_BLOCKS: 3
+    repair-cost: 4
+- ==: org.bukkit.inventory.ItemStack
+  type: DIAMOND_SPADE
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    enchants:
+      DURABILITY: 3
+    repair-cost: 2
+- ==: org.bukkit.inventory.ItemStack
+  type: DIAMOND_AXE
+- ==: org.bukkit.inventory.ItemStack
+  type: GOLD_BLOCK
+- ==: org.bukkit.inventory.ItemStack
+  type: ENCHANTED_BOOK
+  meta:
+    ==: ItemMeta
+    meta-type: ENCHANTED
+    stored-enchants:
+      ARROW_DAMAGE: 5
+- ==: org.bukkit.inventory.ItemStack
+  type: ENCHANTED_BOOK
+  meta:
+    ==: ItemMeta
+    meta-type: ENCHANTED
+    stored-enchants:
+      PROTECTION_FALL: 4
+- ==: org.bukkit.inventory.ItemStack
+  type: ENCHANTED_BOOK
+  meta:
+    ==: ItemMeta
+    meta-type: ENCHANTED
+    stored-enchants:
+      DURABILITY: 3
+- ==: org.bukkit.inventory.ItemStack
+  type: ENCHANTED_BOOK
+  meta:
+    ==: ItemMeta
+    meta-type: ENCHANTED
+    stored-enchants:
+      DAMAGE_UNDEAD: 5
+- null
+- null
+- null
+- null
+- ==: org.bukkit.inventory.ItemStack
+  type: ARROW
+- null
+- null
+- null
+- null
+- ==: org.bukkit.inventory.ItemStack
+  type: BOW
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    enchants:
+      ARROW_INFINITE: 1
+      ARROW_FIRE: 1
+      ARROW_DAMAGE: 5
+    repair-cost: 6
 - null
 - null
 - null
@@ -25,30 +122,20 @@ inventory:
 - null
 - null
 - null
+- ==: org.bukkit.inventory.ItemStack
+  type: WATER_BUCKET
+- ==: org.bukkit.inventory.ItemStack
+  type: BUCKET
 - null
 - null
 - null
 - null
-- null
-- null
-- null
-- null
-- null
-- null
-- null
-- null
-- null
-- null
-- null
-- null
-- null
-- null
-- null
-- null
-- null
-- null
-- null
-- null
-- null
-- null
-- null
+- ==: org.bukkit.inventory.ItemStack
+  type: ENCHANTED_BOOK
+  meta:
+    ==: ItemMeta
+    meta-type: ENCHANTED
+    stored-enchants:
+      THORNS: 2
+- ==: org.bukkit.inventory.ItemStack
+  type: ANVIL

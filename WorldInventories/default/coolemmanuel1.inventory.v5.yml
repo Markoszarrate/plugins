@@ -1,0 +1,63 @@
+armour:
+- ==: org.bukkit.inventory.ItemStack
+  type: AIR
+  damage: -1
+  amount: 0
+- ==: org.bukkit.inventory.ItemStack
+  type: AIR
+  damage: -1
+  amount: 0
+- ==: org.bukkit.inventory.ItemStack
+  type: AIR
+  damage: -1
+  amount: 0
+- ==: org.bukkit.inventory.ItemStack
+  type: AIR
+  damage: -1
+  amount: 0
+inventory:
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- ==: org.bukkit.inventory.ItemStack
+  type: IRON_SWORD
+- ==: org.bukkit.inventory.ItemStack
+  type: IRON_SWORD
+- ==: org.bukkit.inventory.ItemStack
+  type: MINECART
+- ==: org.bukkit.inventory.ItemStack
+  type: SANDSTONE
+  damage: 1
+- ==: org.bukkit.inventory.ItemStack
+  type: IRON_INGOT
+  amount: 2
+- ==: org.bukkit.inventory.ItemStack
+  type: GOLD_INGOT
+  amount: 10
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null

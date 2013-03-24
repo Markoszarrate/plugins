@@ -215,3 +215,5 @@ groups:
     - -plotme.user
     - plotme.user
     - plotme.use
+    - essentials.delhome
+    - essentials.delhome.others

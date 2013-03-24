@@ -1,10 +1,19 @@
 armour:
-- null
-- null
-- null
-- null
+- ==: org.bukkit.inventory.ItemStack
+  type: DIAMOND_BOOTS
+  damage: 26
+- ==: org.bukkit.inventory.ItemStack
+  type: DIAMOND_LEGGINGS
+  damage: 26
+- ==: org.bukkit.inventory.ItemStack
+  type: DIAMOND_CHESTPLATE
+  damage: 26
+- ==: org.bukkit.inventory.ItemStack
+  type: DIAMOND_HELMET
+  damage: 26
 inventory:
-- null
+- ==: org.bukkit.inventory.ItemStack
+  type: SMOOTH_BRICK
 - null
 - null
 - null

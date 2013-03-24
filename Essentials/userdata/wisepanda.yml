@@ -1,15 +1,15 @@
 timestamps:
-  login: 1364068108128
-  lastteleport: 1364059252202
-  logout: 1364068319927
+  login: 1364077204309
+  lastteleport: 1364077408374
+  logout: 1364077437638
 ipAddress: 71.229.127.109
 lastlocation:
-  world: arena
-  x: 42.134821610699085
-  y: 55.0
-  z: 40.92997942934879
-  yaw: -129.74704
-  pitch: 29.25006
+  world: bastion
+  x: -14.15317104705796
+  y: 67.0
+  z: -154.7612662052352
+  yaw: -183.6
+  pitch: 27.9
 homes:
   home:
     world: world
@@ -24,9 +24,9 @@ ban:
   reason: Temporarily banned from server for 7 days
   timeout: 0
 logoutlocation:
-  world: bastion
-  x: -45.48425814033007
-  y: 84.35385836744572
-  z: -193.30439160105135
-  yaw: 130.4997
-  pitch: 89.1
+  world: world
+  x: 861.5
+  y: 63.0
+  z: 1349.5
+  yaw: 6.6634083
+  pitch: 27.599964
